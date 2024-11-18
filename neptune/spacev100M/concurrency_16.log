@@ -1,0 +1,20 @@
+Parsing query file...
+Executing queries in parallel...
+QPS: 95.61
+Average latency: 166396.78 µs
+P95 latency: 199271.37 µs
+Variance: 7808711672.57 µs^2
+Max latency: 3666037.94 µs
+Min latency: 104372.77 µs
+Calculating recall...
+Recall: 98.45%
+Parsing query file...
+Executing queries in parallel...
+QPS: 95.87
+Average latency: 165450.31 µs
+P95 latency: 197782.90 µs
+Variance: 1695177410.40 µs^2
+Max latency: 3196038.48 µs
+Min latency: 103027.25 µs
+Calculating recall...
+Recall: 98.45%

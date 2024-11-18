@@ -1,0 +1,2 @@
+use graph g1
+run loading job l1 using file1 = "m8:/home/graphsql/dataset/deep/deep1000M_base.csv"

@@ -1,0 +1,8 @@
+create vertex v1(primary_id id int) with embedding ATTRIBUTE embAttr1(dimension=96, metric=L2)
+create graph g1(*)
+
+create loading job l1 {
+  DEFINE FILENAME file1;
+
+  LOAD file1 TO EMBEDDING ATTRIBUTE embAttr1 ON VERTEX v1 VALUES ($0, SPLIT($1, ":")) USING SEPARATOR=",";
+}
