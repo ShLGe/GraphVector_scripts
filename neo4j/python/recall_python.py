@@ -115,7 +115,7 @@ def main(k=10, ef_search=32, uri="bolt://localhost:7687", username="neo4j", pass
 
 if __name__ == "__main__":
     for ef in range(10, 20, 10):
-        main(10, ef, uri="bolt://localhost:7687", username="neo4j", password="lsgneo4j123")
+        main(10, ef, uri="bolt://localhost:7687", username="neo4j", password="")
         
     print("ef list is ")
     print(ef_list)

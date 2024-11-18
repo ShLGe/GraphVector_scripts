@@ -142,7 +142,7 @@ def main(k=10, ef_search=32, username="neo4j", password="password"):
 
 if __name__ == "__main__":
     for ef in range(10, 20, 10):            
-        main(10, ef, username="neo4j", password="lsgneo4j123")
+        main(10, ef, username="neo4j", password="")
         
     print("EF list is ")
     print(ef_list)

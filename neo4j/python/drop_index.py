@@ -3,7 +3,7 @@ from neo4j import GraphDatabase
 # Replace with your Neo4j connection details
 uri = "bolt://localhost:7687"
 username = "neo4j"
-password = "lsgneo4j123"
+password = ""
 
 def drop_vector_index():
     driver = GraphDatabase.driver(uri, auth=(username, password))

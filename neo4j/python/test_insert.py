@@ -22,7 +22,7 @@ if __name__ == "__main__":
     # Replace with your Neo4j credentials
     uri = "bolt://localhost:7687"
     user = "neo4j"
-    password = "lsgneo4j123"
+    password = ""
 
     # Create a database connection
     db = Neo4jDatabase(uri, user, password)

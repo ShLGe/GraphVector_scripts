@@ -3,7 +3,7 @@ from neo4j import GraphDatabase
 # Replace with your Neo4j connection details
 uri = "bolt://localhost:7687"
 username = "neo4j"
-password = "lsgneo4j123"
+password = ""
 
 # Function to get node labels and their counts
 def get_node_counts(uri, username, password):
