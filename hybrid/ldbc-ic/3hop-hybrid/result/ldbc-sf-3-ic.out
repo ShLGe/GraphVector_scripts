@@ -1,0 +1,5810 @@
+ic 3
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "S": [
+        {
+          "v_id": "6597069772014",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069772014,
+            "personFirstName": "Ching",
+            "personLastName": "Nguyen",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069788609",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069788609,
+            "personFirstName": "Claude",
+            "personLastName": "Mangalaza",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "8796093045111",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 8796093045111,
+            "personFirstName": "Aleksej",
+            "personLastName": "Hleb",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 6
+    },
+    {
+      "M": [
+        {
+          "v_id": "3298540409090",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298540409090,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298541003900",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298541003900,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "3573421437971",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573421437971,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "4123178413428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123178413428,
+            "messageContent": "fine"
+          }
+        },
+        {
+          "v_id": "4123169557749",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123169557749,
+            "messageContent": "About America the Beautiful, a the Beautiful. The song is one of the most beloved andAbout Burnt Weeny Sandwich"
+          }
+        },
+        {
+          "v_id": "4672928989428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672928989428,
+            "messageContent": "About B.B. King,  stage name B.B. King, is an American About Paul McCartney"
+          }
+        },
+        {
+          "v_id": "4672938065188",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672938065188,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4398060843004",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398060843004,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "4398048749740",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398048749740,
+            "messageContent": "About Augustine of Hippo, relius Augustinus Hipponensis; November 13, 354 – August About Saddam Hussein, pable o"
+          }
+        },
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.793s
+user	0m1.303s
+sys	0m0.207s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "S": [
+        {
+          "v_id": "6597069772014",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069772014,
+            "personFirstName": "Ching",
+            "personLastName": "Nguyen",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069788609",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069788609,
+            "personFirstName": "Claude",
+            "personLastName": "Mangalaza",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "8796093045111",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 8796093045111,
+            "personFirstName": "Aleksej",
+            "personLastName": "Hleb",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 6
+    },
+    {
+      "M": [
+        {
+          "v_id": "4123169557749",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123169557749,
+            "messageContent": "About America the Beautiful, a the Beautiful. The song is one of the most beloved andAbout Burnt Weeny Sandwich"
+          }
+        },
+        {
+          "v_id": "4672928989428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672928989428,
+            "messageContent": "About B.B. King,  stage name B.B. King, is an American About Paul McCartney"
+          }
+        },
+        {
+          "v_id": "4398048749740",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398048749740,
+            "messageContent": "About Augustine of Hippo, relius Augustinus Hipponensis; November 13, 354 – August About Saddam Hussein, pable o"
+          }
+        },
+        {
+          "v_id": "4672938065188",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672938065188,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4123178413428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123178413428,
+            "messageContent": "fine"
+          }
+        },
+        {
+          "v_id": "3573421437971",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573421437971,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "4398060843004",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398060843004,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298540409090",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298540409090,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298541003900",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298541003900,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.797s
+user	0m1.364s
+sys	0m0.186s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "S": [
+        {
+          "v_id": "6597069772014",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069772014,
+            "personFirstName": "Ching",
+            "personLastName": "Nguyen",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069788609",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069788609,
+            "personFirstName": "Claude",
+            "personLastName": "Mangalaza",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "8796093045111",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 8796093045111,
+            "personFirstName": "Aleksej",
+            "personLastName": "Hleb",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 6
+    },
+    {
+      "M": [
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        },
+        {
+          "v_id": "3298540409090",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298540409090,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298541003900",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298541003900,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4123178413428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123178413428,
+            "messageContent": "fine"
+          }
+        },
+        {
+          "v_id": "4123169557749",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123169557749,
+            "messageContent": "About America the Beautiful, a the Beautiful. The song is one of the most beloved andAbout Burnt Weeny Sandwich"
+          }
+        },
+        {
+          "v_id": "4672928989428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672928989428,
+            "messageContent": "About B.B. King,  stage name B.B. King, is an American About Paul McCartney"
+          }
+        },
+        {
+          "v_id": "3573421437971",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573421437971,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "4672938065188",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672938065188,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4398060843004",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398060843004,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "4398048749740",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398048749740,
+            "messageContent": "About Augustine of Hippo, relius Augustinus Hipponensis; November 13, 354 – August About Saddam Hussein, pable o"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.794s
+user	0m1.304s
+sys	0m0.185s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "S": [
+        {
+          "v_id": "6597069772014",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069772014,
+            "personFirstName": "Ching",
+            "personLastName": "Nguyen",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069788609",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069788609,
+            "personFirstName": "Claude",
+            "personLastName": "Mangalaza",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "8796093045111",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 8796093045111,
+            "personFirstName": "Aleksej",
+            "personLastName": "Hleb",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 6
+    },
+    {
+      "M": [
+        {
+          "v_id": "4398060843004",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398060843004,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298540409090",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298540409090,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298541003900",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298541003900,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "3573421437971",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573421437971,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "4398048749740",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398048749740,
+            "messageContent": "About Augustine of Hippo, relius Augustinus Hipponensis; November 13, 354 – August About Saddam Hussein, pable o"
+          }
+        },
+        {
+          "v_id": "4123178413428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123178413428,
+            "messageContent": "fine"
+          }
+        },
+        {
+          "v_id": "4123169557749",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123169557749,
+            "messageContent": "About America the Beautiful, a the Beautiful. The song is one of the most beloved andAbout Burnt Weeny Sandwich"
+          }
+        },
+        {
+          "v_id": "4672928989428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672928989428,
+            "messageContent": "About B.B. King,  stage name B.B. King, is an American About Paul McCartney"
+          }
+        },
+        {
+          "v_id": "4672938065188",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672938065188,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.805s
+user	0m1.330s
+sys	0m0.168s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "S": [
+        {
+          "v_id": "6597069772014",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069772014,
+            "personFirstName": "Ching",
+            "personLastName": "Nguyen",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069788609",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069788609,
+            "personFirstName": "Claude",
+            "personLastName": "Mangalaza",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "8796093045111",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 8796093045111,
+            "personFirstName": "Aleksej",
+            "personLastName": "Hleb",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 6
+    },
+    {
+      "M": [
+        {
+          "v_id": "4398060843004",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398060843004,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "4123178413428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123178413428,
+            "messageContent": "fine"
+          }
+        },
+        {
+          "v_id": "4123169557749",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123169557749,
+            "messageContent": "About America the Beautiful, a the Beautiful. The song is one of the most beloved andAbout Burnt Weeny Sandwich"
+          }
+        },
+        {
+          "v_id": "4672928989428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672928989428,
+            "messageContent": "About B.B. King,  stage name B.B. King, is an American About Paul McCartney"
+          }
+        },
+        {
+          "v_id": "3573421437971",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573421437971,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "4672938065188",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672938065188,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "3298540409090",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298540409090,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298541003900",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298541003900,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4398048749740",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398048749740,
+            "messageContent": "About Augustine of Hippo, relius Augustinus Hipponensis; November 13, 354 – August About Saddam Hussein, pable o"
+          }
+        },
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.805s
+user	0m1.346s
+sys	0m0.198s
+ic 5
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "F": [
+        {
+          "v_id": "1374390595608",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Rubén_Blades in Marianao",
+            "postCount": 34
+          }
+        },
+        {
+          "v_id": "1374389560226",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Pyotr_Ilyich_Tchaikovsky in Jacksonville",
+            "postCount": 32
+          }
+        },
+        {
+          "v_id": "3298536992088",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Jefferson_Davis in Gulbarga",
+            "postCount": 29
+          }
+        },
+        {
+          "v_id": "2473902262847",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Adolf_Hitler in Nara",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "3023657047035",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Oscar_Wilde in Pyin_U_Lwin",
+            "postCount": 23
+          }
+        },
+        {
+          "v_id": "1374389542866",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Edgar_Prado in Taipei",
+            "postCount": 22
+          }
+        },
+        {
+          "v_id": "1924145368841",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_Travolta in Ifrane",
+            "postCount": 22
+          }
+        },
+        {
+          "v_id": "3298537012405",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Paracelsus in Kozani",
+            "postCount": 22
+          }
+        },
+        {
+          "v_id": "1374389563610",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Benjamin_Britten in Karachi",
+            "postCount": 21
+          }
+        },
+        {
+          "v_id": "1374391656537",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Doris_Day in Flensburg",
+            "postCount": 21
+          }
+        },
+        {
+          "v_id": "2199025359848",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Kris_Kristofferson in Dar_es_Salaam",
+            "postCount": 21
+          }
+        },
+        {
+          "v_id": "1649269568153",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Louis_XIV_of_France in Larissa",
+            "postCount": 20
+          }
+        },
+        {
+          "v_id": "1099513741498",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Mariano_Rivera in Ufa",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "3023657015800",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Tori_Amos in Darlington",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "3023657056739",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Robert_John_Mutt_Lange in Luanshya",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "3023658071194",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Meryl_Streep in Jamshoro",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "4123169745382",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Whoopi_Goldberg in Gdańsk",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "1374391653629",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_McCain in Zhukovsky",
+            "postCount": 18
+          }
+        },
+        {
+          "v_id": "2473901230974",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Kevin_Rudd in Zacapoaxtla",
+            "postCount": 18
+          }
+        },
+        {
+          "v_id": "2473902278250",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for José_Ferrer in Fujisawa",
+            "postCount": 18
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 2072222
+    },
+    {
+      "M": [
+        {
+          "v_id": "2199031714811",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2199031714811,
+            "messageContent": "About Augustine of Hippo, rthly City. His thoughts profoundlAbout Plato, as scattered through them."
+          }
+        },
+        {
+          "v_id": "4398048749740",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398048749740,
+            "messageContent": "About Augustine of Hippo, relius Augustinus Hipponensis; November 13, 354 – August About Saddam Hussein, pable o"
+          }
+        },
+        {
+          "v_id": "3298547949645",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3298547949645,
+            "messageContent": "About Alexander Downer, itician who was FAbout Will.i.am,  1 and No. 2 spotAbout Beat It, omedy film"
+          }
+        },
+        {
+          "v_id": "4672932878234",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4672932878234,
+            "messageContent": "About Augustine of Hippo, ped God. In the Catholic Church and the AnglicAbout Francis Bacon, s works, especially as philosophical advoc"
+          }
+        },
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        },
+        {
+          "v_id": "2748788746879",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748788746879,
+            "messageContent": "About Augustine of Hippo, , also known as AugAbout Pope Benedict XVI, chbasilica of St. JAbout"
+          }
+        },
+        {
+          "v_id": "3573421671002",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3573421671002,
+            "messageContent": "About Yao Ming, al Basketball Association (NBA). At the time of his final season, he was the tallest active player i"
+          }
+        },
+        {
+          "v_id": "2473910839927",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2473910839927,
+            "messageContent": "About Augustine of Hippo,  Among the OrthodoAbout Bill Clinton, c speaking and humAbout"
+          }
+        },
+        {
+          "v_id": "4123178281571",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4123178281571,
+            "messageContent": "About Augustine of Hippo,  considered a saint, hisAbout Pope Benedict XVI, Mass on 24 April 2005, aAbout Martin Heid"
+          }
+        },
+        {
+          "v_id": "1924155025634",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924155025634,
+            "messageContent": "About Gil Kane, nvolved in such majoAbout Rembrandt, n was 203 at the 201About George W. Bush, rticle is about the Abou"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m1.190s
+user	0m1.340s
+sys	0m0.218s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "F": [
+        {
+          "v_id": "1374390595608",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Rubén_Blades in Marianao",
+            "postCount": 34
+          }
+        },
+        {
+          "v_id": "1374389560226",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Pyotr_Ilyich_Tchaikovsky in Jacksonville",
+            "postCount": 32
+          }
+        },
+        {
+          "v_id": "3298536992088",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Jefferson_Davis in Gulbarga",
+            "postCount": 29
+          }
+        },
+        {
+          "v_id": "2473902262847",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Adolf_Hitler in Nara",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "3023657047035",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Oscar_Wilde in Pyin_U_Lwin",
+            "postCount": 23
+          }
+        },
+        {
+          "v_id": "1374389542866",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Edgar_Prado in Taipei",
+            "postCount": 22
+          }
+        },
+        {
+          "v_id": "1924145368841",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_Travolta in Ifrane",
+            "postCount": 22
+          }
+        },
+        {
+          "v_id": "3298537012405",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Paracelsus in Kozani",
+            "postCount": 22
+          }
+        },
+        {
+          "v_id": "1374389563610",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Benjamin_Britten in Karachi",
+            "postCount": 21
+          }
+        },
+        {
+          "v_id": "1374391656537",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Doris_Day in Flensburg",
+            "postCount": 21
+          }
+        },
+        {
+          "v_id": "2199025359848",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Kris_Kristofferson in Dar_es_Salaam",
+            "postCount": 21
+          }
+        },
+        {
+          "v_id": "1649269568153",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Louis_XIV_of_France in Larissa",
+            "postCount": 20
+          }
+        },
+        {
+          "v_id": "1099513741498",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Mariano_Rivera in Ufa",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "3023657015800",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Tori_Amos in Darlington",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "3023657056739",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Robert_John_Mutt_Lange in Luanshya",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "3023658071194",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Meryl_Streep in Jamshoro",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "4123169745382",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Whoopi_Goldberg in Gdańsk",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "1374391653629",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_McCain in Zhukovsky",
+            "postCount": 18
+          }
+        },
+        {
+          "v_id": "2473901230974",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Kevin_Rudd in Zacapoaxtla",
+            "postCount": 18
+          }
+        },
+        {
+          "v_id": "2473902278250",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for José_Ferrer in Fujisawa",
+            "postCount": 18
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 2072222
+    },
+    {
+      "M": [
+        {
+          "v_id": "2748788746879",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748788746879,
+            "messageContent": "About Augustine of Hippo, , also known as AugAbout Pope Benedict XVI, chbasilica of St. JAbout"
+          }
+        },
+        {
+          "v_id": "2199031714811",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2199031714811,
+            "messageContent": "About Augustine of Hippo, rthly City. His thoughts profoundlAbout Plato, as scattered through them."
+          }
+        },
+        {
+          "v_id": "4398048749740",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398048749740,
+            "messageContent": "About Augustine of Hippo, relius Augustinus Hipponensis; November 13, 354 – August About Saddam Hussein, pable o"
+          }
+        },
+        {
+          "v_id": "3298547949645",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3298547949645,
+            "messageContent": "About Alexander Downer, itician who was FAbout Will.i.am,  1 and No. 2 spotAbout Beat It, omedy film"
+          }
+        },
+        {
+          "v_id": "2473910839927",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2473910839927,
+            "messageContent": "About Augustine of Hippo,  Among the OrthodoAbout Bill Clinton, c speaking and humAbout"
+          }
+        },
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        },
+        {
+          "v_id": "3573421671002",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3573421671002,
+            "messageContent": "About Yao Ming, al Basketball Association (NBA). At the time of his final season, he was the tallest active player i"
+          }
+        },
+        {
+          "v_id": "4123178281571",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4123178281571,
+            "messageContent": "About Augustine of Hippo,  considered a saint, hisAbout Pope Benedict XVI, Mass on 24 April 2005, aAbout Martin Heid"
+          }
+        },
+        {
+          "v_id": "4672932878234",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4672932878234,
+            "messageContent": "About Augustine of Hippo, ped God. In the Catholic Church and the AnglicAbout Francis Bacon, s works, especially as philosophical advoc"
+          }
+        },
+        {
+          "v_id": "1924155025634",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924155025634,
+            "messageContent": "About Gil Kane, nvolved in such majoAbout Rembrandt, n was 203 at the 201About George W. Bush, rticle is about the Abou"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m1.251s
+user	0m1.446s
+sys	0m0.166s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "F": [
+        {
+          "v_id": "1374390595608",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Rubén_Blades in Marianao",
+            "postCount": 34
+          }
+        },
+        {
+          "v_id": "1374389560226",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Pyotr_Ilyich_Tchaikovsky in Jacksonville",
+            "postCount": 32
+          }
+        },
+        {
+          "v_id": "3298536992088",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Jefferson_Davis in Gulbarga",
+            "postCount": 29
+          }
+        },
+        {
+          "v_id": "2473902262847",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Adolf_Hitler in Nara",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "3023657047035",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Oscar_Wilde in Pyin_U_Lwin",
+            "postCount": 23
+          }
+        },
+        {
+          "v_id": "1374389542866",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Edgar_Prado in Taipei",
+            "postCount": 22
+          }
+        },
+        {
+          "v_id": "1924145368841",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_Travolta in Ifrane",
+            "postCount": 22
+          }
+        },
+        {
+          "v_id": "3298537012405",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Paracelsus in Kozani",
+            "postCount": 22
+          }
+        },
+        {
+          "v_id": "1374389563610",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Benjamin_Britten in Karachi",
+            "postCount": 21
+          }
+        },
+        {
+          "v_id": "1374391656537",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Doris_Day in Flensburg",
+            "postCount": 21
+          }
+        },
+        {
+          "v_id": "2199025359848",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Kris_Kristofferson in Dar_es_Salaam",
+            "postCount": 21
+          }
+        },
+        {
+          "v_id": "1649269568153",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Louis_XIV_of_France in Larissa",
+            "postCount": 20
+          }
+        },
+        {
+          "v_id": "1099513741498",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Mariano_Rivera in Ufa",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "3023657015800",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Tori_Amos in Darlington",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "3023657056739",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Robert_John_Mutt_Lange in Luanshya",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "3023658071194",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Meryl_Streep in Jamshoro",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "4123169745382",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Whoopi_Goldberg in Gdańsk",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "1374391653629",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_McCain in Zhukovsky",
+            "postCount": 18
+          }
+        },
+        {
+          "v_id": "2473901230974",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Kevin_Rudd in Zacapoaxtla",
+            "postCount": 18
+          }
+        },
+        {
+          "v_id": "2473902278250",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for José_Ferrer in Fujisawa",
+            "postCount": 18
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 2072222
+    },
+    {
+      "M": [
+        {
+          "v_id": "2473910839927",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2473910839927,
+            "messageContent": "About Augustine of Hippo,  Among the OrthodoAbout Bill Clinton, c speaking and humAbout"
+          }
+        },
+        {
+          "v_id": "2748788746879",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748788746879,
+            "messageContent": "About Augustine of Hippo, , also known as AugAbout Pope Benedict XVI, chbasilica of St. JAbout"
+          }
+        },
+        {
+          "v_id": "2199031714811",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2199031714811,
+            "messageContent": "About Augustine of Hippo, rthly City. His thoughts profoundlAbout Plato, as scattered through them."
+          }
+        },
+        {
+          "v_id": "4398048749740",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398048749740,
+            "messageContent": "About Augustine of Hippo, relius Augustinus Hipponensis; November 13, 354 – August About Saddam Hussein, pable o"
+          }
+        },
+        {
+          "v_id": "3298547949645",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3298547949645,
+            "messageContent": "About Alexander Downer, itician who was FAbout Will.i.am,  1 and No. 2 spotAbout Beat It, omedy film"
+          }
+        },
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        },
+        {
+          "v_id": "4672932878234",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4672932878234,
+            "messageContent": "About Augustine of Hippo, ped God. In the Catholic Church and the AnglicAbout Francis Bacon, s works, especially as philosophical advoc"
+          }
+        },
+        {
+          "v_id": "4123178281571",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4123178281571,
+            "messageContent": "About Augustine of Hippo,  considered a saint, hisAbout Pope Benedict XVI, Mass on 24 April 2005, aAbout Martin Heid"
+          }
+        },
+        {
+          "v_id": "3573421671002",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3573421671002,
+            "messageContent": "About Yao Ming, al Basketball Association (NBA). At the time of his final season, he was the tallest active player i"
+          }
+        },
+        {
+          "v_id": "1924155025634",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924155025634,
+            "messageContent": "About Gil Kane, nvolved in such majoAbout Rembrandt, n was 203 at the 201About George W. Bush, rticle is about the Abou"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m1.282s
+user	0m1.388s
+sys	0m0.198s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "F": [
+        {
+          "v_id": "1374390595608",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Rubén_Blades in Marianao",
+            "postCount": 34
+          }
+        },
+        {
+          "v_id": "1374389560226",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Pyotr_Ilyich_Tchaikovsky in Jacksonville",
+            "postCount": 32
+          }
+        },
+        {
+          "v_id": "3298536992088",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Jefferson_Davis in Gulbarga",
+            "postCount": 29
+          }
+        },
+        {
+          "v_id": "2473902262847",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Adolf_Hitler in Nara",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "3023657047035",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Oscar_Wilde in Pyin_U_Lwin",
+            "postCount": 23
+          }
+        },
+        {
+          "v_id": "1374389542866",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Edgar_Prado in Taipei",
+            "postCount": 22
+          }
+        },
+        {
+          "v_id": "1924145368841",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_Travolta in Ifrane",
+            "postCount": 22
+          }
+        },
+        {
+          "v_id": "3298537012405",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Paracelsus in Kozani",
+            "postCount": 22
+          }
+        },
+        {
+          "v_id": "1374389563610",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Benjamin_Britten in Karachi",
+            "postCount": 21
+          }
+        },
+        {
+          "v_id": "1374391656537",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Doris_Day in Flensburg",
+            "postCount": 21
+          }
+        },
+        {
+          "v_id": "2199025359848",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Kris_Kristofferson in Dar_es_Salaam",
+            "postCount": 21
+          }
+        },
+        {
+          "v_id": "1649269568153",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Louis_XIV_of_France in Larissa",
+            "postCount": 20
+          }
+        },
+        {
+          "v_id": "1099513741498",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Mariano_Rivera in Ufa",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "3023657015800",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Tori_Amos in Darlington",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "3023657056739",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Robert_John_Mutt_Lange in Luanshya",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "3023658071194",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Meryl_Streep in Jamshoro",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "4123169745382",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Whoopi_Goldberg in Gdańsk",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "1374391653629",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_McCain in Zhukovsky",
+            "postCount": 18
+          }
+        },
+        {
+          "v_id": "2473901230974",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Kevin_Rudd in Zacapoaxtla",
+            "postCount": 18
+          }
+        },
+        {
+          "v_id": "2473902278250",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for José_Ferrer in Fujisawa",
+            "postCount": 18
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 2072222
+    },
+    {
+      "M": [
+        {
+          "v_id": "2199031714811",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2199031714811,
+            "messageContent": "About Augustine of Hippo, rthly City. His thoughts profoundlAbout Plato, as scattered through them."
+          }
+        },
+        {
+          "v_id": "4398048749740",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398048749740,
+            "messageContent": "About Augustine of Hippo, relius Augustinus Hipponensis; November 13, 354 – August About Saddam Hussein, pable o"
+          }
+        },
+        {
+          "v_id": "3298547949645",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3298547949645,
+            "messageContent": "About Alexander Downer, itician who was FAbout Will.i.am,  1 and No. 2 spotAbout Beat It, omedy film"
+          }
+        },
+        {
+          "v_id": "3573421671002",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3573421671002,
+            "messageContent": "About Yao Ming, al Basketball Association (NBA). At the time of his final season, he was the tallest active player i"
+          }
+        },
+        {
+          "v_id": "2473910839927",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2473910839927,
+            "messageContent": "About Augustine of Hippo,  Among the OrthodoAbout Bill Clinton, c speaking and humAbout"
+          }
+        },
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        },
+        {
+          "v_id": "1924155025634",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924155025634,
+            "messageContent": "About Gil Kane, nvolved in such majoAbout Rembrandt, n was 203 at the 201About George W. Bush, rticle is about the Abou"
+          }
+        },
+        {
+          "v_id": "2748788746879",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748788746879,
+            "messageContent": "About Augustine of Hippo, , also known as AugAbout Pope Benedict XVI, chbasilica of St. JAbout"
+          }
+        },
+        {
+          "v_id": "4672932878234",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4672932878234,
+            "messageContent": "About Augustine of Hippo, ped God. In the Catholic Church and the AnglicAbout Francis Bacon, s works, especially as philosophical advoc"
+          }
+        },
+        {
+          "v_id": "4123178281571",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4123178281571,
+            "messageContent": "About Augustine of Hippo,  considered a saint, hisAbout Pope Benedict XVI, Mass on 24 April 2005, aAbout Martin Heid"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m1.282s
+user	0m1.336s
+sys	0m0.234s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "F": [
+        {
+          "v_id": "1374390595608",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Rubén_Blades in Marianao",
+            "postCount": 34
+          }
+        },
+        {
+          "v_id": "1374389560226",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Pyotr_Ilyich_Tchaikovsky in Jacksonville",
+            "postCount": 32
+          }
+        },
+        {
+          "v_id": "3298536992088",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Jefferson_Davis in Gulbarga",
+            "postCount": 29
+          }
+        },
+        {
+          "v_id": "2473902262847",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Adolf_Hitler in Nara",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "3023657047035",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Oscar_Wilde in Pyin_U_Lwin",
+            "postCount": 23
+          }
+        },
+        {
+          "v_id": "1374389542866",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Edgar_Prado in Taipei",
+            "postCount": 22
+          }
+        },
+        {
+          "v_id": "1924145368841",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_Travolta in Ifrane",
+            "postCount": 22
+          }
+        },
+        {
+          "v_id": "3298537012405",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Paracelsus in Kozani",
+            "postCount": 22
+          }
+        },
+        {
+          "v_id": "1374389563610",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Benjamin_Britten in Karachi",
+            "postCount": 21
+          }
+        },
+        {
+          "v_id": "1374391656537",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Doris_Day in Flensburg",
+            "postCount": 21
+          }
+        },
+        {
+          "v_id": "2199025359848",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Kris_Kristofferson in Dar_es_Salaam",
+            "postCount": 21
+          }
+        },
+        {
+          "v_id": "1649269568153",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Louis_XIV_of_France in Larissa",
+            "postCount": 20
+          }
+        },
+        {
+          "v_id": "1099513741498",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Mariano_Rivera in Ufa",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "3023657015800",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Tori_Amos in Darlington",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "3023657056739",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Robert_John_Mutt_Lange in Luanshya",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "3023658071194",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Meryl_Streep in Jamshoro",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "4123169745382",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Whoopi_Goldberg in Gdańsk",
+            "postCount": 19
+          }
+        },
+        {
+          "v_id": "1374391653629",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_McCain in Zhukovsky",
+            "postCount": 18
+          }
+        },
+        {
+          "v_id": "2473901230974",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Kevin_Rudd in Zacapoaxtla",
+            "postCount": 18
+          }
+        },
+        {
+          "v_id": "2473902278250",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for José_Ferrer in Fujisawa",
+            "postCount": 18
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 2072222
+    },
+    {
+      "M": [
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        },
+        {
+          "v_id": "1924155025634",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924155025634,
+            "messageContent": "About Gil Kane, nvolved in such majoAbout Rembrandt, n was 203 at the 201About George W. Bush, rticle is about the Abou"
+          }
+        },
+        {
+          "v_id": "4672932878234",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4672932878234,
+            "messageContent": "About Augustine of Hippo, ped God. In the Catholic Church and the AnglicAbout Francis Bacon, s works, especially as philosophical advoc"
+          }
+        },
+        {
+          "v_id": "4123178281571",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4123178281571,
+            "messageContent": "About Augustine of Hippo,  considered a saint, hisAbout Pope Benedict XVI, Mass on 24 April 2005, aAbout Martin Heid"
+          }
+        },
+        {
+          "v_id": "2748788746879",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748788746879,
+            "messageContent": "About Augustine of Hippo, , also known as AugAbout Pope Benedict XVI, chbasilica of St. JAbout"
+          }
+        },
+        {
+          "v_id": "2199031714811",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2199031714811,
+            "messageContent": "About Augustine of Hippo, rthly City. His thoughts profoundlAbout Plato, as scattered through them."
+          }
+        },
+        {
+          "v_id": "4398048749740",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398048749740,
+            "messageContent": "About Augustine of Hippo, relius Augustinus Hipponensis; November 13, 354 – August About Saddam Hussein, pable o"
+          }
+        },
+        {
+          "v_id": "3298547949645",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3298547949645,
+            "messageContent": "About Alexander Downer, itician who was FAbout Will.i.am,  1 and No. 2 spotAbout Beat It, omedy film"
+          }
+        },
+        {
+          "v_id": "2473910839927",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2473910839927,
+            "messageContent": "About Augustine of Hippo,  Among the OrthodoAbout Bill Clinton, c speaking and humAbout"
+          }
+        },
+        {
+          "v_id": "3573421671002",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3573421671002,
+            "messageContent": "About Yao Ming, al Basketball Association (NBA). At the time of his final season, he was the tallest active player i"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m1.240s
+user	0m1.424s
+sys	0m0.171s
+ic 6
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "T": [
+        {
+          "v_id": "1453",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Tom_Gehrels",
+            "postCount": 75
+          }
+        },
+        {
+          "v_id": "1541",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Imelda_Marcos",
+            "postCount": 29
+          }
+        },
+        {
+          "v_id": "1410",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Muammar_Gaddafi",
+            "postCount": 29
+          }
+        },
+        {
+          "v_id": "540",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Sammy_Sosa",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "2206",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Robert_Fripp",
+            "postCount": 20
+          }
+        },
+        {
+          "v_id": "1524",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Mariano_Rivera",
+            "postCount": 16
+          }
+        },
+        {
+          "v_id": "447",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Alejandro_Falla",
+            "postCount": 14
+          }
+        },
+        {
+          "v_id": "1444",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Genghis_Khan",
+            "postCount": 14
+          }
+        },
+        {
+          "v_id": "1934",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Paradorn_Srichaphan",
+            "postCount": 14
+          }
+        },
+        {
+          "v_id": "2423",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "David_Hockney",
+            "postCount": 13
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 635
+    },
+    {
+      "M": [
+        {
+          "v_id": "1099516908205",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1099516908205,
+            "messageContent": "About Rainer Schüttler, in April 2004. He began playiAbout Woody Guthrie, nd Is Your Land. Many of his About Ho Chi"
+          }
+        },
+        {
+          "v_id": "824634369360",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 824634369360,
+            "messageContent": "About Johann Wolfgang von Goethe, en WertherAbout Muammar Gaddafi, n coup d'eAbout Pop"
+          }
+        },
+        {
+          "v_id": "2748789240130",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748789240130,
+            "messageContent": "About Joe Strummer, dation for the About Andrew Jackson, ght to nullify About Donald Duck, lished in May, About We Shal"
+          }
+        },
+        {
+          "v_id": "2748789076717",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748789076717,
+            "messageContent": "About Muammar Gaddafi, despite the LAbout Tom Cruise, y (1989), JerAbout Perry Como, t"
+          }
+        },
+        {
+          "v_id": "1649270307284",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649270307284,
+            "messageContent": "About Tom Gehrels, McMillan was co-invAbout Zimbabwe, minority rule, instAbout Hungary, 154"
+          }
+        },
+        {
+          "v_id": "274880275500",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 274880275500,
+            "messageContent": "About Luiz Inácio Lula da Silva,  three times unsuccessfully, first in the 1989 electionAbout Angola,  with t"
+          }
+        },
+        {
+          "v_id": "1649267926503",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649267926503,
+            "messageContent": "About Socrates, tes' precise vocAbout Tom Gehrels, specialization..About Robert A. Heinlein, . in his Ast"
+          }
+        },
+        {
+          "v_id": "1099513615217",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1099513615217,
+            "messageContent": "About Tommy Lee, Elaine Bergen and About Akbar, ent Council of IraAbout Peter Jackson, ross-medium cre"
+          }
+        },
+        {
+          "v_id": "1374390032229",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374390032229,
+            "messageContent": "About Alejandro Falla, a Ramirez is a profesAbout Mel Blanc, Rubble in The FlintstAbout Bulgaria, ga"
+          }
+        },
+        {
+          "v_id": "3848297989556",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3848297989556,
+            "messageContent": "About Slavoj Žižek, s Lacanian psychoaAbout Robert E. Howard, e has been compareAbout Angola, chieved"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.939s
+user	0m1.382s
+sys	0m0.208s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "T": [
+        {
+          "v_id": "1453",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Tom_Gehrels",
+            "postCount": 75
+          }
+        },
+        {
+          "v_id": "1541",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Imelda_Marcos",
+            "postCount": 29
+          }
+        },
+        {
+          "v_id": "1410",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Muammar_Gaddafi",
+            "postCount": 29
+          }
+        },
+        {
+          "v_id": "540",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Sammy_Sosa",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "2206",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Robert_Fripp",
+            "postCount": 20
+          }
+        },
+        {
+          "v_id": "1524",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Mariano_Rivera",
+            "postCount": 16
+          }
+        },
+        {
+          "v_id": "447",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Alejandro_Falla",
+            "postCount": 14
+          }
+        },
+        {
+          "v_id": "1444",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Genghis_Khan",
+            "postCount": 14
+          }
+        },
+        {
+          "v_id": "1934",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Paradorn_Srichaphan",
+            "postCount": 14
+          }
+        },
+        {
+          "v_id": "2423",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "David_Hockney",
+            "postCount": 13
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 635
+    },
+    {
+      "M": [
+        {
+          "v_id": "1099516908205",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1099516908205,
+            "messageContent": "About Rainer Schüttler, in April 2004. He began playiAbout Woody Guthrie, nd Is Your Land. Many of his About Ho Chi"
+          }
+        },
+        {
+          "v_id": "824634369360",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 824634369360,
+            "messageContent": "About Johann Wolfgang von Goethe, en WertherAbout Muammar Gaddafi, n coup d'eAbout Pop"
+          }
+        },
+        {
+          "v_id": "1649267926503",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649267926503,
+            "messageContent": "About Socrates, tes' precise vocAbout Tom Gehrels, specialization..About Robert A. Heinlein, . in his Ast"
+          }
+        },
+        {
+          "v_id": "1099513615217",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1099513615217,
+            "messageContent": "About Tommy Lee, Elaine Bergen and About Akbar, ent Council of IraAbout Peter Jackson, ross-medium cre"
+          }
+        },
+        {
+          "v_id": "274880275500",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 274880275500,
+            "messageContent": "About Luiz Inácio Lula da Silva,  three times unsuccessfully, first in the 1989 electionAbout Angola,  with t"
+          }
+        },
+        {
+          "v_id": "1374390032229",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374390032229,
+            "messageContent": "About Alejandro Falla, a Ramirez is a profesAbout Mel Blanc, Rubble in The FlintstAbout Bulgaria, ga"
+          }
+        },
+        {
+          "v_id": "3848297989556",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3848297989556,
+            "messageContent": "About Slavoj Žižek, s Lacanian psychoaAbout Robert E. Howard, e has been compareAbout Angola, chieved"
+          }
+        },
+        {
+          "v_id": "2748789076717",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748789076717,
+            "messageContent": "About Muammar Gaddafi, despite the LAbout Tom Cruise, y (1989), JerAbout Perry Como, t"
+          }
+        },
+        {
+          "v_id": "2748789240130",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748789240130,
+            "messageContent": "About Joe Strummer, dation for the About Andrew Jackson, ght to nullify About Donald Duck, lished in May, About We Shal"
+          }
+        },
+        {
+          "v_id": "1649270307284",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649270307284,
+            "messageContent": "About Tom Gehrels, McMillan was co-invAbout Zimbabwe, minority rule, instAbout Hungary, 154"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.949s
+user	0m1.361s
+sys	0m0.232s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "T": [
+        {
+          "v_id": "1453",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Tom_Gehrels",
+            "postCount": 75
+          }
+        },
+        {
+          "v_id": "1541",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Imelda_Marcos",
+            "postCount": 29
+          }
+        },
+        {
+          "v_id": "1410",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Muammar_Gaddafi",
+            "postCount": 29
+          }
+        },
+        {
+          "v_id": "540",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Sammy_Sosa",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "2206",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Robert_Fripp",
+            "postCount": 20
+          }
+        },
+        {
+          "v_id": "1524",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Mariano_Rivera",
+            "postCount": 16
+          }
+        },
+        {
+          "v_id": "447",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Alejandro_Falla",
+            "postCount": 14
+          }
+        },
+        {
+          "v_id": "1444",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Genghis_Khan",
+            "postCount": 14
+          }
+        },
+        {
+          "v_id": "1934",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Paradorn_Srichaphan",
+            "postCount": 14
+          }
+        },
+        {
+          "v_id": "2423",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "David_Hockney",
+            "postCount": 13
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 635
+    },
+    {
+      "M": [
+        {
+          "v_id": "1374390032229",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374390032229,
+            "messageContent": "About Alejandro Falla, a Ramirez is a profesAbout Mel Blanc, Rubble in The FlintstAbout Bulgaria, ga"
+          }
+        },
+        {
+          "v_id": "3848297989556",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3848297989556,
+            "messageContent": "About Slavoj Žižek, s Lacanian psychoaAbout Robert E. Howard, e has been compareAbout Angola, chieved"
+          }
+        },
+        {
+          "v_id": "1099516908205",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1099516908205,
+            "messageContent": "About Rainer Schüttler, in April 2004. He began playiAbout Woody Guthrie, nd Is Your Land. Many of his About Ho Chi"
+          }
+        },
+        {
+          "v_id": "824634369360",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 824634369360,
+            "messageContent": "About Johann Wolfgang von Goethe, en WertherAbout Muammar Gaddafi, n coup d'eAbout Pop"
+          }
+        },
+        {
+          "v_id": "1649267926503",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649267926503,
+            "messageContent": "About Socrates, tes' precise vocAbout Tom Gehrels, specialization..About Robert A. Heinlein, . in his Ast"
+          }
+        },
+        {
+          "v_id": "1099513615217",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1099513615217,
+            "messageContent": "About Tommy Lee, Elaine Bergen and About Akbar, ent Council of IraAbout Peter Jackson, ross-medium cre"
+          }
+        },
+        {
+          "v_id": "274880275500",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 274880275500,
+            "messageContent": "About Luiz Inácio Lula da Silva,  three times unsuccessfully, first in the 1989 electionAbout Angola,  with t"
+          }
+        },
+        {
+          "v_id": "2748789076717",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748789076717,
+            "messageContent": "About Muammar Gaddafi, despite the LAbout Tom Cruise, y (1989), JerAbout Perry Como, t"
+          }
+        },
+        {
+          "v_id": "2748789240130",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748789240130,
+            "messageContent": "About Joe Strummer, dation for the About Andrew Jackson, ght to nullify About Donald Duck, lished in May, About We Shal"
+          }
+        },
+        {
+          "v_id": "1649270307284",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649270307284,
+            "messageContent": "About Tom Gehrels, McMillan was co-invAbout Zimbabwe, minority rule, instAbout Hungary, 154"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.905s
+user	0m1.323s
+sys	0m0.234s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "T": [
+        {
+          "v_id": "1453",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Tom_Gehrels",
+            "postCount": 75
+          }
+        },
+        {
+          "v_id": "1541",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Imelda_Marcos",
+            "postCount": 29
+          }
+        },
+        {
+          "v_id": "1410",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Muammar_Gaddafi",
+            "postCount": 29
+          }
+        },
+        {
+          "v_id": "540",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Sammy_Sosa",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "2206",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Robert_Fripp",
+            "postCount": 20
+          }
+        },
+        {
+          "v_id": "1524",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Mariano_Rivera",
+            "postCount": 16
+          }
+        },
+        {
+          "v_id": "447",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Alejandro_Falla",
+            "postCount": 14
+          }
+        },
+        {
+          "v_id": "1444",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Genghis_Khan",
+            "postCount": 14
+          }
+        },
+        {
+          "v_id": "1934",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Paradorn_Srichaphan",
+            "postCount": 14
+          }
+        },
+        {
+          "v_id": "2423",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "David_Hockney",
+            "postCount": 13
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 635
+    },
+    {
+      "M": [
+        {
+          "v_id": "1099516908205",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1099516908205,
+            "messageContent": "About Rainer Schüttler, in April 2004. He began playiAbout Woody Guthrie, nd Is Your Land. Many of his About Ho Chi"
+          }
+        },
+        {
+          "v_id": "824634369360",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 824634369360,
+            "messageContent": "About Johann Wolfgang von Goethe, en WertherAbout Muammar Gaddafi, n coup d'eAbout Pop"
+          }
+        },
+        {
+          "v_id": "1649267926503",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649267926503,
+            "messageContent": "About Socrates, tes' precise vocAbout Tom Gehrels, specialization..About Robert A. Heinlein, . in his Ast"
+          }
+        },
+        {
+          "v_id": "1099513615217",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1099513615217,
+            "messageContent": "About Tommy Lee, Elaine Bergen and About Akbar, ent Council of IraAbout Peter Jackson, ross-medium cre"
+          }
+        },
+        {
+          "v_id": "274880275500",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 274880275500,
+            "messageContent": "About Luiz Inácio Lula da Silva,  three times unsuccessfully, first in the 1989 electionAbout Angola,  with t"
+          }
+        },
+        {
+          "v_id": "2748789240130",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748789240130,
+            "messageContent": "About Joe Strummer, dation for the About Andrew Jackson, ght to nullify About Donald Duck, lished in May, About We Shal"
+          }
+        },
+        {
+          "v_id": "2748789076717",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748789076717,
+            "messageContent": "About Muammar Gaddafi, despite the LAbout Tom Cruise, y (1989), JerAbout Perry Como, t"
+          }
+        },
+        {
+          "v_id": "1649270307284",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649270307284,
+            "messageContent": "About Tom Gehrels, McMillan was co-invAbout Zimbabwe, minority rule, instAbout Hungary, 154"
+          }
+        },
+        {
+          "v_id": "1374390032229",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374390032229,
+            "messageContent": "About Alejandro Falla, a Ramirez is a profesAbout Mel Blanc, Rubble in The FlintstAbout Bulgaria, ga"
+          }
+        },
+        {
+          "v_id": "3848297989556",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3848297989556,
+            "messageContent": "About Slavoj Žižek, s Lacanian psychoaAbout Robert E. Howard, e has been compareAbout Angola, chieved"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.925s
+user	0m1.370s
+sys	0m0.227s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "T": [
+        {
+          "v_id": "1453",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Tom_Gehrels",
+            "postCount": 75
+          }
+        },
+        {
+          "v_id": "1541",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Imelda_Marcos",
+            "postCount": 29
+          }
+        },
+        {
+          "v_id": "1410",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Muammar_Gaddafi",
+            "postCount": 29
+          }
+        },
+        {
+          "v_id": "540",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Sammy_Sosa",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "2206",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Robert_Fripp",
+            "postCount": 20
+          }
+        },
+        {
+          "v_id": "1524",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Mariano_Rivera",
+            "postCount": 16
+          }
+        },
+        {
+          "v_id": "447",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Alejandro_Falla",
+            "postCount": 14
+          }
+        },
+        {
+          "v_id": "1444",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Genghis_Khan",
+            "postCount": 14
+          }
+        },
+        {
+          "v_id": "1934",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Paradorn_Srichaphan",
+            "postCount": 14
+          }
+        },
+        {
+          "v_id": "2423",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "David_Hockney",
+            "postCount": 13
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 635
+    },
+    {
+      "M": [
+        {
+          "v_id": "1649267926503",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649267926503,
+            "messageContent": "About Socrates, tes' precise vocAbout Tom Gehrels, specialization..About Robert A. Heinlein, . in his Ast"
+          }
+        },
+        {
+          "v_id": "1099513615217",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1099513615217,
+            "messageContent": "About Tommy Lee, Elaine Bergen and About Akbar, ent Council of IraAbout Peter Jackson, ross-medium cre"
+          }
+        },
+        {
+          "v_id": "1099516908205",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1099516908205,
+            "messageContent": "About Rainer Schüttler, in April 2004. He began playiAbout Woody Guthrie, nd Is Your Land. Many of his About Ho Chi"
+          }
+        },
+        {
+          "v_id": "824634369360",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 824634369360,
+            "messageContent": "About Johann Wolfgang von Goethe, en WertherAbout Muammar Gaddafi, n coup d'eAbout Pop"
+          }
+        },
+        {
+          "v_id": "2748789240130",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748789240130,
+            "messageContent": "About Joe Strummer, dation for the About Andrew Jackson, ght to nullify About Donald Duck, lished in May, About We Shal"
+          }
+        },
+        {
+          "v_id": "2748789076717",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748789076717,
+            "messageContent": "About Muammar Gaddafi, despite the LAbout Tom Cruise, y (1989), JerAbout Perry Como, t"
+          }
+        },
+        {
+          "v_id": "1374390032229",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374390032229,
+            "messageContent": "About Alejandro Falla, a Ramirez is a profesAbout Mel Blanc, Rubble in The FlintstAbout Bulgaria, ga"
+          }
+        },
+        {
+          "v_id": "3848297989556",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3848297989556,
+            "messageContent": "About Slavoj Žižek, s Lacanian psychoaAbout Robert E. Howard, e has been compareAbout Angola, chieved"
+          }
+        },
+        {
+          "v_id": "274880275500",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 274880275500,
+            "messageContent": "About Luiz Inácio Lula da Silva,  three times unsuccessfully, first in the 1989 electionAbout Angola,  with t"
+          }
+        },
+        {
+          "v_id": "1649270307284",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649270307284,
+            "messageContent": "About Tom Gehrels, McMillan was co-invAbout Zimbabwe, minority rule, instAbout Hungary, 154"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.917s
+user	0m1.388s
+sys	0m0.192s
+ic 9
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "M": [
+        {
+          "v_id": "3023663800350",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 24189255816164,
+            "M.@personFirstName": "Aleksej",
+            "M.@personLastName": "Linchuk",
+            "messageId": 3023663800350,
+            "M.@messageContent": "thanks",
+            "messageCreationDate": 1323215990702
+          }
+        },
+        {
+          "v_id": "3023661456327",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069777836,
+            "M.@personFirstName": "Steve",
+            "M.@personLastName": "Brown",
+            "messageId": 3023661456327,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215987695
+          }
+        },
+        {
+          "v_id": "3023663594831",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162800124,
+            "M.@personFirstName": "Chen",
+            "M.@personLastName": "Xu",
+            "messageId": 3023663594831,
+            "M.@messageContent": "About Diana Ross,  the Guinness Book of World Records declared Diana Ross th",
+            "messageCreationDate": 1323215957765
+          }
+        },
+        {
+          "v_id": "3023663504409",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069769978,
+            "M.@personFirstName": "Axelle",
+            "M.@personLastName": "Atem",
+            "messageId": 3023663504409,
+            "M.@messageContent": "maybe",
+            "messageCreationDate": 1323215926564
+          }
+        },
+        {
+          "v_id": "3023666062640",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162794237,
+            "M.@personFirstName": "Carlos",
+            "M.@personLastName": "González",
+            "messageId": 3023666062640,
+            "M.@messageContent": "thx",
+            "messageCreationDate": 1323215908450
+          }
+        },
+        {
+          "v_id": "3023658284718",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 13684,
+            "M.@personFirstName": "Aa Ngurah",
+            "M.@personLastName": "Tobing",
+            "messageId": 3023658284718,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215831490
+          }
+        },
+        {
+          "v_id": "3023662612903",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186050667,
+            "M.@personFirstName": "Alfredo",
+            "M.@personLastName": "Parra",
+            "messageId": 3023662612903,
+            "M.@messageContent": "right",
+            "messageCreationDate": 1323215812073
+          }
+        },
+        {
+          "v_id": "3023663182161",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023260481,
+            "M.@personFirstName": "Robert",
+            "M.@personLastName": "Smith",
+            "messageId": 3023663182161,
+            "M.@messageContent": "maybe",
+            "messageCreationDate": 1323215783142
+          }
+        },
+        {
+          "v_id": "3023659686155",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069784536,
+            "M.@personFirstName": "Hassan",
+            "M.@personLastName": "Atashin",
+            "messageId": 3023659686155,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215780869
+          }
+        },
+        {
+          "v_id": "3023657980094",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023257363,
+            "M.@personFirstName": "Deepak",
+            "M.@personLastName": "Kumar",
+            "messageId": 3023657980094,
+            "M.@messageContent": "roflol",
+            "messageCreationDate": 1323215778642
+          }
+        },
+        {
+          "v_id": "3023658545884",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023259319,
+            "M.@personFirstName": "Karl",
+            "M.@personLastName": "Becker",
+            "messageId": 3023658545884,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215753988
+          }
+        },
+        {
+          "v_id": "3023669752574",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209318637,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Baloch",
+            "messageId": 3023669752574,
+            "M.@messageContent": "photo3023669752574.jpg",
+            "messageCreationDate": 1323215684465
+          }
+        },
+        {
+          "v_id": "3023669752573",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209318637,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Baloch",
+            "messageId": 3023669752573,
+            "M.@messageContent": "photo3023669752573.jpg",
+            "messageCreationDate": 1323215683465
+          }
+        },
+        {
+          "v_id": "3023669752572",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209318637,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Baloch",
+            "messageId": 3023669752572,
+            "M.@messageContent": "photo3023669752572.jpg",
+            "messageCreationDate": 1323215682465
+          }
+        },
+        {
+          "v_id": "3023669752571",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209318637,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Baloch",
+            "messageId": 3023669752571,
+            "M.@messageContent": "photo3023669752571.jpg",
+            "messageCreationDate": 1323215681465
+          }
+        },
+        {
+          "v_id": "3023658929277",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 19791209308125,
+            "M.@personFirstName": "Lei",
+            "M.@personLastName": "Liu",
+            "messageId": 3023658929277,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323215648774
+          }
+        },
+        {
+          "v_id": "3023657696249",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023279301,
+            "M.@personFirstName": "Wei",
+            "M.@personLastName": "Wu",
+            "messageId": 3023657696249,
+            "M.@messageContent": "About Ashoka,  of Emperors Ashoka. His name aśoka means painless, without sorrow",
+            "messageCreationDate": 1323215577612
+          }
+        },
+        {
+          "v_id": "3023667419913",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186062034,
+            "M.@personFirstName": "Joseph",
+            "M.@personLastName": "Rao",
+            "messageId": 3023667419913,
+            "M.@messageContent": "About Abbas I of Persia, w Shah Mohammed in a coup and placed the 16-yeAbout Neil Diamond,",
+            "messageCreationDate": 1323215554181
+          }
+        },
+        {
+          "v_id": "3023662225626",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 4398046517803,
+            "M.@personFirstName": "Hector",
+            "M.@personLastName": "Rodriguez",
+            "messageId": 3023662225626,
+            "M.@messageContent": "About Herman Melville, 0s and never recovered during his lifAbout Ho Chi Minh, ies including Australia, New Zealand About Molière, Church, while Dom Juan was banned froAbout Julius",
+            "messageCreationDate": 1323215492128
+          }
+        },
+        {
+          "v_id": "3023663179257",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 13194139548963,
+            "M.@personFirstName": "Jimmy",
+            "M.@personLastName": "Lita",
+            "messageId": 3023663179257,
+            "M.@messageContent": "duh",
+            "messageCreationDate": 1323215489911
+          }
+        }
+      ]
+    },
+    {
+      "M.size()": 20
+    },
+    {
+      "TopKM": [
+        {
+          "v_id": "3023666062640",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023666062640,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "3023659686155",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023659686155,
+            "messageContent": "good"
+          }
+        },
+        {
+          "v_id": "3023663800350",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023663800350,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "3023663594831",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023663594831,
+            "messageContent": "About Diana Ross,  the Guinness Book of World Records declared Diana Ross th"
+          }
+        },
+        {
+          "v_id": "3023662612903",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023662612903,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "3023657696249",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023657696249,
+            "messageContent": "About Ashoka,  of Emperors Ashoka. His name aśoka means painless, without sorrow"
+          }
+        },
+        {
+          "v_id": "3023657980094",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023657980094,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3023658284718",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3023658284718,
+            "messageContent": "About Henry Kissinger, s Richard Nixon and Gerald Ford. After his term, his opinion w"
+          }
+        },
+        {
+          "v_id": "3023667419913",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023667419913,
+            "messageContent": "About Abbas I of Persia, w Shah Mohammed in a coup and placed the 16-yeAbout Neil Diamond,"
+          }
+        },
+        {
+          "v_id": "3023662225626",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023662225626,
+            "messageContent": "About Herman Melville, 0s and never recovered during his lifAbout Ho Chi Minh, ies including Australia, New Zealand About Molière, Church, while Dom Juan was banned froAbout Julius"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.996s
+user	0m1.352s
+sys	0m0.260s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "M": [
+        {
+          "v_id": "3023663800350",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 24189255816164,
+            "M.@personFirstName": "Aleksej",
+            "M.@personLastName": "Linchuk",
+            "messageId": 3023663800350,
+            "M.@messageContent": "thanks",
+            "messageCreationDate": 1323215990702
+          }
+        },
+        {
+          "v_id": "3023661456327",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069777836,
+            "M.@personFirstName": "Steve",
+            "M.@personLastName": "Brown",
+            "messageId": 3023661456327,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215987695
+          }
+        },
+        {
+          "v_id": "3023663594831",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162800124,
+            "M.@personFirstName": "Chen",
+            "M.@personLastName": "Xu",
+            "messageId": 3023663594831,
+            "M.@messageContent": "About Diana Ross,  the Guinness Book of World Records declared Diana Ross th",
+            "messageCreationDate": 1323215957765
+          }
+        },
+        {
+          "v_id": "3023663504409",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069769978,
+            "M.@personFirstName": "Axelle",
+            "M.@personLastName": "Atem",
+            "messageId": 3023663504409,
+            "M.@messageContent": "maybe",
+            "messageCreationDate": 1323215926564
+          }
+        },
+        {
+          "v_id": "3023666062640",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162794237,
+            "M.@personFirstName": "Carlos",
+            "M.@personLastName": "González",
+            "messageId": 3023666062640,
+            "M.@messageContent": "thx",
+            "messageCreationDate": 1323215908450
+          }
+        },
+        {
+          "v_id": "3023658284718",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 13684,
+            "M.@personFirstName": "Aa Ngurah",
+            "M.@personLastName": "Tobing",
+            "messageId": 3023658284718,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215831490
+          }
+        },
+        {
+          "v_id": "3023662612903",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186050667,
+            "M.@personFirstName": "Alfredo",
+            "M.@personLastName": "Parra",
+            "messageId": 3023662612903,
+            "M.@messageContent": "right",
+            "messageCreationDate": 1323215812073
+          }
+        },
+        {
+          "v_id": "3023663182161",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023260481,
+            "M.@personFirstName": "Robert",
+            "M.@personLastName": "Smith",
+            "messageId": 3023663182161,
+            "M.@messageContent": "maybe",
+            "messageCreationDate": 1323215783142
+          }
+        },
+        {
+          "v_id": "3023659686155",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069784536,
+            "M.@personFirstName": "Hassan",
+            "M.@personLastName": "Atashin",
+            "messageId": 3023659686155,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215780869
+          }
+        },
+        {
+          "v_id": "3023657980094",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023257363,
+            "M.@personFirstName": "Deepak",
+            "M.@personLastName": "Kumar",
+            "messageId": 3023657980094,
+            "M.@messageContent": "roflol",
+            "messageCreationDate": 1323215778642
+          }
+        },
+        {
+          "v_id": "3023658545884",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023259319,
+            "M.@personFirstName": "Karl",
+            "M.@personLastName": "Becker",
+            "messageId": 3023658545884,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215753988
+          }
+        },
+        {
+          "v_id": "3023669752574",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209318637,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Baloch",
+            "messageId": 3023669752574,
+            "M.@messageContent": "photo3023669752574.jpg",
+            "messageCreationDate": 1323215684465
+          }
+        },
+        {
+          "v_id": "3023669752573",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209318637,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Baloch",
+            "messageId": 3023669752573,
+            "M.@messageContent": "photo3023669752573.jpg",
+            "messageCreationDate": 1323215683465
+          }
+        },
+        {
+          "v_id": "3023669752572",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209318637,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Baloch",
+            "messageId": 3023669752572,
+            "M.@messageContent": "photo3023669752572.jpg",
+            "messageCreationDate": 1323215682465
+          }
+        },
+        {
+          "v_id": "3023669752571",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209318637,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Baloch",
+            "messageId": 3023669752571,
+            "M.@messageContent": "photo3023669752571.jpg",
+            "messageCreationDate": 1323215681465
+          }
+        },
+        {
+          "v_id": "3023658929277",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 19791209308125,
+            "M.@personFirstName": "Lei",
+            "M.@personLastName": "Liu",
+            "messageId": 3023658929277,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323215648774
+          }
+        },
+        {
+          "v_id": "3023657696249",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023279301,
+            "M.@personFirstName": "Wei",
+            "M.@personLastName": "Wu",
+            "messageId": 3023657696249,
+            "M.@messageContent": "About Ashoka,  of Emperors Ashoka. His name aśoka means painless, without sorrow",
+            "messageCreationDate": 1323215577612
+          }
+        },
+        {
+          "v_id": "3023667419913",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186062034,
+            "M.@personFirstName": "Joseph",
+            "M.@personLastName": "Rao",
+            "messageId": 3023667419913,
+            "M.@messageContent": "About Abbas I of Persia, w Shah Mohammed in a coup and placed the 16-yeAbout Neil Diamond,",
+            "messageCreationDate": 1323215554181
+          }
+        },
+        {
+          "v_id": "3023662225626",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 4398046517803,
+            "M.@personFirstName": "Hector",
+            "M.@personLastName": "Rodriguez",
+            "messageId": 3023662225626,
+            "M.@messageContent": "About Herman Melville, 0s and never recovered during his lifAbout Ho Chi Minh, ies including Australia, New Zealand About Molière, Church, while Dom Juan was banned froAbout Julius",
+            "messageCreationDate": 1323215492128
+          }
+        },
+        {
+          "v_id": "3023663179257",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 13194139548963,
+            "M.@personFirstName": "Jimmy",
+            "M.@personLastName": "Lita",
+            "messageId": 3023663179257,
+            "M.@messageContent": "duh",
+            "messageCreationDate": 1323215489911
+          }
+        }
+      ]
+    },
+    {
+      "M.size()": 20
+    },
+    {
+      "TopKM": [
+        {
+          "v_id": "3023666062640",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023666062640,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "3023659686155",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023659686155,
+            "messageContent": "good"
+          }
+        },
+        {
+          "v_id": "3023663800350",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023663800350,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "3023663594831",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023663594831,
+            "messageContent": "About Diana Ross,  the Guinness Book of World Records declared Diana Ross th"
+          }
+        },
+        {
+          "v_id": "3023662612903",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023662612903,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "3023657696249",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023657696249,
+            "messageContent": "About Ashoka,  of Emperors Ashoka. His name aśoka means painless, without sorrow"
+          }
+        },
+        {
+          "v_id": "3023657980094",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023657980094,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3023662225626",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023662225626,
+            "messageContent": "About Herman Melville, 0s and never recovered during his lifAbout Ho Chi Minh, ies including Australia, New Zealand About Molière, Church, while Dom Juan was banned froAbout Julius"
+          }
+        },
+        {
+          "v_id": "3023658284718",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3023658284718,
+            "messageContent": "About Henry Kissinger, s Richard Nixon and Gerald Ford. After his term, his opinion w"
+          }
+        },
+        {
+          "v_id": "3023667419913",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023667419913,
+            "messageContent": "About Abbas I of Persia, w Shah Mohammed in a coup and placed the 16-yeAbout Neil Diamond,"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m1.051s
+user	0m1.448s
+sys	0m0.176s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "M": [
+        {
+          "v_id": "3023663800350",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 24189255816164,
+            "M.@personFirstName": "Aleksej",
+            "M.@personLastName": "Linchuk",
+            "messageId": 3023663800350,
+            "M.@messageContent": "thanks",
+            "messageCreationDate": 1323215990702
+          }
+        },
+        {
+          "v_id": "3023661456327",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069777836,
+            "M.@personFirstName": "Steve",
+            "M.@personLastName": "Brown",
+            "messageId": 3023661456327,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215987695
+          }
+        },
+        {
+          "v_id": "3023663594831",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162800124,
+            "M.@personFirstName": "Chen",
+            "M.@personLastName": "Xu",
+            "messageId": 3023663594831,
+            "M.@messageContent": "About Diana Ross,  the Guinness Book of World Records declared Diana Ross th",
+            "messageCreationDate": 1323215957765
+          }
+        },
+        {
+          "v_id": "3023663504409",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069769978,
+            "M.@personFirstName": "Axelle",
+            "M.@personLastName": "Atem",
+            "messageId": 3023663504409,
+            "M.@messageContent": "maybe",
+            "messageCreationDate": 1323215926564
+          }
+        },
+        {
+          "v_id": "3023666062640",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162794237,
+            "M.@personFirstName": "Carlos",
+            "M.@personLastName": "González",
+            "messageId": 3023666062640,
+            "M.@messageContent": "thx",
+            "messageCreationDate": 1323215908450
+          }
+        },
+        {
+          "v_id": "3023658284718",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 13684,
+            "M.@personFirstName": "Aa Ngurah",
+            "M.@personLastName": "Tobing",
+            "messageId": 3023658284718,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215831490
+          }
+        },
+        {
+          "v_id": "3023662612903",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186050667,
+            "M.@personFirstName": "Alfredo",
+            "M.@personLastName": "Parra",
+            "messageId": 3023662612903,
+            "M.@messageContent": "right",
+            "messageCreationDate": 1323215812073
+          }
+        },
+        {
+          "v_id": "3023663182161",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023260481,
+            "M.@personFirstName": "Robert",
+            "M.@personLastName": "Smith",
+            "messageId": 3023663182161,
+            "M.@messageContent": "maybe",
+            "messageCreationDate": 1323215783142
+          }
+        },
+        {
+          "v_id": "3023659686155",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069784536,
+            "M.@personFirstName": "Hassan",
+            "M.@personLastName": "Atashin",
+            "messageId": 3023659686155,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215780869
+          }
+        },
+        {
+          "v_id": "3023657980094",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023257363,
+            "M.@personFirstName": "Deepak",
+            "M.@personLastName": "Kumar",
+            "messageId": 3023657980094,
+            "M.@messageContent": "roflol",
+            "messageCreationDate": 1323215778642
+          }
+        },
+        {
+          "v_id": "3023658545884",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023259319,
+            "M.@personFirstName": "Karl",
+            "M.@personLastName": "Becker",
+            "messageId": 3023658545884,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215753988
+          }
+        },
+        {
+          "v_id": "3023669752574",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209318637,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Baloch",
+            "messageId": 3023669752574,
+            "M.@messageContent": "photo3023669752574.jpg",
+            "messageCreationDate": 1323215684465
+          }
+        },
+        {
+          "v_id": "3023669752573",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209318637,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Baloch",
+            "messageId": 3023669752573,
+            "M.@messageContent": "photo3023669752573.jpg",
+            "messageCreationDate": 1323215683465
+          }
+        },
+        {
+          "v_id": "3023669752572",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209318637,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Baloch",
+            "messageId": 3023669752572,
+            "M.@messageContent": "photo3023669752572.jpg",
+            "messageCreationDate": 1323215682465
+          }
+        },
+        {
+          "v_id": "3023669752571",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209318637,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Baloch",
+            "messageId": 3023669752571,
+            "M.@messageContent": "photo3023669752571.jpg",
+            "messageCreationDate": 1323215681465
+          }
+        },
+        {
+          "v_id": "3023658929277",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 19791209308125,
+            "M.@personFirstName": "Lei",
+            "M.@personLastName": "Liu",
+            "messageId": 3023658929277,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323215648774
+          }
+        },
+        {
+          "v_id": "3023657696249",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023279301,
+            "M.@personFirstName": "Wei",
+            "M.@personLastName": "Wu",
+            "messageId": 3023657696249,
+            "M.@messageContent": "About Ashoka,  of Emperors Ashoka. His name aśoka means painless, without sorrow",
+            "messageCreationDate": 1323215577612
+          }
+        },
+        {
+          "v_id": "3023667419913",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186062034,
+            "M.@personFirstName": "Joseph",
+            "M.@personLastName": "Rao",
+            "messageId": 3023667419913,
+            "M.@messageContent": "About Abbas I of Persia, w Shah Mohammed in a coup and placed the 16-yeAbout Neil Diamond,",
+            "messageCreationDate": 1323215554181
+          }
+        },
+        {
+          "v_id": "3023662225626",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 4398046517803,
+            "M.@personFirstName": "Hector",
+            "M.@personLastName": "Rodriguez",
+            "messageId": 3023662225626,
+            "M.@messageContent": "About Herman Melville, 0s and never recovered during his lifAbout Ho Chi Minh, ies including Australia, New Zealand About Molière, Church, while Dom Juan was banned froAbout Julius",
+            "messageCreationDate": 1323215492128
+          }
+        },
+        {
+          "v_id": "3023663179257",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 13194139548963,
+            "M.@personFirstName": "Jimmy",
+            "M.@personLastName": "Lita",
+            "messageId": 3023663179257,
+            "M.@messageContent": "duh",
+            "messageCreationDate": 1323215489911
+          }
+        }
+      ]
+    },
+    {
+      "M.size()": 20
+    },
+    {
+      "TopKM": [
+        {
+          "v_id": "3023666062640",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023666062640,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "3023659686155",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023659686155,
+            "messageContent": "good"
+          }
+        },
+        {
+          "v_id": "3023663800350",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023663800350,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "3023662612903",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023662612903,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "3023657696249",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023657696249,
+            "messageContent": "About Ashoka,  of Emperors Ashoka. His name aśoka means painless, without sorrow"
+          }
+        },
+        {
+          "v_id": "3023663594831",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023663594831,
+            "messageContent": "About Diana Ross,  the Guinness Book of World Records declared Diana Ross th"
+          }
+        },
+        {
+          "v_id": "3023658284718",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3023658284718,
+            "messageContent": "About Henry Kissinger, s Richard Nixon and Gerald Ford. After his term, his opinion w"
+          }
+        },
+        {
+          "v_id": "3023667419913",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023667419913,
+            "messageContent": "About Abbas I of Persia, w Shah Mohammed in a coup and placed the 16-yeAbout Neil Diamond,"
+          }
+        },
+        {
+          "v_id": "3023657980094",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023657980094,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3023662225626",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023662225626,
+            "messageContent": "About Herman Melville, 0s and never recovered during his lifAbout Ho Chi Minh, ies including Australia, New Zealand About Molière, Church, while Dom Juan was banned froAbout Julius"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m1.034s
+user	0m1.391s
+sys	0m0.205s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "M": [
+        {
+          "v_id": "3023663800350",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 24189255816164,
+            "M.@personFirstName": "Aleksej",
+            "M.@personLastName": "Linchuk",
+            "messageId": 3023663800350,
+            "M.@messageContent": "thanks",
+            "messageCreationDate": 1323215990702
+          }
+        },
+        {
+          "v_id": "3023661456327",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069777836,
+            "M.@personFirstName": "Steve",
+            "M.@personLastName": "Brown",
+            "messageId": 3023661456327,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215987695
+          }
+        },
+        {
+          "v_id": "3023663594831",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162800124,
+            "M.@personFirstName": "Chen",
+            "M.@personLastName": "Xu",
+            "messageId": 3023663594831,
+            "M.@messageContent": "About Diana Ross,  the Guinness Book of World Records declared Diana Ross th",
+            "messageCreationDate": 1323215957765
+          }
+        },
+        {
+          "v_id": "3023663504409",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069769978,
+            "M.@personFirstName": "Axelle",
+            "M.@personLastName": "Atem",
+            "messageId": 3023663504409,
+            "M.@messageContent": "maybe",
+            "messageCreationDate": 1323215926564
+          }
+        },
+        {
+          "v_id": "3023666062640",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162794237,
+            "M.@personFirstName": "Carlos",
+            "M.@personLastName": "González",
+            "messageId": 3023666062640,
+            "M.@messageContent": "thx",
+            "messageCreationDate": 1323215908450
+          }
+        },
+        {
+          "v_id": "3023658284718",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 13684,
+            "M.@personFirstName": "Aa Ngurah",
+            "M.@personLastName": "Tobing",
+            "messageId": 3023658284718,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215831490
+          }
+        },
+        {
+          "v_id": "3023662612903",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186050667,
+            "M.@personFirstName": "Alfredo",
+            "M.@personLastName": "Parra",
+            "messageId": 3023662612903,
+            "M.@messageContent": "right",
+            "messageCreationDate": 1323215812073
+          }
+        },
+        {
+          "v_id": "3023663182161",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023260481,
+            "M.@personFirstName": "Robert",
+            "M.@personLastName": "Smith",
+            "messageId": 3023663182161,
+            "M.@messageContent": "maybe",
+            "messageCreationDate": 1323215783142
+          }
+        },
+        {
+          "v_id": "3023659686155",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069784536,
+            "M.@personFirstName": "Hassan",
+            "M.@personLastName": "Atashin",
+            "messageId": 3023659686155,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215780869
+          }
+        },
+        {
+          "v_id": "3023657980094",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023257363,
+            "M.@personFirstName": "Deepak",
+            "M.@personLastName": "Kumar",
+            "messageId": 3023657980094,
+            "M.@messageContent": "roflol",
+            "messageCreationDate": 1323215778642
+          }
+        },
+        {
+          "v_id": "3023658545884",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023259319,
+            "M.@personFirstName": "Karl",
+            "M.@personLastName": "Becker",
+            "messageId": 3023658545884,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215753988
+          }
+        },
+        {
+          "v_id": "3023669752574",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209318637,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Baloch",
+            "messageId": 3023669752574,
+            "M.@messageContent": "photo3023669752574.jpg",
+            "messageCreationDate": 1323215684465
+          }
+        },
+        {
+          "v_id": "3023669752573",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209318637,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Baloch",
+            "messageId": 3023669752573,
+            "M.@messageContent": "photo3023669752573.jpg",
+            "messageCreationDate": 1323215683465
+          }
+        },
+        {
+          "v_id": "3023669752572",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209318637,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Baloch",
+            "messageId": 3023669752572,
+            "M.@messageContent": "photo3023669752572.jpg",
+            "messageCreationDate": 1323215682465
+          }
+        },
+        {
+          "v_id": "3023669752571",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209318637,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Baloch",
+            "messageId": 3023669752571,
+            "M.@messageContent": "photo3023669752571.jpg",
+            "messageCreationDate": 1323215681465
+          }
+        },
+        {
+          "v_id": "3023658929277",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 19791209308125,
+            "M.@personFirstName": "Lei",
+            "M.@personLastName": "Liu",
+            "messageId": 3023658929277,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323215648774
+          }
+        },
+        {
+          "v_id": "3023657696249",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023279301,
+            "M.@personFirstName": "Wei",
+            "M.@personLastName": "Wu",
+            "messageId": 3023657696249,
+            "M.@messageContent": "About Ashoka,  of Emperors Ashoka. His name aśoka means painless, without sorrow",
+            "messageCreationDate": 1323215577612
+          }
+        },
+        {
+          "v_id": "3023667419913",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186062034,
+            "M.@personFirstName": "Joseph",
+            "M.@personLastName": "Rao",
+            "messageId": 3023667419913,
+            "M.@messageContent": "About Abbas I of Persia, w Shah Mohammed in a coup and placed the 16-yeAbout Neil Diamond,",
+            "messageCreationDate": 1323215554181
+          }
+        },
+        {
+          "v_id": "3023662225626",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 4398046517803,
+            "M.@personFirstName": "Hector",
+            "M.@personLastName": "Rodriguez",
+            "messageId": 3023662225626,
+            "M.@messageContent": "About Herman Melville, 0s and never recovered during his lifAbout Ho Chi Minh, ies including Australia, New Zealand About Molière, Church, while Dom Juan was banned froAbout Julius",
+            "messageCreationDate": 1323215492128
+          }
+        },
+        {
+          "v_id": "3023663179257",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 13194139548963,
+            "M.@personFirstName": "Jimmy",
+            "M.@personLastName": "Lita",
+            "messageId": 3023663179257,
+            "M.@messageContent": "duh",
+            "messageCreationDate": 1323215489911
+          }
+        }
+      ]
+    },
+    {
+      "M.size()": 20
+    },
+    {
+      "TopKM": [
+        {
+          "v_id": "3023657980094",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023657980094,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3023662612903",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023662612903,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "3023658284718",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3023658284718,
+            "messageContent": "About Henry Kissinger, s Richard Nixon and Gerald Ford. After his term, his opinion w"
+          }
+        },
+        {
+          "v_id": "3023666062640",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023666062640,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "3023659686155",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023659686155,
+            "messageContent": "good"
+          }
+        },
+        {
+          "v_id": "3023663800350",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023663800350,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "3023663594831",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023663594831,
+            "messageContent": "About Diana Ross,  the Guinness Book of World Records declared Diana Ross th"
+          }
+        },
+        {
+          "v_id": "3023657696249",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023657696249,
+            "messageContent": "About Ashoka,  of Emperors Ashoka. His name aśoka means painless, without sorrow"
+          }
+        },
+        {
+          "v_id": "3023662225626",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023662225626,
+            "messageContent": "About Herman Melville, 0s and never recovered during his lifAbout Ho Chi Minh, ies including Australia, New Zealand About Molière, Church, while Dom Juan was banned froAbout Julius"
+          }
+        },
+        {
+          "v_id": "3023667419913",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023667419913,
+            "messageContent": "About Abbas I of Persia, w Shah Mohammed in a coup and placed the 16-yeAbout Neil Diamond,"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.992s
+user	0m1.377s
+sys	0m0.223s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "M": [
+        {
+          "v_id": "3023663800350",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 24189255816164,
+            "M.@personFirstName": "Aleksej",
+            "M.@personLastName": "Linchuk",
+            "messageId": 3023663800350,
+            "M.@messageContent": "thanks",
+            "messageCreationDate": 1323215990702
+          }
+        },
+        {
+          "v_id": "3023661456327",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069777836,
+            "M.@personFirstName": "Steve",
+            "M.@personLastName": "Brown",
+            "messageId": 3023661456327,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215987695
+          }
+        },
+        {
+          "v_id": "3023663594831",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162800124,
+            "M.@personFirstName": "Chen",
+            "M.@personLastName": "Xu",
+            "messageId": 3023663594831,
+            "M.@messageContent": "About Diana Ross,  the Guinness Book of World Records declared Diana Ross th",
+            "messageCreationDate": 1323215957765
+          }
+        },
+        {
+          "v_id": "3023663504409",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069769978,
+            "M.@personFirstName": "Axelle",
+            "M.@personLastName": "Atem",
+            "messageId": 3023663504409,
+            "M.@messageContent": "maybe",
+            "messageCreationDate": 1323215926564
+          }
+        },
+        {
+          "v_id": "3023666062640",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162794237,
+            "M.@personFirstName": "Carlos",
+            "M.@personLastName": "González",
+            "messageId": 3023666062640,
+            "M.@messageContent": "thx",
+            "messageCreationDate": 1323215908450
+          }
+        },
+        {
+          "v_id": "3023658284718",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 13684,
+            "M.@personFirstName": "Aa Ngurah",
+            "M.@personLastName": "Tobing",
+            "messageId": 3023658284718,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215831490
+          }
+        },
+        {
+          "v_id": "3023662612903",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186050667,
+            "M.@personFirstName": "Alfredo",
+            "M.@personLastName": "Parra",
+            "messageId": 3023662612903,
+            "M.@messageContent": "right",
+            "messageCreationDate": 1323215812073
+          }
+        },
+        {
+          "v_id": "3023663182161",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023260481,
+            "M.@personFirstName": "Robert",
+            "M.@personLastName": "Smith",
+            "messageId": 3023663182161,
+            "M.@messageContent": "maybe",
+            "messageCreationDate": 1323215783142
+          }
+        },
+        {
+          "v_id": "3023659686155",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069784536,
+            "M.@personFirstName": "Hassan",
+            "M.@personLastName": "Atashin",
+            "messageId": 3023659686155,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215780869
+          }
+        },
+        {
+          "v_id": "3023657980094",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023257363,
+            "M.@personFirstName": "Deepak",
+            "M.@personLastName": "Kumar",
+            "messageId": 3023657980094,
+            "M.@messageContent": "roflol",
+            "messageCreationDate": 1323215778642
+          }
+        },
+        {
+          "v_id": "3023658545884",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023259319,
+            "M.@personFirstName": "Karl",
+            "M.@personLastName": "Becker",
+            "messageId": 3023658545884,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215753988
+          }
+        },
+        {
+          "v_id": "3023669752574",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209318637,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Baloch",
+            "messageId": 3023669752574,
+            "M.@messageContent": "photo3023669752574.jpg",
+            "messageCreationDate": 1323215684465
+          }
+        },
+        {
+          "v_id": "3023669752573",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209318637,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Baloch",
+            "messageId": 3023669752573,
+            "M.@messageContent": "photo3023669752573.jpg",
+            "messageCreationDate": 1323215683465
+          }
+        },
+        {
+          "v_id": "3023669752572",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209318637,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Baloch",
+            "messageId": 3023669752572,
+            "M.@messageContent": "photo3023669752572.jpg",
+            "messageCreationDate": 1323215682465
+          }
+        },
+        {
+          "v_id": "3023669752571",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209318637,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Baloch",
+            "messageId": 3023669752571,
+            "M.@messageContent": "photo3023669752571.jpg",
+            "messageCreationDate": 1323215681465
+          }
+        },
+        {
+          "v_id": "3023658929277",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 19791209308125,
+            "M.@personFirstName": "Lei",
+            "M.@personLastName": "Liu",
+            "messageId": 3023658929277,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323215648774
+          }
+        },
+        {
+          "v_id": "3023657696249",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023279301,
+            "M.@personFirstName": "Wei",
+            "M.@personLastName": "Wu",
+            "messageId": 3023657696249,
+            "M.@messageContent": "About Ashoka,  of Emperors Ashoka. His name aśoka means painless, without sorrow",
+            "messageCreationDate": 1323215577612
+          }
+        },
+        {
+          "v_id": "3023667419913",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186062034,
+            "M.@personFirstName": "Joseph",
+            "M.@personLastName": "Rao",
+            "messageId": 3023667419913,
+            "M.@messageContent": "About Abbas I of Persia, w Shah Mohammed in a coup and placed the 16-yeAbout Neil Diamond,",
+            "messageCreationDate": 1323215554181
+          }
+        },
+        {
+          "v_id": "3023662225626",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 4398046517803,
+            "M.@personFirstName": "Hector",
+            "M.@personLastName": "Rodriguez",
+            "messageId": 3023662225626,
+            "M.@messageContent": "About Herman Melville, 0s and never recovered during his lifAbout Ho Chi Minh, ies including Australia, New Zealand About Molière, Church, while Dom Juan was banned froAbout Julius",
+            "messageCreationDate": 1323215492128
+          }
+        },
+        {
+          "v_id": "3023663179257",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 13194139548963,
+            "M.@personFirstName": "Jimmy",
+            "M.@personLastName": "Lita",
+            "messageId": 3023663179257,
+            "M.@messageContent": "duh",
+            "messageCreationDate": 1323215489911
+          }
+        }
+      ]
+    },
+    {
+      "M.size()": 20
+    },
+    {
+      "TopKM": [
+        {
+          "v_id": "3023666062640",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023666062640,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "3023659686155",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023659686155,
+            "messageContent": "good"
+          }
+        },
+        {
+          "v_id": "3023663800350",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023663800350,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "3023663594831",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023663594831,
+            "messageContent": "About Diana Ross,  the Guinness Book of World Records declared Diana Ross th"
+          }
+        },
+        {
+          "v_id": "3023662612903",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023662612903,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "3023657696249",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023657696249,
+            "messageContent": "About Ashoka,  of Emperors Ashoka. His name aśoka means painless, without sorrow"
+          }
+        },
+        {
+          "v_id": "3023658284718",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3023658284718,
+            "messageContent": "About Henry Kissinger, s Richard Nixon and Gerald Ford. After his term, his opinion w"
+          }
+        },
+        {
+          "v_id": "3023667419913",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023667419913,
+            "messageContent": "About Abbas I of Persia, w Shah Mohammed in a coup and placed the 16-yeAbout Neil Diamond,"
+          }
+        },
+        {
+          "v_id": "3023657980094",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023657980094,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3023662225626",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023662225626,
+            "messageContent": "About Herman Melville, 0s and never recovered during his lifAbout Ho Chi Minh, ies including Australia, New Zealand About Molière, Church, while Dom Juan was banned froAbout Julius"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m1.035s
+user	0m1.436s
+sys	0m0.166s
+ic 11
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "P": [
+        {
+          "v_id": "8796093039620",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 8796093039620,
+            "personFirstName": "Wolfgang",
+            "personLastName": "Bauer",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2001
+          }
+        },
+        {
+          "v_id": "10995116292957",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 10995116292957,
+            "personFirstName": "John",
+            "personLastName": "Sharma",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2002
+          }
+        },
+        {
+          "v_id": "24189255816572",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 24189255816572,
+            "personFirstName": "Mee",
+            "personLastName": "Bouphavanh",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2002
+          }
+        },
+        {
+          "v_id": "4398046533122",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046533122,
+            "personFirstName": "Camilo",
+            "personLastName": "Rodriguez",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "21990232573654",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 21990232573654,
+            "personFirstName": "Sanjay",
+            "personLastName": "Khan",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2005
+          }
+        },
+        {
+          "v_id": "4398046526285",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046526285,
+            "personFirstName": "Herbert",
+            "personLastName": "Castro",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2006
+          }
+        },
+        {
+          "v_id": "4398046535726",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046535726,
+            "personFirstName": "Chai",
+            "personLastName": "Phetrasy",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2006
+          }
+        },
+        {
+          "v_id": "6597069768918",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069768918,
+            "personFirstName": "Chris",
+            "personLastName": "Michie",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2006
+          }
+        },
+        {
+          "v_id": "24189255812331",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 24189255812331,
+            "personFirstName": "Mee",
+            "personLastName": "Vongvichit",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2006
+          }
+        },
+        {
+          "v_id": "26388279086695",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 26388279086695,
+            "personFirstName": "Peng",
+            "personLastName": "He",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2006
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 8400
+    },
+    {
+      "M": [
+        {
+          "v_id": "4398057121549",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398057121549,
+            "messageContent": "About Freddie Mercury,  day after pubAbout Shepherd Moons, It was a #1 alAbout V"
+          }
+        },
+        {
+          "v_id": "4398048913220",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398048913220,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "3848303463685",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3848303463685,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "2199032780891",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199032780891,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4123177772614",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123177772614,
+            "messageContent": "ok"
+          }
+        },
+        {
+          "v_id": "3573418395024",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573418395024,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "4123177040385",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123177040385,
+            "messageContent": "no"
+          }
+        },
+        {
+          "v_id": "4123175928334",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123175928334,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4123175577910",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123175577910,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "3573421733886",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573421733886,
+            "messageContent": "About Jawaharlal Nehru, of independent India (1947–64About Ovid, es, a mythological he"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.651s
+user	0m1.152s
+sys	0m0.225s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "P": [
+        {
+          "v_id": "8796093039620",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 8796093039620,
+            "personFirstName": "Wolfgang",
+            "personLastName": "Bauer",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2001
+          }
+        },
+        {
+          "v_id": "10995116292957",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 10995116292957,
+            "personFirstName": "John",
+            "personLastName": "Sharma",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2002
+          }
+        },
+        {
+          "v_id": "24189255816572",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 24189255816572,
+            "personFirstName": "Mee",
+            "personLastName": "Bouphavanh",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2002
+          }
+        },
+        {
+          "v_id": "4398046533122",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046533122,
+            "personFirstName": "Camilo",
+            "personLastName": "Rodriguez",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "21990232573654",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 21990232573654,
+            "personFirstName": "Sanjay",
+            "personLastName": "Khan",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2005
+          }
+        },
+        {
+          "v_id": "4398046526285",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046526285,
+            "personFirstName": "Herbert",
+            "personLastName": "Castro",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2006
+          }
+        },
+        {
+          "v_id": "4398046535726",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046535726,
+            "personFirstName": "Chai",
+            "personLastName": "Phetrasy",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2006
+          }
+        },
+        {
+          "v_id": "6597069768918",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069768918,
+            "personFirstName": "Chris",
+            "personLastName": "Michie",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2006
+          }
+        },
+        {
+          "v_id": "24189255812331",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 24189255812331,
+            "personFirstName": "Mee",
+            "personLastName": "Vongvichit",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2006
+          }
+        },
+        {
+          "v_id": "26388279086695",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 26388279086695,
+            "personFirstName": "Peng",
+            "personLastName": "He",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2006
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 8400
+    },
+    {
+      "M": [
+        {
+          "v_id": "4398057121549",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398057121549,
+            "messageContent": "About Freddie Mercury,  day after pubAbout Shepherd Moons, It was a #1 alAbout V"
+          }
+        },
+        {
+          "v_id": "4398048913220",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398048913220,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "3848303463685",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3848303463685,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "2199032780891",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199032780891,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4123177772614",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123177772614,
+            "messageContent": "ok"
+          }
+        },
+        {
+          "v_id": "3573418395024",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573418395024,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "4123175577910",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123175577910,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "3573421733886",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573421733886,
+            "messageContent": "About Jawaharlal Nehru, of independent India (1947–64About Ovid, es, a mythological he"
+          }
+        },
+        {
+          "v_id": "4123177040385",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123177040385,
+            "messageContent": "no"
+          }
+        },
+        {
+          "v_id": "4123175928334",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123175928334,
+            "messageContent": "thanks"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.652s
+user	0m1.236s
+sys	0m0.153s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "P": [
+        {
+          "v_id": "8796093039620",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 8796093039620,
+            "personFirstName": "Wolfgang",
+            "personLastName": "Bauer",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2001
+          }
+        },
+        {
+          "v_id": "10995116292957",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 10995116292957,
+            "personFirstName": "John",
+            "personLastName": "Sharma",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2002
+          }
+        },
+        {
+          "v_id": "4398046533122",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046533122,
+            "personFirstName": "Camilo",
+            "personLastName": "Rodriguez",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "24189255816572",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 24189255816572,
+            "personFirstName": "Mee",
+            "personLastName": "Bouphavanh",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "21990232573654",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 21990232573654,
+            "personFirstName": "Sanjay",
+            "personLastName": "Khan",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2005
+          }
+        },
+        {
+          "v_id": "4398046526285",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046526285,
+            "personFirstName": "Herbert",
+            "personLastName": "Castro",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2006
+          }
+        },
+        {
+          "v_id": "4398046535726",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046535726,
+            "personFirstName": "Chai",
+            "personLastName": "Phetrasy",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2006
+          }
+        },
+        {
+          "v_id": "6597069768918",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069768918,
+            "personFirstName": "Chris",
+            "personLastName": "Michie",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2006
+          }
+        },
+        {
+          "v_id": "24189255812331",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 24189255812331,
+            "personFirstName": "Mee",
+            "personLastName": "Vongvichit",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2006
+          }
+        },
+        {
+          "v_id": "26388279086695",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 26388279086695,
+            "personFirstName": "Peng",
+            "personLastName": "He",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2006
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 8400
+    },
+    {
+      "M": [
+        {
+          "v_id": "4398057121549",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398057121549,
+            "messageContent": "About Freddie Mercury,  day after pubAbout Shepherd Moons, It was a #1 alAbout V"
+          }
+        },
+        {
+          "v_id": "4398048913220",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398048913220,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "4123177772614",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123177772614,
+            "messageContent": "ok"
+          }
+        },
+        {
+          "v_id": "3573418395024",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573418395024,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "3848303463685",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3848303463685,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "2199032780891",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199032780891,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4123175577910",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123175577910,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "3573421733886",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573421733886,
+            "messageContent": "About Jawaharlal Nehru, of independent India (1947–64About Ovid, es, a mythological he"
+          }
+        },
+        {
+          "v_id": "4123175928334",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123175928334,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4123177040385",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123177040385,
+            "messageContent": "no"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.649s
+user	0m1.224s
+sys	0m0.156s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "P": [
+        {
+          "v_id": "8796093039620",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 8796093039620,
+            "personFirstName": "Wolfgang",
+            "personLastName": "Bauer",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2001
+          }
+        },
+        {
+          "v_id": "10995116292957",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 10995116292957,
+            "personFirstName": "John",
+            "personLastName": "Sharma",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2002
+          }
+        },
+        {
+          "v_id": "24189255816572",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 24189255816572,
+            "personFirstName": "Mee",
+            "personLastName": "Bouphavanh",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2002
+          }
+        },
+        {
+          "v_id": "4398046533122",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046533122,
+            "personFirstName": "Camilo",
+            "personLastName": "Rodriguez",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "21990232573654",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 21990232573654,
+            "personFirstName": "Sanjay",
+            "personLastName": "Khan",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2005
+          }
+        },
+        {
+          "v_id": "4398046526285",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046526285,
+            "personFirstName": "Herbert",
+            "personLastName": "Castro",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2006
+          }
+        },
+        {
+          "v_id": "4398046535726",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046535726,
+            "personFirstName": "Chai",
+            "personLastName": "Phetrasy",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2006
+          }
+        },
+        {
+          "v_id": "6597069768918",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069768918,
+            "personFirstName": "Chris",
+            "personLastName": "Michie",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2006
+          }
+        },
+        {
+          "v_id": "24189255812331",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 24189255812331,
+            "personFirstName": "Mee",
+            "personLastName": "Vongvichit",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2006
+          }
+        },
+        {
+          "v_id": "26388279086695",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 26388279086695,
+            "personFirstName": "Peng",
+            "personLastName": "He",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2006
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 8400
+    },
+    {
+      "M": [
+        {
+          "v_id": "3848303463685",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3848303463685,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "2199032780891",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199032780891,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4123177040385",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123177040385,
+            "messageContent": "no"
+          }
+        },
+        {
+          "v_id": "4123175928334",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123175928334,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4123177772614",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123177772614,
+            "messageContent": "ok"
+          }
+        },
+        {
+          "v_id": "3573418395024",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573418395024,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "4398057121549",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398057121549,
+            "messageContent": "About Freddie Mercury,  day after pubAbout Shepherd Moons, It was a #1 alAbout V"
+          }
+        },
+        {
+          "v_id": "4398048913220",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398048913220,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "4123175577910",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123175577910,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "3573421733886",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573421733886,
+            "messageContent": "About Jawaharlal Nehru, of independent India (1947–64About Ovid, es, a mythological he"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.653s
+user	0m1.170s
+sys	0m0.205s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "P": [
+        {
+          "v_id": "8796093039620",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 8796093039620,
+            "personFirstName": "Wolfgang",
+            "personLastName": "Bauer",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2001
+          }
+        },
+        {
+          "v_id": "10995116292957",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 10995116292957,
+            "personFirstName": "John",
+            "personLastName": "Sharma",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2002
+          }
+        },
+        {
+          "v_id": "24189255816572",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 24189255816572,
+            "personFirstName": "Mee",
+            "personLastName": "Bouphavanh",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2002
+          }
+        },
+        {
+          "v_id": "4398046533122",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046533122,
+            "personFirstName": "Camilo",
+            "personLastName": "Rodriguez",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "21990232573654",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 21990232573654,
+            "personFirstName": "Sanjay",
+            "personLastName": "Khan",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2005
+          }
+        },
+        {
+          "v_id": "4398046526285",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046526285,
+            "personFirstName": "Herbert",
+            "personLastName": "Castro",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2006
+          }
+        },
+        {
+          "v_id": "4398046535726",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046535726,
+            "personFirstName": "Chai",
+            "personLastName": "Phetrasy",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2006
+          }
+        },
+        {
+          "v_id": "6597069768918",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069768918,
+            "personFirstName": "Chris",
+            "personLastName": "Michie",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2006
+          }
+        },
+        {
+          "v_id": "24189255812331",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 24189255812331,
+            "personFirstName": "Mee",
+            "personLastName": "Vongvichit",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2006
+          }
+        },
+        {
+          "v_id": "26388279086695",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 26388279086695,
+            "personFirstName": "Peng",
+            "personLastName": "He",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2006
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 8400
+    },
+    {
+      "M": [
+        {
+          "v_id": "4123175577910",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123175577910,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "4398057121549",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398057121549,
+            "messageContent": "About Freddie Mercury,  day after pubAbout Shepherd Moons, It was a #1 alAbout V"
+          }
+        },
+        {
+          "v_id": "4398048913220",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398048913220,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "3848303463685",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3848303463685,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "2199032780891",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199032780891,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4123177772614",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123177772614,
+            "messageContent": "ok"
+          }
+        },
+        {
+          "v_id": "3573418395024",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573418395024,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "4123177040385",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123177040385,
+            "messageContent": "no"
+          }
+        },
+        {
+          "v_id": "3573421733886",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573421733886,
+            "messageContent": "About Jawaharlal Nehru, of independent India (1947–64About Ovid, es, a mythological he"
+          }
+        },
+        {
+          "v_id": "4123175928334",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123175928334,
+            "messageContent": "thanks"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.663s
+user	0m1.181s
+sys	0m0.233s

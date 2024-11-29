@@ -1,0 +1,46 @@
+USE GRAPH ldbc_snb
+drop query ic_5_hybrid
+
+CREATE QUERY ic_5_hybrid(vertex<Person> pid, datetime minDate, list<float> q) for graph ldbc_snb syntax v2 {
+
+  SetAccum<vertex> @forumSet;
+
+  SetAccum<vertex<Post>> @postSet;
+  SetAccum<vertex<Post>> @@PostSet;
+  SumAccum<int> @postCount;
+  S = { pid };
+
+  F =
+    SELECT f
+    FROM S:s -(KNOWS*1..2)- Person:p -(<HAS_MEMBER:e)- Forum:f
+    WHERE p != s AND e.creationDate > datetime_to_epoch(minDate) * 1000
+    ACCUM p.@forumSet += f;
+
+  R = 
+      SELECT  f 
+      FROM F:f -(CONTAINER_OF>)- Post:m -(HAS_CREATOR>)- :p
+      ACCUM  CASE WHEN  p.@forumSet.contains(f) THEN
+           f.@postCount += 1
+           END, 
+           @@PostSet += m;
+
+   F = SELECT f
+       FROM F:f
+       ORDER BY f.@postCount DESC, f.id ASC
+       LIMIT 20;
+  
+  PSet = @@PostSet;
+
+  M = TopKVectorSearch({Post.content_embedding}, q, 10, filter=PSet, ef=50);
+
+  PRINT F[F.title AS forumTitle, F.@postCount AS postCount];
+
+  PRINT PSet.size();
+
+  PRINT M[
+     M.id AS messageId,
+     M.content AS messageContent
+  ];
+}
+
+install query -single ic_5_hybrid

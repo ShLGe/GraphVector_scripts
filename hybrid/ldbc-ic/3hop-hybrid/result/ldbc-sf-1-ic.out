@@ -1,0 +1,5690 @@
+ic 3
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "S": [
+        {
+          "v_id": "9467",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 9467,
+            "personFirstName": "Rahul",
+            "personLastName": "Khan",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 2
+    },
+    {
+      "M": [
+        {
+          "v_id": "1924146418778",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1924146418778,
+            "messageContent": "no way!"
+          }
+        },
+        {
+          "v_id": "2336462927708",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2336462927708,
+            "messageContent": "About Van Morrison, s Georgie Fame and The Chieftains. In 200About H. P. Lovecra"
+          }
+        },
+        {
+          "v_id": "1786706597890",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1786706597890,
+            "messageContent": "About Yoko Ono, red New WaAbout B.B. King, azine rankAbout Weird Al Yankovic,"
+          }
+        },
+        {
+          "v_id": "2199024148272",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199024148272,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "2199024383924",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199024383924,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "2061585371677",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2061585371677,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "2199027518567",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199027518567,
+            "messageContent": "yes"
+          }
+        },
+        {
+          "v_id": "2199023458285",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199023458285,
+            "messageContent": "About Mohammed Zahir Shah, Zahir Shah (About Richard Wagner, ich were broAbout Jamie Foxx"
+          }
+        },
+        {
+          "v_id": "2199023458290",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199023458290,
+            "messageContent": "About Jamie Foxx, five years oAbout Saddam Hussein, erred to as About The Lio"
+          }
+        },
+        {
+          "v_id": "2061585372269",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2061585372269,
+            "messageContent": "yes"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.714s
+user	0m1.272s
+sys	0m0.156s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "S": [
+        {
+          "v_id": "9467",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 9467,
+            "personFirstName": "Rahul",
+            "personLastName": "Khan",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 2
+    },
+    {
+      "M": [
+        {
+          "v_id": "2199023458285",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199023458285,
+            "messageContent": "About Mohammed Zahir Shah, Zahir Shah (About Richard Wagner, ich were broAbout Jamie Foxx"
+          }
+        },
+        {
+          "v_id": "2199023458290",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199023458290,
+            "messageContent": "About Jamie Foxx, five years oAbout Saddam Hussein, erred to as About The Lio"
+          }
+        },
+        {
+          "v_id": "2061585372269",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2061585372269,
+            "messageContent": "yes"
+          }
+        },
+        {
+          "v_id": "2061585371677",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2061585371677,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "1786706597890",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1786706597890,
+            "messageContent": "About Yoko Ono, red New WaAbout B.B. King, azine rankAbout Weird Al Yankovic,"
+          }
+        },
+        {
+          "v_id": "2199024148272",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199024148272,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "2199024383924",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199024383924,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "2336462927708",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2336462927708,
+            "messageContent": "About Van Morrison, s Georgie Fame and The Chieftains. In 200About H. P. Lovecra"
+          }
+        },
+        {
+          "v_id": "1924146418778",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1924146418778,
+            "messageContent": "no way!"
+          }
+        },
+        {
+          "v_id": "2199027518567",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199027518567,
+            "messageContent": "yes"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.711s
+user	0m1.261s
+sys	0m0.155s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "S": [
+        {
+          "v_id": "9467",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 9467,
+            "personFirstName": "Rahul",
+            "personLastName": "Khan",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 2
+    },
+    {
+      "M": [
+        {
+          "v_id": "1786706597890",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1786706597890,
+            "messageContent": "About Yoko Ono, red New WaAbout B.B. King, azine rankAbout Weird Al Yankovic,"
+          }
+        },
+        {
+          "v_id": "2199024148272",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199024148272,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "2199024383924",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199024383924,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "1924146418778",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1924146418778,
+            "messageContent": "no way!"
+          }
+        },
+        {
+          "v_id": "2199023458285",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199023458285,
+            "messageContent": "About Mohammed Zahir Shah, Zahir Shah (About Richard Wagner, ich were broAbout Jamie Foxx"
+          }
+        },
+        {
+          "v_id": "2199023458290",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199023458290,
+            "messageContent": "About Jamie Foxx, five years oAbout Saddam Hussein, erred to as About The Lio"
+          }
+        },
+        {
+          "v_id": "2061585372269",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2061585372269,
+            "messageContent": "yes"
+          }
+        },
+        {
+          "v_id": "2336462927708",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2336462927708,
+            "messageContent": "About Van Morrison, s Georgie Fame and The Chieftains. In 200About H. P. Lovecra"
+          }
+        },
+        {
+          "v_id": "2061585371677",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2061585371677,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "2199027518567",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199027518567,
+            "messageContent": "yes"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.724s
+user	0m1.269s
+sys	0m0.199s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "S": [
+        {
+          "v_id": "9467",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 9467,
+            "personFirstName": "Rahul",
+            "personLastName": "Khan",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 2
+    },
+    {
+      "M": [
+        {
+          "v_id": "1786706597890",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1786706597890,
+            "messageContent": "About Yoko Ono, red New WaAbout B.B. King, azine rankAbout Weird Al Yankovic,"
+          }
+        },
+        {
+          "v_id": "2199024148272",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199024148272,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "2199024383924",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199024383924,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "2336462927708",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2336462927708,
+            "messageContent": "About Van Morrison, s Georgie Fame and The Chieftains. In 200About H. P. Lovecra"
+          }
+        },
+        {
+          "v_id": "2061585371677",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2061585371677,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "2199023458285",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199023458285,
+            "messageContent": "About Mohammed Zahir Shah, Zahir Shah (About Richard Wagner, ich were broAbout Jamie Foxx"
+          }
+        },
+        {
+          "v_id": "2199023458290",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199023458290,
+            "messageContent": "About Jamie Foxx, five years oAbout Saddam Hussein, erred to as About The Lio"
+          }
+        },
+        {
+          "v_id": "2061585372269",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2061585372269,
+            "messageContent": "yes"
+          }
+        },
+        {
+          "v_id": "1924146418778",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1924146418778,
+            "messageContent": "no way!"
+          }
+        },
+        {
+          "v_id": "2199027518567",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199027518567,
+            "messageContent": "yes"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.722s
+user	0m1.248s
+sys	0m0.188s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "S": [
+        {
+          "v_id": "9467",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 9467,
+            "personFirstName": "Rahul",
+            "personLastName": "Khan",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 2
+    },
+    {
+      "M": [
+        {
+          "v_id": "2199023458285",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199023458285,
+            "messageContent": "About Mohammed Zahir Shah, Zahir Shah (About Richard Wagner, ich were broAbout Jamie Foxx"
+          }
+        },
+        {
+          "v_id": "2199023458290",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199023458290,
+            "messageContent": "About Jamie Foxx, five years oAbout Saddam Hussein, erred to as About The Lio"
+          }
+        },
+        {
+          "v_id": "2061585372269",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2061585372269,
+            "messageContent": "yes"
+          }
+        },
+        {
+          "v_id": "2336462927708",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2336462927708,
+            "messageContent": "About Van Morrison, s Georgie Fame and The Chieftains. In 200About H. P. Lovecra"
+          }
+        },
+        {
+          "v_id": "2199027518567",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199027518567,
+            "messageContent": "yes"
+          }
+        },
+        {
+          "v_id": "1786706597890",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1786706597890,
+            "messageContent": "About Yoko Ono, red New WaAbout B.B. King, azine rankAbout Weird Al Yankovic,"
+          }
+        },
+        {
+          "v_id": "2199024148272",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199024148272,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "2199024383924",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199024383924,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "2061585371677",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2061585371677,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "1924146418778",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1924146418778,
+            "messageContent": "no way!"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.714s
+user	0m1.238s
+sys	0m0.210s
+ic 5
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "F": [
+        {
+          "v_id": "1374389594904",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Charles_Darwin in Zanzibar",
+            "postCount": 41
+          }
+        },
+        {
+          "v_id": "962072736431",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Augustine_of_Hippo in Anguo",
+            "postCount": 36
+          }
+        },
+        {
+          "v_id": "687194817945",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Louis_XIV_of_France in Elpitiya",
+            "postCount": 34
+          }
+        },
+        {
+          "v_id": "137438965160",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Henry_II_of_England in Orlando",
+            "postCount": 31
+          }
+        },
+        {
+          "v_id": "1099511691293",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ho_Chi_Minh in Amman",
+            "postCount": 30
+          }
+        },
+        {
+          "v_id": "549755850815",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_Locke in Beipiao",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "962072728360",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Henry_Fonda in Awasa",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "1236950589470",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Jerry_Lee_Lewis in Chernivtsi",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "2061584359408",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ronald_Reagan in Athens",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "1099511678633",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Tom_Hanks in Brasília",
+            "postCount": 27
+          }
+        },
+        {
+          "v_id": "1649267519744",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Cary_Grant in Irkutsk",
+            "postCount": 27
+          }
+        },
+        {
+          "v_id": "1236950648363",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Sean_Connery in Richmond",
+            "postCount": 26
+          }
+        },
+        {
+          "v_id": "2199023264854",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Never_Can_Say_Goodbye in Haldia",
+            "postCount": 25
+          }
+        },
+        {
+          "v_id": "549755833070",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Zine_El_Abidine_Ben_Ali in Katowice",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "687194780970",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Bob_Hope in Liverpool",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "1099511637080",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ira_Gershwin in Haldia",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "1236950649936",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for William_Ewart_Gladstone in Bhopal",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "1786706470619",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Paris_Hilton in Danjiangkou",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "687194783828",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Vladimir_Lenin in Donggang",
+            "postCount": 23
+          }
+        },
+        {
+          "v_id": "1374389602642",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Martin_Scorsese in Salamanca",
+            "postCount": 23
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 822082
+    },
+    {
+      "M": [
+        {
+          "v_id": "962077141713",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 962077141713,
+            "messageContent": "About Arnold Schwarzenegger, on January 5, 2007. SchwarzeneggeAbout Steve Martin, ffbeat, absurdi"
+          }
+        },
+        {
+          "v_id": "2061586448699",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2061586448699,
+            "messageContent": "About Che Guevara, hown), was citeAbout D. H. Lawrence, l persecution, About Aleister Crowley, Horus in the eaAbout F"
+          }
+        },
+        {
+          "v_id": "1374394226505",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374394226505,
+            "messageContent": "About Mariano Rivera,  a Panamanian right-handedAbout George Washington, e and profitable trade by Ab"
+          }
+        },
+        {
+          "v_id": "1786711142049",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1786711142049,
+            "messageContent": "About Hamid Karzai, (Pashto: حامد کرزی, Hāmid Karzay; born 24 December 1957) is thAbout David Lloyd George, Germany and he"
+          }
+        },
+        {
+          "v_id": "2336464355569",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2336464355569,
+            "messageContent": "About Cleopatra VII, espeare's tragedy Antony and Cleopatra, Jules Massenet's opera Cléopâtre and the film Cleopatra (1963). In most depictions, Cleopatra is portrayed as"
+          }
+        },
+        {
+          "v_id": "1511833338732",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1511833338732,
+            "messageContent": "About Carl Gustaf Emil Mannerheim, rnal ancestry has its rooAbout Robert Schumann,  and influential"
+          }
+        },
+        {
+          "v_id": "1374391679408",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374391679408,
+            "messageContent": "About Kateryna Bondarenko, pulled off theAbout Laurence Olivier, livier, Baron About Calvin Coolidge, d Coolidge as About K"
+          }
+        },
+        {
+          "v_id": "1374391681643",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374391681643,
+            "messageContent": "About Adolf Hitler,  prior to World About Martin Luther, sthumously awardAbout George II of"
+          }
+        },
+        {
+          "v_id": "2061584825999",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2061584825999,
+            "messageContent": "About Bob Hope, b Hope, KBE, KCSG, KSS (born Leslie Townes Hope; May 29, 1903 – July 27, 2003) was"
+          }
+        },
+        {
+          "v_id": "1374389943946",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374389943946,
+            "messageContent": "About Wen Jiabao, to the post of Vice Premier under ZAbout Dante Alighieri, so called the Father of the"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.908s
+user	0m1.398s
+sys	0m0.176s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "F": [
+        {
+          "v_id": "1374389594904",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Charles_Darwin in Zanzibar",
+            "postCount": 41
+          }
+        },
+        {
+          "v_id": "962072736431",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Augustine_of_Hippo in Anguo",
+            "postCount": 36
+          }
+        },
+        {
+          "v_id": "687194817945",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Louis_XIV_of_France in Elpitiya",
+            "postCount": 34
+          }
+        },
+        {
+          "v_id": "137438965160",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Henry_II_of_England in Orlando",
+            "postCount": 31
+          }
+        },
+        {
+          "v_id": "1099511691293",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ho_Chi_Minh in Amman",
+            "postCount": 30
+          }
+        },
+        {
+          "v_id": "549755850815",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_Locke in Beipiao",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "962072728360",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Henry_Fonda in Awasa",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "1236950589470",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Jerry_Lee_Lewis in Chernivtsi",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "2061584359408",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ronald_Reagan in Athens",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "1099511678633",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Tom_Hanks in Brasília",
+            "postCount": 27
+          }
+        },
+        {
+          "v_id": "1649267519744",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Cary_Grant in Irkutsk",
+            "postCount": 27
+          }
+        },
+        {
+          "v_id": "1236950648363",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Sean_Connery in Richmond",
+            "postCount": 26
+          }
+        },
+        {
+          "v_id": "2199023264854",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Never_Can_Say_Goodbye in Haldia",
+            "postCount": 25
+          }
+        },
+        {
+          "v_id": "549755833070",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Zine_El_Abidine_Ben_Ali in Katowice",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "687194780970",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Bob_Hope in Liverpool",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "1099511637080",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ira_Gershwin in Haldia",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "1236950649936",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for William_Ewart_Gladstone in Bhopal",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "1786706470619",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Paris_Hilton in Danjiangkou",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "687194783828",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Vladimir_Lenin in Donggang",
+            "postCount": 23
+          }
+        },
+        {
+          "v_id": "1374389602642",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Martin_Scorsese in Salamanca",
+            "postCount": 23
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 822082
+    },
+    {
+      "M": [
+        {
+          "v_id": "962077141713",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 962077141713,
+            "messageContent": "About Arnold Schwarzenegger, on January 5, 2007. SchwarzeneggeAbout Steve Martin, ffbeat, absurdi"
+          }
+        },
+        {
+          "v_id": "2061586448699",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2061586448699,
+            "messageContent": "About Che Guevara, hown), was citeAbout D. H. Lawrence, l persecution, About Aleister Crowley, Horus in the eaAbout F"
+          }
+        },
+        {
+          "v_id": "1374389943946",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374389943946,
+            "messageContent": "About Wen Jiabao, to the post of Vice Premier under ZAbout Dante Alighieri, so called the Father of the"
+          }
+        },
+        {
+          "v_id": "1786711142049",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1786711142049,
+            "messageContent": "About Hamid Karzai, (Pashto: حامد کرزی, Hāmid Karzay; born 24 December 1957) is thAbout David Lloyd George, Germany and he"
+          }
+        },
+        {
+          "v_id": "2336464355569",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2336464355569,
+            "messageContent": "About Cleopatra VII, espeare's tragedy Antony and Cleopatra, Jules Massenet's opera Cléopâtre and the film Cleopatra (1963). In most depictions, Cleopatra is portrayed as"
+          }
+        },
+        {
+          "v_id": "1511833338732",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1511833338732,
+            "messageContent": "About Carl Gustaf Emil Mannerheim, rnal ancestry has its rooAbout Robert Schumann,  and influential"
+          }
+        },
+        {
+          "v_id": "1374391679408",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374391679408,
+            "messageContent": "About Kateryna Bondarenko, pulled off theAbout Laurence Olivier, livier, Baron About Calvin Coolidge, d Coolidge as About K"
+          }
+        },
+        {
+          "v_id": "1374394226505",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374394226505,
+            "messageContent": "About Mariano Rivera,  a Panamanian right-handedAbout George Washington, e and profitable trade by Ab"
+          }
+        },
+        {
+          "v_id": "1374391681643",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374391681643,
+            "messageContent": "About Adolf Hitler,  prior to World About Martin Luther, sthumously awardAbout George II of"
+          }
+        },
+        {
+          "v_id": "2061584825999",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2061584825999,
+            "messageContent": "About Bob Hope, b Hope, KBE, KCSG, KSS (born Leslie Townes Hope; May 29, 1903 – July 27, 2003) was"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.886s
+user	0m1.376s
+sys	0m0.183s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "F": [
+        {
+          "v_id": "1374389594904",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Charles_Darwin in Zanzibar",
+            "postCount": 41
+          }
+        },
+        {
+          "v_id": "962072736431",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Augustine_of_Hippo in Anguo",
+            "postCount": 36
+          }
+        },
+        {
+          "v_id": "687194817945",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Louis_XIV_of_France in Elpitiya",
+            "postCount": 34
+          }
+        },
+        {
+          "v_id": "137438965160",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Henry_II_of_England in Orlando",
+            "postCount": 31
+          }
+        },
+        {
+          "v_id": "1099511691293",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ho_Chi_Minh in Amman",
+            "postCount": 30
+          }
+        },
+        {
+          "v_id": "549755850815",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_Locke in Beipiao",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "962072728360",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Henry_Fonda in Awasa",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "1236950589470",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Jerry_Lee_Lewis in Chernivtsi",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "2061584359408",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ronald_Reagan in Athens",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "1099511678633",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Tom_Hanks in Brasília",
+            "postCount": 27
+          }
+        },
+        {
+          "v_id": "1649267519744",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Cary_Grant in Irkutsk",
+            "postCount": 27
+          }
+        },
+        {
+          "v_id": "1236950648363",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Sean_Connery in Richmond",
+            "postCount": 26
+          }
+        },
+        {
+          "v_id": "2199023264854",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Never_Can_Say_Goodbye in Haldia",
+            "postCount": 25
+          }
+        },
+        {
+          "v_id": "549755833070",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Zine_El_Abidine_Ben_Ali in Katowice",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "687194780970",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Bob_Hope in Liverpool",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "1099511637080",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ira_Gershwin in Haldia",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "1236950649936",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for William_Ewart_Gladstone in Bhopal",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "1786706470619",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Paris_Hilton in Danjiangkou",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "687194783828",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Vladimir_Lenin in Donggang",
+            "postCount": 23
+          }
+        },
+        {
+          "v_id": "1374389602642",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Martin_Scorsese in Salamanca",
+            "postCount": 23
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 822082
+    },
+    {
+      "M": [
+        {
+          "v_id": "1786711142049",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1786711142049,
+            "messageContent": "About Hamid Karzai, (Pashto: حامد کرزی, Hāmid Karzay; born 24 December 1957) is thAbout David Lloyd George, Germany and he"
+          }
+        },
+        {
+          "v_id": "2336464355569",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2336464355569,
+            "messageContent": "About Cleopatra VII, espeare's tragedy Antony and Cleopatra, Jules Massenet's opera Cléopâtre and the film Cleopatra (1963). In most depictions, Cleopatra is portrayed as"
+          }
+        },
+        {
+          "v_id": "962077141713",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 962077141713,
+            "messageContent": "About Arnold Schwarzenegger, on January 5, 2007. SchwarzeneggeAbout Steve Martin, ffbeat, absurdi"
+          }
+        },
+        {
+          "v_id": "2061586448699",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2061586448699,
+            "messageContent": "About Che Guevara, hown), was citeAbout D. H. Lawrence, l persecution, About Aleister Crowley, Horus in the eaAbout F"
+          }
+        },
+        {
+          "v_id": "1374394226505",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374394226505,
+            "messageContent": "About Mariano Rivera,  a Panamanian right-handedAbout George Washington, e and profitable trade by Ab"
+          }
+        },
+        {
+          "v_id": "1374391681643",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374391681643,
+            "messageContent": "About Adolf Hitler,  prior to World About Martin Luther, sthumously awardAbout George II of"
+          }
+        },
+        {
+          "v_id": "1374389943946",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374389943946,
+            "messageContent": "About Wen Jiabao, to the post of Vice Premier under ZAbout Dante Alighieri, so called the Father of the"
+          }
+        },
+        {
+          "v_id": "1511833338732",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1511833338732,
+            "messageContent": "About Carl Gustaf Emil Mannerheim, rnal ancestry has its rooAbout Robert Schumann,  and influential"
+          }
+        },
+        {
+          "v_id": "1374391679408",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374391679408,
+            "messageContent": "About Kateryna Bondarenko, pulled off theAbout Laurence Olivier, livier, Baron About Calvin Coolidge, d Coolidge as About K"
+          }
+        },
+        {
+          "v_id": "2061584825999",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2061584825999,
+            "messageContent": "About Bob Hope, b Hope, KBE, KCSG, KSS (born Leslie Townes Hope; May 29, 1903 – July 27, 2003) was"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.904s
+user	0m1.354s
+sys	0m0.223s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "F": [
+        {
+          "v_id": "1374389594904",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Charles_Darwin in Zanzibar",
+            "postCount": 41
+          }
+        },
+        {
+          "v_id": "962072736431",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Augustine_of_Hippo in Anguo",
+            "postCount": 36
+          }
+        },
+        {
+          "v_id": "687194817945",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Louis_XIV_of_France in Elpitiya",
+            "postCount": 34
+          }
+        },
+        {
+          "v_id": "137438965160",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Henry_II_of_England in Orlando",
+            "postCount": 31
+          }
+        },
+        {
+          "v_id": "1099511691293",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ho_Chi_Minh in Amman",
+            "postCount": 30
+          }
+        },
+        {
+          "v_id": "549755850815",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_Locke in Beipiao",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "962072728360",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Henry_Fonda in Awasa",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "1236950589470",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Jerry_Lee_Lewis in Chernivtsi",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "2061584359408",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ronald_Reagan in Athens",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "1099511678633",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Tom_Hanks in Brasília",
+            "postCount": 27
+          }
+        },
+        {
+          "v_id": "1649267519744",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Cary_Grant in Irkutsk",
+            "postCount": 27
+          }
+        },
+        {
+          "v_id": "1236950648363",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Sean_Connery in Richmond",
+            "postCount": 26
+          }
+        },
+        {
+          "v_id": "2199023264854",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Never_Can_Say_Goodbye in Haldia",
+            "postCount": 25
+          }
+        },
+        {
+          "v_id": "549755833070",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Zine_El_Abidine_Ben_Ali in Katowice",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "687194780970",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Bob_Hope in Liverpool",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "1099511637080",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ira_Gershwin in Haldia",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "1236950649936",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for William_Ewart_Gladstone in Bhopal",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "1786706470619",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Paris_Hilton in Danjiangkou",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "687194783828",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Vladimir_Lenin in Donggang",
+            "postCount": 23
+          }
+        },
+        {
+          "v_id": "1374389602642",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Martin_Scorsese in Salamanca",
+            "postCount": 23
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 822082
+    },
+    {
+      "M": [
+        {
+          "v_id": "1786711142049",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1786711142049,
+            "messageContent": "About Hamid Karzai, (Pashto: حامد کرزی, Hāmid Karzay; born 24 December 1957) is thAbout David Lloyd George, Germany and he"
+          }
+        },
+        {
+          "v_id": "2336464355569",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2336464355569,
+            "messageContent": "About Cleopatra VII, espeare's tragedy Antony and Cleopatra, Jules Massenet's opera Cléopâtre and the film Cleopatra (1963). In most depictions, Cleopatra is portrayed as"
+          }
+        },
+        {
+          "v_id": "1511833338732",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1511833338732,
+            "messageContent": "About Carl Gustaf Emil Mannerheim, rnal ancestry has its rooAbout Robert Schumann,  and influential"
+          }
+        },
+        {
+          "v_id": "1374391679408",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374391679408,
+            "messageContent": "About Kateryna Bondarenko, pulled off theAbout Laurence Olivier, livier, Baron About Calvin Coolidge, d Coolidge as About K"
+          }
+        },
+        {
+          "v_id": "1374394226505",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374394226505,
+            "messageContent": "About Mariano Rivera,  a Panamanian right-handedAbout George Washington, e and profitable trade by Ab"
+          }
+        },
+        {
+          "v_id": "1374391681643",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374391681643,
+            "messageContent": "About Adolf Hitler,  prior to World About Martin Luther, sthumously awardAbout George II of"
+          }
+        },
+        {
+          "v_id": "1374389943946",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374389943946,
+            "messageContent": "About Wen Jiabao, to the post of Vice Premier under ZAbout Dante Alighieri, so called the Father of the"
+          }
+        },
+        {
+          "v_id": "962077141713",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 962077141713,
+            "messageContent": "About Arnold Schwarzenegger, on January 5, 2007. SchwarzeneggeAbout Steve Martin, ffbeat, absurdi"
+          }
+        },
+        {
+          "v_id": "2061586448699",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2061586448699,
+            "messageContent": "About Che Guevara, hown), was citeAbout D. H. Lawrence, l persecution, About Aleister Crowley, Horus in the eaAbout F"
+          }
+        },
+        {
+          "v_id": "2061584825999",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2061584825999,
+            "messageContent": "About Bob Hope, b Hope, KBE, KCSG, KSS (born Leslie Townes Hope; May 29, 1903 – July 27, 2003) was"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.902s
+user	0m1.367s
+sys	0m0.194s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "F": [
+        {
+          "v_id": "1374389594904",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Charles_Darwin in Zanzibar",
+            "postCount": 41
+          }
+        },
+        {
+          "v_id": "962072736431",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Augustine_of_Hippo in Anguo",
+            "postCount": 36
+          }
+        },
+        {
+          "v_id": "687194817945",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Louis_XIV_of_France in Elpitiya",
+            "postCount": 34
+          }
+        },
+        {
+          "v_id": "137438965160",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Henry_II_of_England in Orlando",
+            "postCount": 31
+          }
+        },
+        {
+          "v_id": "1099511691293",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ho_Chi_Minh in Amman",
+            "postCount": 30
+          }
+        },
+        {
+          "v_id": "549755850815",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_Locke in Beipiao",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "962072728360",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Henry_Fonda in Awasa",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "1236950589470",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Jerry_Lee_Lewis in Chernivtsi",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "2061584359408",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ronald_Reagan in Athens",
+            "postCount": 28
+          }
+        },
+        {
+          "v_id": "1099511678633",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Tom_Hanks in Brasília",
+            "postCount": 27
+          }
+        },
+        {
+          "v_id": "1649267519744",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Cary_Grant in Irkutsk",
+            "postCount": 27
+          }
+        },
+        {
+          "v_id": "1236950648363",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Sean_Connery in Richmond",
+            "postCount": 26
+          }
+        },
+        {
+          "v_id": "2199023264854",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Never_Can_Say_Goodbye in Haldia",
+            "postCount": 25
+          }
+        },
+        {
+          "v_id": "549755833070",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Zine_El_Abidine_Ben_Ali in Katowice",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "687194780970",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Bob_Hope in Liverpool",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "1099511637080",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ira_Gershwin in Haldia",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "1236950649936",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for William_Ewart_Gladstone in Bhopal",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "1786706470619",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Paris_Hilton in Danjiangkou",
+            "postCount": 24
+          }
+        },
+        {
+          "v_id": "687194783828",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Vladimir_Lenin in Donggang",
+            "postCount": 23
+          }
+        },
+        {
+          "v_id": "1374389602642",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Martin_Scorsese in Salamanca",
+            "postCount": 23
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 822082
+    },
+    {
+      "M": [
+        {
+          "v_id": "1511833338732",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1511833338732,
+            "messageContent": "About Carl Gustaf Emil Mannerheim, rnal ancestry has its rooAbout Robert Schumann,  and influential"
+          }
+        },
+        {
+          "v_id": "1786711142049",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1786711142049,
+            "messageContent": "About Hamid Karzai, (Pashto: حامد کرزی, Hāmid Karzay; born 24 December 1957) is thAbout David Lloyd George, Germany and he"
+          }
+        },
+        {
+          "v_id": "2336464355569",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2336464355569,
+            "messageContent": "About Cleopatra VII, espeare's tragedy Antony and Cleopatra, Jules Massenet's opera Cléopâtre and the film Cleopatra (1963). In most depictions, Cleopatra is portrayed as"
+          }
+        },
+        {
+          "v_id": "962077141713",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 962077141713,
+            "messageContent": "About Arnold Schwarzenegger, on January 5, 2007. SchwarzeneggeAbout Steve Martin, ffbeat, absurdi"
+          }
+        },
+        {
+          "v_id": "2061586448699",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2061586448699,
+            "messageContent": "About Che Guevara, hown), was citeAbout D. H. Lawrence, l persecution, About Aleister Crowley, Horus in the eaAbout F"
+          }
+        },
+        {
+          "v_id": "1374394226505",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374394226505,
+            "messageContent": "About Mariano Rivera,  a Panamanian right-handedAbout George Washington, e and profitable trade by Ab"
+          }
+        },
+        {
+          "v_id": "2061584825999",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2061584825999,
+            "messageContent": "About Bob Hope, b Hope, KBE, KCSG, KSS (born Leslie Townes Hope; May 29, 1903 – July 27, 2003) was"
+          }
+        },
+        {
+          "v_id": "1374389943946",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374389943946,
+            "messageContent": "About Wen Jiabao, to the post of Vice Premier under ZAbout Dante Alighieri, so called the Father of the"
+          }
+        },
+        {
+          "v_id": "1374391679408",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374391679408,
+            "messageContent": "About Kateryna Bondarenko, pulled off theAbout Laurence Olivier, livier, Baron About Calvin Coolidge, d Coolidge as About K"
+          }
+        },
+        {
+          "v_id": "1374391681643",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374391681643,
+            "messageContent": "About Adolf Hitler,  prior to World About Martin Luther, sthumously awardAbout George II of"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.894s
+user	0m1.369s
+sys	0m0.184s
+ic 6
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "T": [
+        {
+          "v_id": "1453",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Tom_Gehrels",
+            "postCount": 31
+          }
+        },
+        {
+          "v_id": "1524",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Mariano_Rivera",
+            "postCount": 13
+          }
+        },
+        {
+          "v_id": "1444",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Genghis_Khan",
+            "postCount": 10
+          }
+        },
+        {
+          "v_id": "1541",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Imelda_Marcos",
+            "postCount": 10
+          }
+        },
+        {
+          "v_id": "244",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Ivan_Ljubičić",
+            "postCount": 10
+          }
+        },
+        {
+          "v_id": "1410",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Muammar_Gaddafi",
+            "postCount": 10
+          }
+        },
+        {
+          "v_id": "127",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Alexander_Downer",
+            "postCount": 9
+          }
+        },
+        {
+          "v_id": "1408",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Gil_Kane",
+            "postCount": 9
+          }
+        },
+        {
+          "v_id": "1937",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Marc_Gicquel",
+            "postCount": 8
+          }
+        },
+        {
+          "v_id": "2206",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Robert_Fripp",
+            "postCount": 8
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 270
+    },
+    {
+      "M": [
+        {
+          "v_id": "1649270243135",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649270243135,
+            "messageContent": "About Alexander Downer, Gosse Downer (born 9 September 19About Christina Aguilera, ich include her"
+          }
+        },
+        {
+          "v_id": "1374390706955",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374390706955,
+            "messageContent": "About Muammar Gaddafi, cate for a United About Wishing on a Star, ngle by Rose RoyceAbou"
+          }
+        },
+        {
+          "v_id": "1786707341772",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1786707341772,
+            "messageContent": "About Avril Lavigne, ch will be About Paul Hindemith, emith (16 NAbout Imelda Marcos, tions to thA"
+          }
+        },
+        {
+          "v_id": "962073835926",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 962073835926,
+            "messageContent": "About Francis I of France, n of a long andAbout Genghis Khan, ork of RatchnevAbout Angola"
+          }
+        },
+        {
+          "v_id": "137439403349",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 137439403349,
+            "messageContent": "About Luiz Inácio Lula da Silva, the World for About Oscar Wilde, hem with largeAbout Robert Chr"
+          }
+        },
+        {
+          "v_id": "1374390110698",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374390110698,
+            "messageContent": "About Genghis Khan, i and the Jami al-TaAbout Mariano Rivera,  has saved at least About Herbert Kitchener, 1st Earl"
+          }
+        },
+        {
+          "v_id": "824636508253",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 824636508253,
+            "messageContent": "About Freddie Mercury,  In 2002, Mercury About Steven Spielberg,  filmmaking. In laAbout Satellite of Love, (later replaced"
+          }
+        },
+        {
+          "v_id": "1786712697841",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1786712697841,
+            "messageContent": "About John Rhys-Davies,  Maximillian Arturo in SAbout Angola, ar from 1975 to 2002. ThAbout Gov"
+          }
+        },
+        {
+          "v_id": "412317891539",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 412317891539,
+            "messageContent": "About Haile Selassie I, against his peopleAbout Yoko Ono, no brought feminisAbout Joseph McCarthy, ver able to prove Ab"
+          }
+        },
+        {
+          "v_id": "824634794581",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 824634794581,
+            "messageContent": "About Robert Schumann, y came of agAbout Tiberius,  northern frAbout Robert Fripp, no, sound"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.808s
+user	0m1.366s
+sys	0m0.177s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "T": [
+        {
+          "v_id": "1453",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Tom_Gehrels",
+            "postCount": 31
+          }
+        },
+        {
+          "v_id": "1524",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Mariano_Rivera",
+            "postCount": 13
+          }
+        },
+        {
+          "v_id": "1444",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Genghis_Khan",
+            "postCount": 10
+          }
+        },
+        {
+          "v_id": "1541",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Imelda_Marcos",
+            "postCount": 10
+          }
+        },
+        {
+          "v_id": "244",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Ivan_Ljubičić",
+            "postCount": 10
+          }
+        },
+        {
+          "v_id": "1410",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Muammar_Gaddafi",
+            "postCount": 10
+          }
+        },
+        {
+          "v_id": "127",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Alexander_Downer",
+            "postCount": 9
+          }
+        },
+        {
+          "v_id": "1408",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Gil_Kane",
+            "postCount": 9
+          }
+        },
+        {
+          "v_id": "1937",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Marc_Gicquel",
+            "postCount": 8
+          }
+        },
+        {
+          "v_id": "2206",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Robert_Fripp",
+            "postCount": 8
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 270
+    },
+    {
+      "M": [
+        {
+          "v_id": "824636508253",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 824636508253,
+            "messageContent": "About Freddie Mercury,  In 2002, Mercury About Steven Spielberg,  filmmaking. In laAbout Satellite of Love, (later replaced"
+          }
+        },
+        {
+          "v_id": "1786712697841",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1786712697841,
+            "messageContent": "About John Rhys-Davies,  Maximillian Arturo in SAbout Angola, ar from 1975 to 2002. ThAbout Gov"
+          }
+        },
+        {
+          "v_id": "824634794581",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 824634794581,
+            "messageContent": "About Robert Schumann, y came of agAbout Tiberius,  northern frAbout Robert Fripp, no, sound"
+          }
+        },
+        {
+          "v_id": "962073835926",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 962073835926,
+            "messageContent": "About Francis I of France, n of a long andAbout Genghis Khan, ork of RatchnevAbout Angola"
+          }
+        },
+        {
+          "v_id": "137439403349",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 137439403349,
+            "messageContent": "About Luiz Inácio Lula da Silva, the World for About Oscar Wilde, hem with largeAbout Robert Chr"
+          }
+        },
+        {
+          "v_id": "1786707341772",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1786707341772,
+            "messageContent": "About Avril Lavigne, ch will be About Paul Hindemith, emith (16 NAbout Imelda Marcos, tions to thA"
+          }
+        },
+        {
+          "v_id": "1374390110698",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374390110698,
+            "messageContent": "About Genghis Khan, i and the Jami al-TaAbout Mariano Rivera,  has saved at least About Herbert Kitchener, 1st Earl"
+          }
+        },
+        {
+          "v_id": "412317891539",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 412317891539,
+            "messageContent": "About Haile Selassie I, against his peopleAbout Yoko Ono, no brought feminisAbout Joseph McCarthy, ver able to prove Ab"
+          }
+        },
+        {
+          "v_id": "1374390706955",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374390706955,
+            "messageContent": "About Muammar Gaddafi, cate for a United About Wishing on a Star, ngle by Rose RoyceAbou"
+          }
+        },
+        {
+          "v_id": "1649270243135",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649270243135,
+            "messageContent": "About Alexander Downer, Gosse Downer (born 9 September 19About Christina Aguilera, ich include her"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.804s
+user	0m1.359s
+sys	0m0.168s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "T": [
+        {
+          "v_id": "1453",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Tom_Gehrels",
+            "postCount": 31
+          }
+        },
+        {
+          "v_id": "1524",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Mariano_Rivera",
+            "postCount": 13
+          }
+        },
+        {
+          "v_id": "1444",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Genghis_Khan",
+            "postCount": 10
+          }
+        },
+        {
+          "v_id": "1541",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Imelda_Marcos",
+            "postCount": 10
+          }
+        },
+        {
+          "v_id": "244",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Ivan_Ljubičić",
+            "postCount": 10
+          }
+        },
+        {
+          "v_id": "1410",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Muammar_Gaddafi",
+            "postCount": 10
+          }
+        },
+        {
+          "v_id": "127",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Alexander_Downer",
+            "postCount": 9
+          }
+        },
+        {
+          "v_id": "1408",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Gil_Kane",
+            "postCount": 9
+          }
+        },
+        {
+          "v_id": "1937",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Marc_Gicquel",
+            "postCount": 8
+          }
+        },
+        {
+          "v_id": "2206",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Robert_Fripp",
+            "postCount": 8
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 270
+    },
+    {
+      "M": [
+        {
+          "v_id": "1374390706955",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374390706955,
+            "messageContent": "About Muammar Gaddafi, cate for a United About Wishing on a Star, ngle by Rose RoyceAbou"
+          }
+        },
+        {
+          "v_id": "824634794581",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 824634794581,
+            "messageContent": "About Robert Schumann, y came of agAbout Tiberius,  northern frAbout Robert Fripp, no, sound"
+          }
+        },
+        {
+          "v_id": "962073835926",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 962073835926,
+            "messageContent": "About Francis I of France, n of a long andAbout Genghis Khan, ork of RatchnevAbout Angola"
+          }
+        },
+        {
+          "v_id": "137439403349",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 137439403349,
+            "messageContent": "About Luiz Inácio Lula da Silva, the World for About Oscar Wilde, hem with largeAbout Robert Chr"
+          }
+        },
+        {
+          "v_id": "1786707341772",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1786707341772,
+            "messageContent": "About Avril Lavigne, ch will be About Paul Hindemith, emith (16 NAbout Imelda Marcos, tions to thA"
+          }
+        },
+        {
+          "v_id": "824636508253",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 824636508253,
+            "messageContent": "About Freddie Mercury,  In 2002, Mercury About Steven Spielberg,  filmmaking. In laAbout Satellite of Love, (later replaced"
+          }
+        },
+        {
+          "v_id": "1786712697841",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1786712697841,
+            "messageContent": "About John Rhys-Davies,  Maximillian Arturo in SAbout Angola, ar from 1975 to 2002. ThAbout Gov"
+          }
+        },
+        {
+          "v_id": "1374390110698",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374390110698,
+            "messageContent": "About Genghis Khan, i and the Jami al-TaAbout Mariano Rivera,  has saved at least About Herbert Kitchener, 1st Earl"
+          }
+        },
+        {
+          "v_id": "1649270243135",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649270243135,
+            "messageContent": "About Alexander Downer, Gosse Downer (born 9 September 19About Christina Aguilera, ich include her"
+          }
+        },
+        {
+          "v_id": "412317891539",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 412317891539,
+            "messageContent": "About Haile Selassie I, against his peopleAbout Yoko Ono, no brought feminisAbout Joseph McCarthy, ver able to prove Ab"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.787s
+user	0m1.291s
+sys	0m0.238s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "T": [
+        {
+          "v_id": "1453",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Tom_Gehrels",
+            "postCount": 31
+          }
+        },
+        {
+          "v_id": "1524",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Mariano_Rivera",
+            "postCount": 13
+          }
+        },
+        {
+          "v_id": "1444",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Genghis_Khan",
+            "postCount": 10
+          }
+        },
+        {
+          "v_id": "1541",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Imelda_Marcos",
+            "postCount": 10
+          }
+        },
+        {
+          "v_id": "244",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Ivan_Ljubičić",
+            "postCount": 10
+          }
+        },
+        {
+          "v_id": "1410",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Muammar_Gaddafi",
+            "postCount": 10
+          }
+        },
+        {
+          "v_id": "127",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Alexander_Downer",
+            "postCount": 9
+          }
+        },
+        {
+          "v_id": "1408",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Gil_Kane",
+            "postCount": 9
+          }
+        },
+        {
+          "v_id": "1937",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Marc_Gicquel",
+            "postCount": 8
+          }
+        },
+        {
+          "v_id": "2206",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Robert_Fripp",
+            "postCount": 8
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 270
+    },
+    {
+      "M": [
+        {
+          "v_id": "1786707341772",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1786707341772,
+            "messageContent": "About Avril Lavigne, ch will be About Paul Hindemith, emith (16 NAbout Imelda Marcos, tions to thA"
+          }
+        },
+        {
+          "v_id": "412317891539",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 412317891539,
+            "messageContent": "About Haile Selassie I, against his peopleAbout Yoko Ono, no brought feminisAbout Joseph McCarthy, ver able to prove Ab"
+          }
+        },
+        {
+          "v_id": "962073835926",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 962073835926,
+            "messageContent": "About Francis I of France, n of a long andAbout Genghis Khan, ork of RatchnevAbout Angola"
+          }
+        },
+        {
+          "v_id": "137439403349",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 137439403349,
+            "messageContent": "About Luiz Inácio Lula da Silva, the World for About Oscar Wilde, hem with largeAbout Robert Chr"
+          }
+        },
+        {
+          "v_id": "1374390110698",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374390110698,
+            "messageContent": "About Genghis Khan, i and the Jami al-TaAbout Mariano Rivera,  has saved at least About Herbert Kitchener, 1st Earl"
+          }
+        },
+        {
+          "v_id": "824636508253",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 824636508253,
+            "messageContent": "About Freddie Mercury,  In 2002, Mercury About Steven Spielberg,  filmmaking. In laAbout Satellite of Love, (later replaced"
+          }
+        },
+        {
+          "v_id": "1786712697841",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1786712697841,
+            "messageContent": "About John Rhys-Davies,  Maximillian Arturo in SAbout Angola, ar from 1975 to 2002. ThAbout Gov"
+          }
+        },
+        {
+          "v_id": "1374390706955",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374390706955,
+            "messageContent": "About Muammar Gaddafi, cate for a United About Wishing on a Star, ngle by Rose RoyceAbou"
+          }
+        },
+        {
+          "v_id": "824634794581",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 824634794581,
+            "messageContent": "About Robert Schumann, y came of agAbout Tiberius,  northern frAbout Robert Fripp, no, sound"
+          }
+        },
+        {
+          "v_id": "1649270243135",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649270243135,
+            "messageContent": "About Alexander Downer, Gosse Downer (born 9 September 19About Christina Aguilera, ich include her"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.824s
+user	0m1.366s
+sys	0m0.178s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "T": [
+        {
+          "v_id": "1453",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Tom_Gehrels",
+            "postCount": 31
+          }
+        },
+        {
+          "v_id": "1524",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Mariano_Rivera",
+            "postCount": 13
+          }
+        },
+        {
+          "v_id": "1444",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Genghis_Khan",
+            "postCount": 10
+          }
+        },
+        {
+          "v_id": "1541",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Imelda_Marcos",
+            "postCount": 10
+          }
+        },
+        {
+          "v_id": "244",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Ivan_Ljubičić",
+            "postCount": 10
+          }
+        },
+        {
+          "v_id": "1410",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Muammar_Gaddafi",
+            "postCount": 10
+          }
+        },
+        {
+          "v_id": "127",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Alexander_Downer",
+            "postCount": 9
+          }
+        },
+        {
+          "v_id": "1408",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Gil_Kane",
+            "postCount": 9
+          }
+        },
+        {
+          "v_id": "1937",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Marc_Gicquel",
+            "postCount": 8
+          }
+        },
+        {
+          "v_id": "2206",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Robert_Fripp",
+            "postCount": 8
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 270
+    },
+    {
+      "M": [
+        {
+          "v_id": "1374390110698",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374390110698,
+            "messageContent": "About Genghis Khan, i and the Jami al-TaAbout Mariano Rivera,  has saved at least About Herbert Kitchener, 1st Earl"
+          }
+        },
+        {
+          "v_id": "412317891539",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 412317891539,
+            "messageContent": "About Haile Selassie I, against his peopleAbout Yoko Ono, no brought feminisAbout Joseph McCarthy, ver able to prove Ab"
+          }
+        },
+        {
+          "v_id": "824636508253",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 824636508253,
+            "messageContent": "About Freddie Mercury,  In 2002, Mercury About Steven Spielberg,  filmmaking. In laAbout Satellite of Love, (later replaced"
+          }
+        },
+        {
+          "v_id": "1786712697841",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1786712697841,
+            "messageContent": "About John Rhys-Davies,  Maximillian Arturo in SAbout Angola, ar from 1975 to 2002. ThAbout Gov"
+          }
+        },
+        {
+          "v_id": "962073835926",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 962073835926,
+            "messageContent": "About Francis I of France, n of a long andAbout Genghis Khan, ork of RatchnevAbout Angola"
+          }
+        },
+        {
+          "v_id": "137439403349",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 137439403349,
+            "messageContent": "About Luiz Inácio Lula da Silva, the World for About Oscar Wilde, hem with largeAbout Robert Chr"
+          }
+        },
+        {
+          "v_id": "1786707341772",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1786707341772,
+            "messageContent": "About Avril Lavigne, ch will be About Paul Hindemith, emith (16 NAbout Imelda Marcos, tions to thA"
+          }
+        },
+        {
+          "v_id": "1374390706955",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1374390706955,
+            "messageContent": "About Muammar Gaddafi, cate for a United About Wishing on a Star, ngle by Rose RoyceAbou"
+          }
+        },
+        {
+          "v_id": "1649270243135",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649270243135,
+            "messageContent": "About Alexander Downer, Gosse Downer (born 9 September 19About Christina Aguilera, ich include her"
+          }
+        },
+        {
+          "v_id": "824634794581",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 824634794581,
+            "messageContent": "About Robert Schumann, y came of agAbout Tiberius,  northern frAbout Robert Fripp, no, sound"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.819s
+user	0m1.365s
+sys	0m0.191s
+ic 9
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "M": [
+        {
+          "v_id": "1511829441107",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 24189255817480,
+            "M.@personFirstName": "Carlo",
+            "M.@personLastName": "Alcala",
+            "messageId": 1511829441107,
+            "M.@messageContent": "no way!",
+            "messageCreationDate": 1323215867792
+          }
+        },
+        {
+          "v_id": "1511830872980",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 4398046516814,
+            "M.@personFirstName": "Joao",
+            "M.@personLastName": "Moreira",
+            "messageId": 1511830872980,
+            "M.@messageContent": "cool",
+            "messageCreationDate": 1323215813250
+          }
+        },
+        {
+          "v_id": "1511830872977",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069775288,
+            "M.@personFirstName": "Ahmed Hossam",
+            "M.@personLastName": "Hassan",
+            "messageId": 1511830872977,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215795492
+          }
+        },
+        {
+          "v_id": "1511831169089",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 7837,
+            "M.@personFirstName": "Igor",
+            "M.@personLastName": "Efimkin",
+            "messageId": 1511831169089,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323215743939
+          }
+        },
+        {
+          "v_id": "1511832702360",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 13194139540475,
+            "M.@personFirstName": "Lei",
+            "M.@personLastName": "Li",
+            "messageId": 1511832702360,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215732074
+          }
+        },
+        {
+          "v_id": "1511830794010",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093022330,
+            "M.@personFirstName": "Meera",
+            "M.@personLastName": "Khan",
+            "messageId": 1511830794010,
+            "M.@messageContent": "About Richard Burton,  August 1984) was a Welsh actor. He was nominAbout Thong Song, g i",
+            "messageCreationDate": 1323215446601
+          }
+        },
+        {
+          "v_id": "1511829440344",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 24189255817480,
+            "M.@personFirstName": "Carlo",
+            "M.@personLastName": "Alcala",
+            "messageId": 1511829440344,
+            "M.@messageContent": "About John F. Kennedy, st in the world in tAbout Drew Barrymore, raphy, Litt",
+            "messageCreationDate": 1323215439729
+          }
+        },
+        {
+          "v_id": "1511829093565",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162797132,
+            "M.@personFirstName": "Shweta",
+            "M.@personLastName": "Kapoor",
+            "messageId": 1511829093565,
+            "M.@messageContent": "duh",
+            "messageCreationDate": 1323215433517
+          }
+        },
+        {
+          "v_id": "1511831333615",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 10995116284819,
+            "M.@personFirstName": "John",
+            "M.@personLastName": "Khan",
+            "messageId": 1511831333615,
+            "M.@messageContent": "About Augustine of Hippo, porary, Jerome, Augustine established About Ridley Scott,  He is the older brother of f",
+            "messageCreationDate": 1323215317462
+          }
+        },
+        {
+          "v_id": "1511830712549",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 19791209306158,
+            "M.@personFirstName": "Bobby",
+            "M.@personLastName": "Garcia",
+            "messageId": 1511830712549,
+            "M.@messageContent": "right",
+            "messageCreationDate": 1323215290161
+          }
+        },
+        {
+          "v_id": "1511831048319",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093030655,
+            "M.@personFirstName": "Jose",
+            "M.@personLastName": "Reyes",
+            "messageId": 1511831048319,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215078244
+          }
+        },
+        {
+          "v_id": "1511831471988",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023261049,
+            "M.@personFirstName": "Rahul",
+            "M.@personLastName": "Singh",
+            "messageId": 1511831471988,
+            "M.@messageContent": "roflol",
+            "messageCreationDate": 1323215003760
+          }
+        },
+        {
+          "v_id": "1511829505923",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162794315,
+            "M.@personFirstName": "Joseph",
+            "M.@personLastName": "Kumar",
+            "messageId": 1511829505923,
+            "M.@messageContent": "About Buddy Holly, ry 3, 1959), knoAbout Just Push Play, Joey Kramer duriAbout",
+            "messageCreationDate": 1323214938527
+          }
+        },
+        {
+          "v_id": "1511832872177",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 15393162793557,
+            "M.@personFirstName": "Zhong",
+            "M.@personLastName": "Zhang",
+            "messageId": 1511832872177,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323214925461
+          }
+        },
+        {
+          "v_id": "1511828869447",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069772560,
+            "M.@personFirstName": "Marcelo",
+            "M.@personLastName": "Costa",
+            "messageId": 1511828869447,
+            "M.@messageContent": "About J. R. R. Tolkien, erton Professor of English Language and About Stephen K",
+            "messageCreationDate": 1323214674427
+          }
+        },
+        {
+          "v_id": "1511830682125",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069774064,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Ahmed",
+            "messageId": 1511830682125,
+            "M.@messageContent": "About Duchy of Savoy, ies that are now in France. It was a continuation of the County of",
+            "messageCreationDate": 1323214628594
+          }
+        },
+        {
+          "v_id": "1511833491449",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232561386,
+            "M.@personFirstName": "Ruby",
+            "M.@personLastName": "Shrestha",
+            "messageId": 1511833491449,
+            "M.@messageContent": "About Muammar Gaddafi,  Revolution; inAbout Cuba, t of aggressionAbout All Eyez on Me, a",
+            "messageCreationDate": 1323214627524
+          }
+        },
+        {
+          "v_id": "1511829004342",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6575,
+            "M.@personFirstName": "Lomana Trésor",
+            "M.@personLastName": "Kanam",
+            "messageId": 1511829004342,
+            "M.@messageContent": "cool",
+            "messageCreationDate": 1323214625178
+          }
+        },
+        {
+          "v_id": "1511831452191",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 24189255812605,
+            "M.@personFirstName": "Jack",
+            "M.@personLastName": "Jones",
+            "messageId": 1511831452191,
+            "M.@messageContent": "thx",
+            "messageCreationDate": 1323214553434
+          }
+        },
+        {
+          "v_id": "1511830652474",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069767336,
+            "M.@personFirstName": "Boy",
+            "M.@personLastName": "Santos",
+            "messageId": 1511830652474,
+            "M.@messageContent": "photo1511830652474.jpg",
+            "messageCreationDate": 1323214525720
+          }
+        }
+      ]
+    },
+    {
+      "M.size()": 20
+    },
+    {
+      "TopKM": [
+        {
+          "v_id": "1511830872980",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511830872980,
+            "messageContent": "cool"
+          }
+        },
+        {
+          "v_id": "1511829093565",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511829093565,
+            "messageContent": "duh"
+          }
+        },
+        {
+          "v_id": "1511831048319",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511831048319,
+            "messageContent": "good"
+          }
+        },
+        {
+          "v_id": "1511831471988",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511831471988,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "1511831169089",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511831169089,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "1511829505923",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511829505923,
+            "messageContent": "About Buddy Holly, ry 3, 1959), knoAbout Just Push Play, Joey Kramer duriAbout"
+          }
+        },
+        {
+          "v_id": "1511828869447",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511828869447,
+            "messageContent": "About J. R. R. Tolkien, erton Professor of English Language and About Stephen K"
+          }
+        },
+        {
+          "v_id": "1511833491449",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511833491449,
+            "messageContent": "About Muammar Gaddafi,  Revolution; inAbout Cuba, t of aggressionAbout All Eyez on Me, a"
+          }
+        },
+        {
+          "v_id": "1511829004342",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511829004342,
+            "messageContent": "cool"
+          }
+        },
+        {
+          "v_id": "1511829441107",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511829441107,
+            "messageContent": "no way!"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.806s
+user	0m1.341s
+sys	0m0.207s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "M": [
+        {
+          "v_id": "1511829441107",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 24189255817480,
+            "M.@personFirstName": "Carlo",
+            "M.@personLastName": "Alcala",
+            "messageId": 1511829441107,
+            "M.@messageContent": "no way!",
+            "messageCreationDate": 1323215867792
+          }
+        },
+        {
+          "v_id": "1511830872980",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 4398046516814,
+            "M.@personFirstName": "Joao",
+            "M.@personLastName": "Moreira",
+            "messageId": 1511830872980,
+            "M.@messageContent": "cool",
+            "messageCreationDate": 1323215813250
+          }
+        },
+        {
+          "v_id": "1511830872977",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069775288,
+            "M.@personFirstName": "Ahmed Hossam",
+            "M.@personLastName": "Hassan",
+            "messageId": 1511830872977,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215795492
+          }
+        },
+        {
+          "v_id": "1511831169089",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 7837,
+            "M.@personFirstName": "Igor",
+            "M.@personLastName": "Efimkin",
+            "messageId": 1511831169089,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323215743939
+          }
+        },
+        {
+          "v_id": "1511832702360",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 13194139540475,
+            "M.@personFirstName": "Lei",
+            "M.@personLastName": "Li",
+            "messageId": 1511832702360,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215732074
+          }
+        },
+        {
+          "v_id": "1511830794010",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093022330,
+            "M.@personFirstName": "Meera",
+            "M.@personLastName": "Khan",
+            "messageId": 1511830794010,
+            "M.@messageContent": "About Richard Burton,  August 1984) was a Welsh actor. He was nominAbout Thong Song, g i",
+            "messageCreationDate": 1323215446601
+          }
+        },
+        {
+          "v_id": "1511829440344",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 24189255817480,
+            "M.@personFirstName": "Carlo",
+            "M.@personLastName": "Alcala",
+            "messageId": 1511829440344,
+            "M.@messageContent": "About John F. Kennedy, st in the world in tAbout Drew Barrymore, raphy, Litt",
+            "messageCreationDate": 1323215439729
+          }
+        },
+        {
+          "v_id": "1511829093565",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162797132,
+            "M.@personFirstName": "Shweta",
+            "M.@personLastName": "Kapoor",
+            "messageId": 1511829093565,
+            "M.@messageContent": "duh",
+            "messageCreationDate": 1323215433517
+          }
+        },
+        {
+          "v_id": "1511831333615",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 10995116284819,
+            "M.@personFirstName": "John",
+            "M.@personLastName": "Khan",
+            "messageId": 1511831333615,
+            "M.@messageContent": "About Augustine of Hippo, porary, Jerome, Augustine established About Ridley Scott,  He is the older brother of f",
+            "messageCreationDate": 1323215317462
+          }
+        },
+        {
+          "v_id": "1511830712549",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 19791209306158,
+            "M.@personFirstName": "Bobby",
+            "M.@personLastName": "Garcia",
+            "messageId": 1511830712549,
+            "M.@messageContent": "right",
+            "messageCreationDate": 1323215290161
+          }
+        },
+        {
+          "v_id": "1511831048319",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093030655,
+            "M.@personFirstName": "Jose",
+            "M.@personLastName": "Reyes",
+            "messageId": 1511831048319,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215078244
+          }
+        },
+        {
+          "v_id": "1511831471988",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023261049,
+            "M.@personFirstName": "Rahul",
+            "M.@personLastName": "Singh",
+            "messageId": 1511831471988,
+            "M.@messageContent": "roflol",
+            "messageCreationDate": 1323215003760
+          }
+        },
+        {
+          "v_id": "1511829505923",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162794315,
+            "M.@personFirstName": "Joseph",
+            "M.@personLastName": "Kumar",
+            "messageId": 1511829505923,
+            "M.@messageContent": "About Buddy Holly, ry 3, 1959), knoAbout Just Push Play, Joey Kramer duriAbout",
+            "messageCreationDate": 1323214938527
+          }
+        },
+        {
+          "v_id": "1511832872177",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 15393162793557,
+            "M.@personFirstName": "Zhong",
+            "M.@personLastName": "Zhang",
+            "messageId": 1511832872177,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323214925461
+          }
+        },
+        {
+          "v_id": "1511828869447",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069772560,
+            "M.@personFirstName": "Marcelo",
+            "M.@personLastName": "Costa",
+            "messageId": 1511828869447,
+            "M.@messageContent": "About J. R. R. Tolkien, erton Professor of English Language and About Stephen K",
+            "messageCreationDate": 1323214674427
+          }
+        },
+        {
+          "v_id": "1511830682125",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069774064,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Ahmed",
+            "messageId": 1511830682125,
+            "M.@messageContent": "About Duchy of Savoy, ies that are now in France. It was a continuation of the County of",
+            "messageCreationDate": 1323214628594
+          }
+        },
+        {
+          "v_id": "1511833491449",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232561386,
+            "M.@personFirstName": "Ruby",
+            "M.@personLastName": "Shrestha",
+            "messageId": 1511833491449,
+            "M.@messageContent": "About Muammar Gaddafi,  Revolution; inAbout Cuba, t of aggressionAbout All Eyez on Me, a",
+            "messageCreationDate": 1323214627524
+          }
+        },
+        {
+          "v_id": "1511829004342",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6575,
+            "M.@personFirstName": "Lomana Trésor",
+            "M.@personLastName": "Kanam",
+            "messageId": 1511829004342,
+            "M.@messageContent": "cool",
+            "messageCreationDate": 1323214625178
+          }
+        },
+        {
+          "v_id": "1511831452191",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 24189255812605,
+            "M.@personFirstName": "Jack",
+            "M.@personLastName": "Jones",
+            "messageId": 1511831452191,
+            "M.@messageContent": "thx",
+            "messageCreationDate": 1323214553434
+          }
+        },
+        {
+          "v_id": "1511830652474",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069767336,
+            "M.@personFirstName": "Boy",
+            "M.@personLastName": "Santos",
+            "messageId": 1511830652474,
+            "M.@messageContent": "photo1511830652474.jpg",
+            "messageCreationDate": 1323214525720
+          }
+        }
+      ]
+    },
+    {
+      "M.size()": 20
+    },
+    {
+      "TopKM": [
+        {
+          "v_id": "1511831048319",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511831048319,
+            "messageContent": "good"
+          }
+        },
+        {
+          "v_id": "1511831471988",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511831471988,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "1511831169089",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511831169089,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "1511829505923",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511829505923,
+            "messageContent": "About Buddy Holly, ry 3, 1959), knoAbout Just Push Play, Joey Kramer duriAbout"
+          }
+        },
+        {
+          "v_id": "1511830872980",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511830872980,
+            "messageContent": "cool"
+          }
+        },
+        {
+          "v_id": "1511833491449",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511833491449,
+            "messageContent": "About Muammar Gaddafi,  Revolution; inAbout Cuba, t of aggressionAbout All Eyez on Me, a"
+          }
+        },
+        {
+          "v_id": "1511829093565",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511829093565,
+            "messageContent": "duh"
+          }
+        },
+        {
+          "v_id": "1511828869447",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511828869447,
+            "messageContent": "About J. R. R. Tolkien, erton Professor of English Language and About Stephen K"
+          }
+        },
+        {
+          "v_id": "1511829004342",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511829004342,
+            "messageContent": "cool"
+          }
+        },
+        {
+          "v_id": "1511829441107",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511829441107,
+            "messageContent": "no way!"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.815s
+user	0m1.337s
+sys	0m0.203s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "M": [
+        {
+          "v_id": "1511829441107",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 24189255817480,
+            "M.@personFirstName": "Carlo",
+            "M.@personLastName": "Alcala",
+            "messageId": 1511829441107,
+            "M.@messageContent": "no way!",
+            "messageCreationDate": 1323215867792
+          }
+        },
+        {
+          "v_id": "1511830872980",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 4398046516814,
+            "M.@personFirstName": "Joao",
+            "M.@personLastName": "Moreira",
+            "messageId": 1511830872980,
+            "M.@messageContent": "cool",
+            "messageCreationDate": 1323215813250
+          }
+        },
+        {
+          "v_id": "1511830872977",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069775288,
+            "M.@personFirstName": "Ahmed Hossam",
+            "M.@personLastName": "Hassan",
+            "messageId": 1511830872977,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215795492
+          }
+        },
+        {
+          "v_id": "1511831169089",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 7837,
+            "M.@personFirstName": "Igor",
+            "M.@personLastName": "Efimkin",
+            "messageId": 1511831169089,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323215743939
+          }
+        },
+        {
+          "v_id": "1511832702360",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 13194139540475,
+            "M.@personFirstName": "Lei",
+            "M.@personLastName": "Li",
+            "messageId": 1511832702360,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215732074
+          }
+        },
+        {
+          "v_id": "1511830794010",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093022330,
+            "M.@personFirstName": "Meera",
+            "M.@personLastName": "Khan",
+            "messageId": 1511830794010,
+            "M.@messageContent": "About Richard Burton,  August 1984) was a Welsh actor. He was nominAbout Thong Song, g i",
+            "messageCreationDate": 1323215446601
+          }
+        },
+        {
+          "v_id": "1511829440344",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 24189255817480,
+            "M.@personFirstName": "Carlo",
+            "M.@personLastName": "Alcala",
+            "messageId": 1511829440344,
+            "M.@messageContent": "About John F. Kennedy, st in the world in tAbout Drew Barrymore, raphy, Litt",
+            "messageCreationDate": 1323215439729
+          }
+        },
+        {
+          "v_id": "1511829093565",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162797132,
+            "M.@personFirstName": "Shweta",
+            "M.@personLastName": "Kapoor",
+            "messageId": 1511829093565,
+            "M.@messageContent": "duh",
+            "messageCreationDate": 1323215433517
+          }
+        },
+        {
+          "v_id": "1511831333615",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 10995116284819,
+            "M.@personFirstName": "John",
+            "M.@personLastName": "Khan",
+            "messageId": 1511831333615,
+            "M.@messageContent": "About Augustine of Hippo, porary, Jerome, Augustine established About Ridley Scott,  He is the older brother of f",
+            "messageCreationDate": 1323215317462
+          }
+        },
+        {
+          "v_id": "1511830712549",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 19791209306158,
+            "M.@personFirstName": "Bobby",
+            "M.@personLastName": "Garcia",
+            "messageId": 1511830712549,
+            "M.@messageContent": "right",
+            "messageCreationDate": 1323215290161
+          }
+        },
+        {
+          "v_id": "1511831048319",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093030655,
+            "M.@personFirstName": "Jose",
+            "M.@personLastName": "Reyes",
+            "messageId": 1511831048319,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215078244
+          }
+        },
+        {
+          "v_id": "1511831471988",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023261049,
+            "M.@personFirstName": "Rahul",
+            "M.@personLastName": "Singh",
+            "messageId": 1511831471988,
+            "M.@messageContent": "roflol",
+            "messageCreationDate": 1323215003760
+          }
+        },
+        {
+          "v_id": "1511829505923",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162794315,
+            "M.@personFirstName": "Joseph",
+            "M.@personLastName": "Kumar",
+            "messageId": 1511829505923,
+            "M.@messageContent": "About Buddy Holly, ry 3, 1959), knoAbout Just Push Play, Joey Kramer duriAbout",
+            "messageCreationDate": 1323214938527
+          }
+        },
+        {
+          "v_id": "1511832872177",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 15393162793557,
+            "M.@personFirstName": "Zhong",
+            "M.@personLastName": "Zhang",
+            "messageId": 1511832872177,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323214925461
+          }
+        },
+        {
+          "v_id": "1511828869447",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069772560,
+            "M.@personFirstName": "Marcelo",
+            "M.@personLastName": "Costa",
+            "messageId": 1511828869447,
+            "M.@messageContent": "About J. R. R. Tolkien, erton Professor of English Language and About Stephen K",
+            "messageCreationDate": 1323214674427
+          }
+        },
+        {
+          "v_id": "1511830682125",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069774064,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Ahmed",
+            "messageId": 1511830682125,
+            "M.@messageContent": "About Duchy of Savoy, ies that are now in France. It was a continuation of the County of",
+            "messageCreationDate": 1323214628594
+          }
+        },
+        {
+          "v_id": "1511833491449",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232561386,
+            "M.@personFirstName": "Ruby",
+            "M.@personLastName": "Shrestha",
+            "messageId": 1511833491449,
+            "M.@messageContent": "About Muammar Gaddafi,  Revolution; inAbout Cuba, t of aggressionAbout All Eyez on Me, a",
+            "messageCreationDate": 1323214627524
+          }
+        },
+        {
+          "v_id": "1511829004342",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6575,
+            "M.@personFirstName": "Lomana Trésor",
+            "M.@personLastName": "Kanam",
+            "messageId": 1511829004342,
+            "M.@messageContent": "cool",
+            "messageCreationDate": 1323214625178
+          }
+        },
+        {
+          "v_id": "1511831452191",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 24189255812605,
+            "M.@personFirstName": "Jack",
+            "M.@personLastName": "Jones",
+            "messageId": 1511831452191,
+            "M.@messageContent": "thx",
+            "messageCreationDate": 1323214553434
+          }
+        },
+        {
+          "v_id": "1511830652474",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069767336,
+            "M.@personFirstName": "Boy",
+            "M.@personLastName": "Santos",
+            "messageId": 1511830652474,
+            "M.@messageContent": "photo1511830652474.jpg",
+            "messageCreationDate": 1323214525720
+          }
+        }
+      ]
+    },
+    {
+      "M.size()": 20
+    },
+    {
+      "TopKM": [
+        {
+          "v_id": "1511831048319",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511831048319,
+            "messageContent": "good"
+          }
+        },
+        {
+          "v_id": "1511831471988",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511831471988,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "1511831169089",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511831169089,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "1511829505923",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511829505923,
+            "messageContent": "About Buddy Holly, ry 3, 1959), knoAbout Just Push Play, Joey Kramer duriAbout"
+          }
+        },
+        {
+          "v_id": "1511828869447",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511828869447,
+            "messageContent": "About J. R. R. Tolkien, erton Professor of English Language and About Stephen K"
+          }
+        },
+        {
+          "v_id": "1511833491449",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511833491449,
+            "messageContent": "About Muammar Gaddafi,  Revolution; inAbout Cuba, t of aggressionAbout All Eyez on Me, a"
+          }
+        },
+        {
+          "v_id": "1511830872980",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511830872980,
+            "messageContent": "cool"
+          }
+        },
+        {
+          "v_id": "1511829093565",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511829093565,
+            "messageContent": "duh"
+          }
+        },
+        {
+          "v_id": "1511829004342",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511829004342,
+            "messageContent": "cool"
+          }
+        },
+        {
+          "v_id": "1511829441107",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511829441107,
+            "messageContent": "no way!"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.815s
+user	0m1.295s
+sys	0m0.261s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "M": [
+        {
+          "v_id": "1511829441107",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 24189255817480,
+            "M.@personFirstName": "Carlo",
+            "M.@personLastName": "Alcala",
+            "messageId": 1511829441107,
+            "M.@messageContent": "no way!",
+            "messageCreationDate": 1323215867792
+          }
+        },
+        {
+          "v_id": "1511830872980",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 4398046516814,
+            "M.@personFirstName": "Joao",
+            "M.@personLastName": "Moreira",
+            "messageId": 1511830872980,
+            "M.@messageContent": "cool",
+            "messageCreationDate": 1323215813250
+          }
+        },
+        {
+          "v_id": "1511830872977",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069775288,
+            "M.@personFirstName": "Ahmed Hossam",
+            "M.@personLastName": "Hassan",
+            "messageId": 1511830872977,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215795492
+          }
+        },
+        {
+          "v_id": "1511831169089",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 7837,
+            "M.@personFirstName": "Igor",
+            "M.@personLastName": "Efimkin",
+            "messageId": 1511831169089,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323215743939
+          }
+        },
+        {
+          "v_id": "1511832702360",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 13194139540475,
+            "M.@personFirstName": "Lei",
+            "M.@personLastName": "Li",
+            "messageId": 1511832702360,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215732074
+          }
+        },
+        {
+          "v_id": "1511830794010",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093022330,
+            "M.@personFirstName": "Meera",
+            "M.@personLastName": "Khan",
+            "messageId": 1511830794010,
+            "M.@messageContent": "About Richard Burton,  August 1984) was a Welsh actor. He was nominAbout Thong Song, g i",
+            "messageCreationDate": 1323215446601
+          }
+        },
+        {
+          "v_id": "1511829440344",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 24189255817480,
+            "M.@personFirstName": "Carlo",
+            "M.@personLastName": "Alcala",
+            "messageId": 1511829440344,
+            "M.@messageContent": "About John F. Kennedy, st in the world in tAbout Drew Barrymore, raphy, Litt",
+            "messageCreationDate": 1323215439729
+          }
+        },
+        {
+          "v_id": "1511829093565",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162797132,
+            "M.@personFirstName": "Shweta",
+            "M.@personLastName": "Kapoor",
+            "messageId": 1511829093565,
+            "M.@messageContent": "duh",
+            "messageCreationDate": 1323215433517
+          }
+        },
+        {
+          "v_id": "1511831333615",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 10995116284819,
+            "M.@personFirstName": "John",
+            "M.@personLastName": "Khan",
+            "messageId": 1511831333615,
+            "M.@messageContent": "About Augustine of Hippo, porary, Jerome, Augustine established About Ridley Scott,  He is the older brother of f",
+            "messageCreationDate": 1323215317462
+          }
+        },
+        {
+          "v_id": "1511830712549",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 19791209306158,
+            "M.@personFirstName": "Bobby",
+            "M.@personLastName": "Garcia",
+            "messageId": 1511830712549,
+            "M.@messageContent": "right",
+            "messageCreationDate": 1323215290161
+          }
+        },
+        {
+          "v_id": "1511831048319",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093030655,
+            "M.@personFirstName": "Jose",
+            "M.@personLastName": "Reyes",
+            "messageId": 1511831048319,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215078244
+          }
+        },
+        {
+          "v_id": "1511831471988",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023261049,
+            "M.@personFirstName": "Rahul",
+            "M.@personLastName": "Singh",
+            "messageId": 1511831471988,
+            "M.@messageContent": "roflol",
+            "messageCreationDate": 1323215003760
+          }
+        },
+        {
+          "v_id": "1511829505923",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162794315,
+            "M.@personFirstName": "Joseph",
+            "M.@personLastName": "Kumar",
+            "messageId": 1511829505923,
+            "M.@messageContent": "About Buddy Holly, ry 3, 1959), knoAbout Just Push Play, Joey Kramer duriAbout",
+            "messageCreationDate": 1323214938527
+          }
+        },
+        {
+          "v_id": "1511832872177",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 15393162793557,
+            "M.@personFirstName": "Zhong",
+            "M.@personLastName": "Zhang",
+            "messageId": 1511832872177,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323214925461
+          }
+        },
+        {
+          "v_id": "1511828869447",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069772560,
+            "M.@personFirstName": "Marcelo",
+            "M.@personLastName": "Costa",
+            "messageId": 1511828869447,
+            "M.@messageContent": "About J. R. R. Tolkien, erton Professor of English Language and About Stephen K",
+            "messageCreationDate": 1323214674427
+          }
+        },
+        {
+          "v_id": "1511830682125",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069774064,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Ahmed",
+            "messageId": 1511830682125,
+            "M.@messageContent": "About Duchy of Savoy, ies that are now in France. It was a continuation of the County of",
+            "messageCreationDate": 1323214628594
+          }
+        },
+        {
+          "v_id": "1511833491449",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232561386,
+            "M.@personFirstName": "Ruby",
+            "M.@personLastName": "Shrestha",
+            "messageId": 1511833491449,
+            "M.@messageContent": "About Muammar Gaddafi,  Revolution; inAbout Cuba, t of aggressionAbout All Eyez on Me, a",
+            "messageCreationDate": 1323214627524
+          }
+        },
+        {
+          "v_id": "1511829004342",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6575,
+            "M.@personFirstName": "Lomana Trésor",
+            "M.@personLastName": "Kanam",
+            "messageId": 1511829004342,
+            "M.@messageContent": "cool",
+            "messageCreationDate": 1323214625178
+          }
+        },
+        {
+          "v_id": "1511831452191",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 24189255812605,
+            "M.@personFirstName": "Jack",
+            "M.@personLastName": "Jones",
+            "messageId": 1511831452191,
+            "M.@messageContent": "thx",
+            "messageCreationDate": 1323214553434
+          }
+        },
+        {
+          "v_id": "1511830652474",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069767336,
+            "M.@personFirstName": "Boy",
+            "M.@personLastName": "Santos",
+            "messageId": 1511830652474,
+            "M.@messageContent": "photo1511830652474.jpg",
+            "messageCreationDate": 1323214525720
+          }
+        }
+      ]
+    },
+    {
+      "M.size()": 20
+    },
+    {
+      "TopKM": [
+        {
+          "v_id": "1511831048319",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511831048319,
+            "messageContent": "good"
+          }
+        },
+        {
+          "v_id": "1511831471988",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511831471988,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "1511831169089",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511831169089,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "1511829505923",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511829505923,
+            "messageContent": "About Buddy Holly, ry 3, 1959), knoAbout Just Push Play, Joey Kramer duriAbout"
+          }
+        },
+        {
+          "v_id": "1511830872980",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511830872980,
+            "messageContent": "cool"
+          }
+        },
+        {
+          "v_id": "1511828869447",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511828869447,
+            "messageContent": "About J. R. R. Tolkien, erton Professor of English Language and About Stephen K"
+          }
+        },
+        {
+          "v_id": "1511833491449",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511833491449,
+            "messageContent": "About Muammar Gaddafi,  Revolution; inAbout Cuba, t of aggressionAbout All Eyez on Me, a"
+          }
+        },
+        {
+          "v_id": "1511829004342",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511829004342,
+            "messageContent": "cool"
+          }
+        },
+        {
+          "v_id": "1511829441107",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511829441107,
+            "messageContent": "no way!"
+          }
+        },
+        {
+          "v_id": "1511829093565",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511829093565,
+            "messageContent": "duh"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.794s
+user	0m1.386s
+sys	0m0.154s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "M": [
+        {
+          "v_id": "1511829441107",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 24189255817480,
+            "M.@personFirstName": "Carlo",
+            "M.@personLastName": "Alcala",
+            "messageId": 1511829441107,
+            "M.@messageContent": "no way!",
+            "messageCreationDate": 1323215867792
+          }
+        },
+        {
+          "v_id": "1511830872980",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 4398046516814,
+            "M.@personFirstName": "Joao",
+            "M.@personLastName": "Moreira",
+            "messageId": 1511830872980,
+            "M.@messageContent": "cool",
+            "messageCreationDate": 1323215813250
+          }
+        },
+        {
+          "v_id": "1511830872977",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069775288,
+            "M.@personFirstName": "Ahmed Hossam",
+            "M.@personLastName": "Hassan",
+            "messageId": 1511830872977,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215795492
+          }
+        },
+        {
+          "v_id": "1511831169089",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 7837,
+            "M.@personFirstName": "Igor",
+            "M.@personLastName": "Efimkin",
+            "messageId": 1511831169089,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323215743939
+          }
+        },
+        {
+          "v_id": "1511832702360",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 13194139540475,
+            "M.@personFirstName": "Lei",
+            "M.@personLastName": "Li",
+            "messageId": 1511832702360,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215732074
+          }
+        },
+        {
+          "v_id": "1511830794010",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093022330,
+            "M.@personFirstName": "Meera",
+            "M.@personLastName": "Khan",
+            "messageId": 1511830794010,
+            "M.@messageContent": "About Richard Burton,  August 1984) was a Welsh actor. He was nominAbout Thong Song, g i",
+            "messageCreationDate": 1323215446601
+          }
+        },
+        {
+          "v_id": "1511829440344",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 24189255817480,
+            "M.@personFirstName": "Carlo",
+            "M.@personLastName": "Alcala",
+            "messageId": 1511829440344,
+            "M.@messageContent": "About John F. Kennedy, st in the world in tAbout Drew Barrymore, raphy, Litt",
+            "messageCreationDate": 1323215439729
+          }
+        },
+        {
+          "v_id": "1511829093565",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162797132,
+            "M.@personFirstName": "Shweta",
+            "M.@personLastName": "Kapoor",
+            "messageId": 1511829093565,
+            "M.@messageContent": "duh",
+            "messageCreationDate": 1323215433517
+          }
+        },
+        {
+          "v_id": "1511831333615",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 10995116284819,
+            "M.@personFirstName": "John",
+            "M.@personLastName": "Khan",
+            "messageId": 1511831333615,
+            "M.@messageContent": "About Augustine of Hippo, porary, Jerome, Augustine established About Ridley Scott,  He is the older brother of f",
+            "messageCreationDate": 1323215317462
+          }
+        },
+        {
+          "v_id": "1511830712549",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 19791209306158,
+            "M.@personFirstName": "Bobby",
+            "M.@personLastName": "Garcia",
+            "messageId": 1511830712549,
+            "M.@messageContent": "right",
+            "messageCreationDate": 1323215290161
+          }
+        },
+        {
+          "v_id": "1511831048319",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093030655,
+            "M.@personFirstName": "Jose",
+            "M.@personLastName": "Reyes",
+            "messageId": 1511831048319,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215078244
+          }
+        },
+        {
+          "v_id": "1511831471988",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023261049,
+            "M.@personFirstName": "Rahul",
+            "M.@personLastName": "Singh",
+            "messageId": 1511831471988,
+            "M.@messageContent": "roflol",
+            "messageCreationDate": 1323215003760
+          }
+        },
+        {
+          "v_id": "1511829505923",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162794315,
+            "M.@personFirstName": "Joseph",
+            "M.@personLastName": "Kumar",
+            "messageId": 1511829505923,
+            "M.@messageContent": "About Buddy Holly, ry 3, 1959), knoAbout Just Push Play, Joey Kramer duriAbout",
+            "messageCreationDate": 1323214938527
+          }
+        },
+        {
+          "v_id": "1511832872177",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 15393162793557,
+            "M.@personFirstName": "Zhong",
+            "M.@personLastName": "Zhang",
+            "messageId": 1511832872177,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323214925461
+          }
+        },
+        {
+          "v_id": "1511828869447",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069772560,
+            "M.@personFirstName": "Marcelo",
+            "M.@personLastName": "Costa",
+            "messageId": 1511828869447,
+            "M.@messageContent": "About J. R. R. Tolkien, erton Professor of English Language and About Stephen K",
+            "messageCreationDate": 1323214674427
+          }
+        },
+        {
+          "v_id": "1511830682125",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069774064,
+            "M.@personFirstName": "Ayesha",
+            "M.@personLastName": "Ahmed",
+            "messageId": 1511830682125,
+            "M.@messageContent": "About Duchy of Savoy, ies that are now in France. It was a continuation of the County of",
+            "messageCreationDate": 1323214628594
+          }
+        },
+        {
+          "v_id": "1511833491449",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232561386,
+            "M.@personFirstName": "Ruby",
+            "M.@personLastName": "Shrestha",
+            "messageId": 1511833491449,
+            "M.@messageContent": "About Muammar Gaddafi,  Revolution; inAbout Cuba, t of aggressionAbout All Eyez on Me, a",
+            "messageCreationDate": 1323214627524
+          }
+        },
+        {
+          "v_id": "1511829004342",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6575,
+            "M.@personFirstName": "Lomana Trésor",
+            "M.@personLastName": "Kanam",
+            "messageId": 1511829004342,
+            "M.@messageContent": "cool",
+            "messageCreationDate": 1323214625178
+          }
+        },
+        {
+          "v_id": "1511831452191",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 24189255812605,
+            "M.@personFirstName": "Jack",
+            "M.@personLastName": "Jones",
+            "messageId": 1511831452191,
+            "M.@messageContent": "thx",
+            "messageCreationDate": 1323214553434
+          }
+        },
+        {
+          "v_id": "1511830652474",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069767336,
+            "M.@personFirstName": "Boy",
+            "M.@personLastName": "Santos",
+            "messageId": 1511830652474,
+            "M.@messageContent": "photo1511830652474.jpg",
+            "messageCreationDate": 1323214525720
+          }
+        }
+      ]
+    },
+    {
+      "M.size()": 20
+    },
+    {
+      "TopKM": [
+        {
+          "v_id": "1511831048319",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511831048319,
+            "messageContent": "good"
+          }
+        },
+        {
+          "v_id": "1511831471988",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511831471988,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "1511831169089",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511831169089,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "1511829505923",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511829505923,
+            "messageContent": "About Buddy Holly, ry 3, 1959), knoAbout Just Push Play, Joey Kramer duriAbout"
+          }
+        },
+        {
+          "v_id": "1511830872980",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511830872980,
+            "messageContent": "cool"
+          }
+        },
+        {
+          "v_id": "1511828869447",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511828869447,
+            "messageContent": "About J. R. R. Tolkien, erton Professor of English Language and About Stephen K"
+          }
+        },
+        {
+          "v_id": "1511833491449",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511833491449,
+            "messageContent": "About Muammar Gaddafi,  Revolution; inAbout Cuba, t of aggressionAbout All Eyez on Me, a"
+          }
+        },
+        {
+          "v_id": "1511829004342",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511829004342,
+            "messageContent": "cool"
+          }
+        },
+        {
+          "v_id": "1511829441107",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511829441107,
+            "messageContent": "no way!"
+          }
+        },
+        {
+          "v_id": "1511829093565",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1511829093565,
+            "messageContent": "duh"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.841s
+user	0m1.424s
+sys	0m0.185s
+ic 11
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "P": [
+        {
+          "v_id": "21990232557444",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 21990232557444,
+            "personFirstName": "Lei",
+            "personLastName": "Liu",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2001
+          }
+        },
+        {
+          "v_id": "26388279067179",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 26388279067179,
+            "personFirstName": "Chen",
+            "personLastName": "Yang",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2001
+          }
+        },
+        {
+          "v_id": "4398046514971",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046514971,
+            "personFirstName": "Ken",
+            "personLastName": "Vang",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2002
+          }
+        },
+        {
+          "v_id": "8796093026323",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 8796093026323,
+            "personFirstName": "Andres",
+            "personLastName": "Rodriguez",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2002
+          }
+        },
+        {
+          "v_id": "2199023260232",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023260232,
+            "personFirstName": "Bela",
+            "personLastName": "Laszlo",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "6597069775339",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069775339,
+            "personFirstName": "Li",
+            "personLastName": "Li",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "8796093022909",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 8796093022909,
+            "personFirstName": "Mee",
+            "personLastName": "Vang",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "24189255816941",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 24189255816941,
+            "personFirstName": "Cy",
+            "personLastName": "Vorachith",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "28587302327676",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 28587302327676,
+            "personFirstName": "Mee",
+            "personLastName": "Bouphavanh",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "35184372095553",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 35184372095553,
+            "personFirstName": "Cy",
+            "personLastName": "Moua",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2003
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 4803
+    },
+    {
+      "M": [
+        {
+          "v_id": "2061588932914",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2061588932914,
+            "messageContent": "About Wolfgang Amadeus Mozart, ability from About Gustav Mahler, enberg, Al"
+          }
+        },
+        {
+          "v_id": "2061587359507",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2061587359507,
+            "messageContent": "About Stevie Wonder, amla label at the age of eleven, and continues to perform and record for Motown to this day. Among Wonder's best known works are singles such as Superstition, Sir"
+          }
+        },
+        {
+          "v_id": "1236953638192",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1236953638192,
+            "messageContent": "LOL"
+          }
+        },
+        {
+          "v_id": "2199026313599",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199026313599,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "1786711025999",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1786711025999,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "1786709452766",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1786709452766,
+            "messageContent": "ok"
+          }
+        },
+        {
+          "v_id": "1924145858323",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1924145858323,
+            "messageContent": "About Isaac Asimov,  and Discovery, as well as works on astronoAbout Roanoke Colony,"
+          }
+        },
+        {
+          "v_id": "1236951076662",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1236951076662,
+            "messageContent": "great"
+          }
+        },
+        {
+          "v_id": "1374389599348",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1374389599348,
+            "messageContent": "About Ralph Nader, ix-time caAbout Julia Gillard, een GillarAbout Blame It on"
+          }
+        },
+        {
+          "v_id": "1374394227657",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1374394227657,
+            "messageContent": "About Freddie Mercury, the disease. Mercury was a Parsi born in Zanzibar and grew up"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.702s
+user	0m1.215s
+sys	0m0.212s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "P": [
+        {
+          "v_id": "21990232557444",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 21990232557444,
+            "personFirstName": "Lei",
+            "personLastName": "Liu",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2001
+          }
+        },
+        {
+          "v_id": "26388279067179",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 26388279067179,
+            "personFirstName": "Chen",
+            "personLastName": "Yang",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2001
+          }
+        },
+        {
+          "v_id": "4398046514971",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046514971,
+            "personFirstName": "Ken",
+            "personLastName": "Vang",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2002
+          }
+        },
+        {
+          "v_id": "8796093026323",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 8796093026323,
+            "personFirstName": "Andres",
+            "personLastName": "Rodriguez",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2002
+          }
+        },
+        {
+          "v_id": "2199023260232",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023260232,
+            "personFirstName": "Bela",
+            "personLastName": "Laszlo",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "6597069775339",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069775339,
+            "personFirstName": "Li",
+            "personLastName": "Li",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "8796093022909",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 8796093022909,
+            "personFirstName": "Mee",
+            "personLastName": "Vang",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "24189255816941",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 24189255816941,
+            "personFirstName": "Cy",
+            "personLastName": "Vorachith",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "28587302327676",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 28587302327676,
+            "personFirstName": "Mee",
+            "personLastName": "Bouphavanh",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "35184372095553",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 35184372095553,
+            "personFirstName": "Cy",
+            "personLastName": "Moua",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2003
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 4803
+    },
+    {
+      "M": [
+        {
+          "v_id": "2061588932914",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2061588932914,
+            "messageContent": "About Wolfgang Amadeus Mozart, ability from About Gustav Mahler, enberg, Al"
+          }
+        },
+        {
+          "v_id": "1924145858323",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1924145858323,
+            "messageContent": "About Isaac Asimov,  and Discovery, as well as works on astronoAbout Roanoke Colony,"
+          }
+        },
+        {
+          "v_id": "1236953638192",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1236953638192,
+            "messageContent": "LOL"
+          }
+        },
+        {
+          "v_id": "2199026313599",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199026313599,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "1786711025999",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1786711025999,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "1786709452766",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1786709452766,
+            "messageContent": "ok"
+          }
+        },
+        {
+          "v_id": "1374389599348",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1374389599348,
+            "messageContent": "About Ralph Nader, ix-time caAbout Julia Gillard, een GillarAbout Blame It on"
+          }
+        },
+        {
+          "v_id": "1374394227657",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1374394227657,
+            "messageContent": "About Freddie Mercury, the disease. Mercury was a Parsi born in Zanzibar and grew up"
+          }
+        },
+        {
+          "v_id": "1236951076662",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1236951076662,
+            "messageContent": "great"
+          }
+        },
+        {
+          "v_id": "2061587359507",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2061587359507,
+            "messageContent": "About Stevie Wonder, amla label at the age of eleven, and continues to perform and record for Motown to this day. Among Wonder's best known works are singles such as Superstition, Sir"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.637s
+user	0m1.198s
+sys	0m0.166s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "P": [
+        {
+          "v_id": "21990232557444",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 21990232557444,
+            "personFirstName": "Lei",
+            "personLastName": "Liu",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2001
+          }
+        },
+        {
+          "v_id": "26388279067179",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 26388279067179,
+            "personFirstName": "Chen",
+            "personLastName": "Yang",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2001
+          }
+        },
+        {
+          "v_id": "4398046514971",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046514971,
+            "personFirstName": "Ken",
+            "personLastName": "Vang",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2002
+          }
+        },
+        {
+          "v_id": "8796093026323",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 8796093026323,
+            "personFirstName": "Andres",
+            "personLastName": "Rodriguez",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2002
+          }
+        },
+        {
+          "v_id": "2199023260232",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023260232,
+            "personFirstName": "Bela",
+            "personLastName": "Laszlo",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "6597069775339",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069775339,
+            "personFirstName": "Li",
+            "personLastName": "Li",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "8796093022909",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 8796093022909,
+            "personFirstName": "Mee",
+            "personLastName": "Vang",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "24189255816941",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 24189255816941,
+            "personFirstName": "Cy",
+            "personLastName": "Vorachith",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "28587302327676",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 28587302327676,
+            "personFirstName": "Mee",
+            "personLastName": "Bouphavanh",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "35184372095553",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 35184372095553,
+            "personFirstName": "Cy",
+            "personLastName": "Moua",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2003
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 4803
+    },
+    {
+      "M": [
+        {
+          "v_id": "2061588932914",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2061588932914,
+            "messageContent": "About Wolfgang Amadeus Mozart, ability from About Gustav Mahler, enberg, Al"
+          }
+        },
+        {
+          "v_id": "1236951076662",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1236951076662,
+            "messageContent": "great"
+          }
+        },
+        {
+          "v_id": "2061587359507",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2061587359507,
+            "messageContent": "About Stevie Wonder, amla label at the age of eleven, and continues to perform and record for Motown to this day. Among Wonder's best known works are singles such as Superstition, Sir"
+          }
+        },
+        {
+          "v_id": "1236953638192",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1236953638192,
+            "messageContent": "LOL"
+          }
+        },
+        {
+          "v_id": "2199026313599",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199026313599,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "1786711025999",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1786711025999,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "1786709452766",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1786709452766,
+            "messageContent": "ok"
+          }
+        },
+        {
+          "v_id": "1924145858323",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1924145858323,
+            "messageContent": "About Isaac Asimov,  and Discovery, as well as works on astronoAbout Roanoke Colony,"
+          }
+        },
+        {
+          "v_id": "1374389599348",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1374389599348,
+            "messageContent": "About Ralph Nader, ix-time caAbout Julia Gillard, een GillarAbout Blame It on"
+          }
+        },
+        {
+          "v_id": "1374394227657",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1374394227657,
+            "messageContent": "About Freddie Mercury, the disease. Mercury was a Parsi born in Zanzibar and grew up"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.652s
+user	0m1.224s
+sys	0m0.158s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "P": [
+        {
+          "v_id": "21990232557444",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 21990232557444,
+            "personFirstName": "Lei",
+            "personLastName": "Liu",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2001
+          }
+        },
+        {
+          "v_id": "26388279067179",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 26388279067179,
+            "personFirstName": "Chen",
+            "personLastName": "Yang",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2001
+          }
+        },
+        {
+          "v_id": "4398046514971",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046514971,
+            "personFirstName": "Ken",
+            "personLastName": "Vang",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2002
+          }
+        },
+        {
+          "v_id": "8796093026323",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 8796093026323,
+            "personFirstName": "Andres",
+            "personLastName": "Rodriguez",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2002
+          }
+        },
+        {
+          "v_id": "2199023260232",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023260232,
+            "personFirstName": "Bela",
+            "personLastName": "Laszlo",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "6597069775339",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069775339,
+            "personFirstName": "Li",
+            "personLastName": "Li",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "8796093022909",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 8796093022909,
+            "personFirstName": "Mee",
+            "personLastName": "Vang",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "24189255816941",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 24189255816941,
+            "personFirstName": "Cy",
+            "personLastName": "Vorachith",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "28587302327676",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 28587302327676,
+            "personFirstName": "Mee",
+            "personLastName": "Bouphavanh",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "35184372095553",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 35184372095553,
+            "personFirstName": "Cy",
+            "personLastName": "Moua",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2003
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 4803
+    },
+    {
+      "M": [
+        {
+          "v_id": "1374389599348",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1374389599348,
+            "messageContent": "About Ralph Nader, ix-time caAbout Julia Gillard, een GillarAbout Blame It on"
+          }
+        },
+        {
+          "v_id": "1374394227657",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1374394227657,
+            "messageContent": "About Freddie Mercury, the disease. Mercury was a Parsi born in Zanzibar and grew up"
+          }
+        },
+        {
+          "v_id": "1786711025999",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1786711025999,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "1236953638192",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1236953638192,
+            "messageContent": "LOL"
+          }
+        },
+        {
+          "v_id": "2199026313599",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199026313599,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "1786709452766",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1786709452766,
+            "messageContent": "ok"
+          }
+        },
+        {
+          "v_id": "2061588932914",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2061588932914,
+            "messageContent": "About Wolfgang Amadeus Mozart, ability from About Gustav Mahler, enberg, Al"
+          }
+        },
+        {
+          "v_id": "1236951076662",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1236951076662,
+            "messageContent": "great"
+          }
+        },
+        {
+          "v_id": "2061587359507",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2061587359507,
+            "messageContent": "About Stevie Wonder, amla label at the age of eleven, and continues to perform and record for Motown to this day. Among Wonder's best known works are singles such as Superstition, Sir"
+          }
+        },
+        {
+          "v_id": "1924145858323",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1924145858323,
+            "messageContent": "About Isaac Asimov,  and Discovery, as well as works on astronoAbout Roanoke Colony,"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.637s
+user	0m1.184s
+sys	0m0.185s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "P": [
+        {
+          "v_id": "21990232557444",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 21990232557444,
+            "personFirstName": "Lei",
+            "personLastName": "Liu",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2001
+          }
+        },
+        {
+          "v_id": "26388279067179",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 26388279067179,
+            "personFirstName": "Chen",
+            "personLastName": "Yang",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2001
+          }
+        },
+        {
+          "v_id": "4398046514971",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046514971,
+            "personFirstName": "Ken",
+            "personLastName": "Vang",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2002
+          }
+        },
+        {
+          "v_id": "8796093026323",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 8796093026323,
+            "personFirstName": "Andres",
+            "personLastName": "Rodriguez",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2002
+          }
+        },
+        {
+          "v_id": "2199023260232",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023260232,
+            "personFirstName": "Bela",
+            "personLastName": "Laszlo",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "6597069775339",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069775339,
+            "personFirstName": "Li",
+            "personLastName": "Li",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "8796093022909",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 8796093022909,
+            "personFirstName": "Mee",
+            "personLastName": "Vang",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "24189255816941",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 24189255816941,
+            "personFirstName": "Cy",
+            "personLastName": "Vorachith",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "28587302327676",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 28587302327676,
+            "personFirstName": "Mee",
+            "personLastName": "Bouphavanh",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2003
+          }
+        },
+        {
+          "v_id": "35184372095553",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 35184372095553,
+            "personFirstName": "Cy",
+            "personLastName": "Moua",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2003
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 4803
+    },
+    {
+      "M": [
+        {
+          "v_id": "1924145858323",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1924145858323,
+            "messageContent": "About Isaac Asimov,  and Discovery, as well as works on astronoAbout Roanoke Colony,"
+          }
+        },
+        {
+          "v_id": "1236953638192",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1236953638192,
+            "messageContent": "LOL"
+          }
+        },
+        {
+          "v_id": "2199026313599",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2199026313599,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "1786711025999",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1786711025999,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "2061588932914",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2061588932914,
+            "messageContent": "About Wolfgang Amadeus Mozart, ability from About Gustav Mahler, enberg, Al"
+          }
+        },
+        {
+          "v_id": "1786709452766",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1786709452766,
+            "messageContent": "ok"
+          }
+        },
+        {
+          "v_id": "1236951076662",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1236951076662,
+            "messageContent": "great"
+          }
+        },
+        {
+          "v_id": "1374389599348",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1374389599348,
+            "messageContent": "About Ralph Nader, ix-time caAbout Julia Gillard, een GillarAbout Blame It on"
+          }
+        },
+        {
+          "v_id": "1374394227657",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 1374394227657,
+            "messageContent": "About Freddie Mercury, the disease. Mercury was a Parsi born in Zanzibar and grew up"
+          }
+        },
+        {
+          "v_id": "2061587359507",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 2061587359507,
+            "messageContent": "About Stevie Wonder, amla label at the age of eleven, and continues to perform and record for Motown to this day. Among Wonder's best known works are singles such as Superstition, Sir"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.638s
+user	0m1.170s
+sys	0m0.177s

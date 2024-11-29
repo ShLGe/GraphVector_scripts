@@ -1,0 +1,41 @@
+USE GRAPH ldbc_snb
+drop query ic_11_hybrid
+
+CREATE QUERY ic_11_hybrid(vertex<Person> pid, string cName,
+    int year, list<float> q) FOR GRAPH ldbc_snb SYNTAX v2 {
+  SumAccum<string> @organizationName;
+  SumAccum<int> @organizationWorkFromYear;
+  SetAccum<vertex> @@MessageSet;
+  S = { pid };
+
+  P =
+    SELECT p
+    FROM S:s -(KNOWS*1..2)- Person:p -(WORK_AT>:e)- Company:org,
+         :org -(IS_LOCATED_IN>)- Country:c,
+         :p -(<HAS_CREATOR)- (Post|Comment):m
+    WHERE p != s AND e.workFrom < year AND c.name == cName
+    ACCUM p.@organizationName = org.name,
+          p.@organizationWorkFromYear = e.workFrom,
+          @@MessageSet += m
+    ORDER BY p.@organizationWorkFromYear ASC, p.id ASC, p.@organizationName DESC
+    LIMIT 10;
+
+  MSet = @@MessageSet;
+
+
+  M = TopKVectorSearch({Comment.content_embedding, Post.content_embedding}, q, 10, filter=MSet, ef=50);
+
+
+  PRINT P[P.id AS personId, P.firstName AS personFirstName,
+          P.lastName AS personLastName, P.@organizationName,
+          P.@organizationWorkFromYear];
+
+  PRINT MSet.size();
+
+  PRINT M[
+     M.id AS messageId,
+     M.content AS messageContent
+  ];
+}
+
+install query -single ic_11_hybrid

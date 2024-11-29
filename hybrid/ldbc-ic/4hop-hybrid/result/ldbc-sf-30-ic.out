@@ -1,0 +1,6750 @@
+ic 3
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "S": [
+        {
+          "v_id": "153117",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 153117,
+            "personFirstName": "Hans",
+            "personLastName": "Schulz",
+            "xCount": 2,
+            "yCount": 1,
+            "totalCount": 3
+          }
+        },
+        {
+          "v_id": "13194139623052",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 13194139623052,
+            "personFirstName": "Alexandre",
+            "personLastName": "Blume",
+            "xCount": 2,
+            "yCount": 1,
+            "totalCount": 3
+          }
+        },
+        {
+          "v_id": "2743",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2743,
+            "personFirstName": "Ricky",
+            "personLastName": "Gonzales",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "78929",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 78929,
+            "personFirstName": "Bingbing",
+            "personLastName": "Yan",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "81454",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 81454,
+            "personFirstName": "Aditya",
+            "personLastName": "Khan",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "140057",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 140057,
+            "personFirstName": "Joseph",
+            "personLastName": "Singh",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "157257",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 157257,
+            "personFirstName": "Yang",
+            "personLastName": "Zhang",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023272110",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023272110,
+            "personFirstName": "Youssef",
+            "personLastName": "Hassan",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023303851",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023303851,
+            "personFirstName": "Kurt",
+            "personLastName": "Fischer",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023326012",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023326012,
+            "personFirstName": "Jun",
+            "personLastName": "Chen",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023379323",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023379323,
+            "personFirstName": "Erwin",
+            "personLastName": "Engel",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023398139",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023398139,
+            "personFirstName": "Alberto",
+            "personLastName": "Silva",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023428420",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023428420,
+            "personFirstName": "Walter",
+            "personLastName": "Wagner",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "4398046639684",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046639684,
+            "personFirstName": "Boris",
+            "personLastName": "Dobrunov",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "4398046686288",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046686288,
+            "personFirstName": "Marcelo",
+            "personLastName": "Souza",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069782244",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069782244,
+            "personFirstName": "Cheng",
+            "personLastName": "Zhu",
+            "xCount": 1,
+            "yCount": 2,
+            "totalCount": 3
+          }
+        },
+        {
+          "v_id": "6597069784510",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069784510,
+            "personFirstName": "Kunal",
+            "personLastName": "Rao",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069787761",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069787761,
+            "personFirstName": "Abdul Hameed",
+            "personLastName": "Ali",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069817571",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069817571,
+            "personFirstName": "Jimmy",
+            "personLastName": "Aly",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069828195",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069828195,
+            "personFirstName": "John",
+            "personLastName": "Tembo",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 71
+    },
+    {
+      "M": [
+        {
+          "v_id": "28587376726065",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 28587376726065,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "30786377440565",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 30786377440565,
+            "messageContent": "About Lord Byron,  as the choreographer. A performance oAbout Kingdom of Yu"
+          }
+        },
+        {
+          "v_id": "35184420213070",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 35184420213070,
+            "messageContent": "About Arnold Schwarzenegger, he title of Mr. About Haile Selassie I, 's failu"
+          }
+        },
+        {
+          "v_id": "28587309115880",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 28587309115880,
+            "messageContent": "About Candle in the Wind 1997, John's ninth U.S. number one single, where it topped the Billboard Hot 100 for 14 weeks, and is the best-selling single in Billbo"
+          }
+        },
+        {
+          "v_id": "26388387083233",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 26388387083233,
+            "messageContent": "duh"
+          }
+        },
+        {
+          "v_id": "30786461944666",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 30786461944666,
+            "messageContent": "About Fernando González, s player in historAbout Antonio Vivaldi, 20th century. TodaAbou"
+          }
+        },
+        {
+          "v_id": "30786367777971",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 30786367777971,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "37383443996906",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383443996906,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "35184410350406",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 35184410350406,
+            "messageContent": "no"
+          }
+        },
+        {
+          "v_id": "30786401540637",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 30786401540637,
+            "messageContent": "About Nelly Furtado,  hits Promiscuous, Maneater, Say It Right and All Good Things (Come to an End). After a three-year break, she released her first full-length Spanish album,"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m3.702s
+user	0m1.428s
+sys	0m0.183s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "S": [
+        {
+          "v_id": "153117",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 153117,
+            "personFirstName": "Hans",
+            "personLastName": "Schulz",
+            "xCount": 2,
+            "yCount": 1,
+            "totalCount": 3
+          }
+        },
+        {
+          "v_id": "13194139623052",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 13194139623052,
+            "personFirstName": "Alexandre",
+            "personLastName": "Blume",
+            "xCount": 2,
+            "yCount": 1,
+            "totalCount": 3
+          }
+        },
+        {
+          "v_id": "2743",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2743,
+            "personFirstName": "Ricky",
+            "personLastName": "Gonzales",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "78929",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 78929,
+            "personFirstName": "Bingbing",
+            "personLastName": "Yan",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "81454",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 81454,
+            "personFirstName": "Aditya",
+            "personLastName": "Khan",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "140057",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 140057,
+            "personFirstName": "Joseph",
+            "personLastName": "Singh",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "157257",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 157257,
+            "personFirstName": "Yang",
+            "personLastName": "Zhang",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023272110",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023272110,
+            "personFirstName": "Youssef",
+            "personLastName": "Hassan",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023303851",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023303851,
+            "personFirstName": "Kurt",
+            "personLastName": "Fischer",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023326012",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023326012,
+            "personFirstName": "Jun",
+            "personLastName": "Chen",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023379323",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023379323,
+            "personFirstName": "Erwin",
+            "personLastName": "Engel",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023398139",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023398139,
+            "personFirstName": "Alberto",
+            "personLastName": "Silva",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023428420",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023428420,
+            "personFirstName": "Walter",
+            "personLastName": "Wagner",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "4398046639684",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046639684,
+            "personFirstName": "Boris",
+            "personLastName": "Dobrunov",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "4398046686288",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046686288,
+            "personFirstName": "Marcelo",
+            "personLastName": "Souza",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069782244",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069782244,
+            "personFirstName": "Cheng",
+            "personLastName": "Zhu",
+            "xCount": 1,
+            "yCount": 2,
+            "totalCount": 3
+          }
+        },
+        {
+          "v_id": "6597069784510",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069784510,
+            "personFirstName": "Kunal",
+            "personLastName": "Rao",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069787761",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069787761,
+            "personFirstName": "Abdul Hameed",
+            "personLastName": "Ali",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069817571",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069817571,
+            "personFirstName": "Jimmy",
+            "personLastName": "Aly",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069828195",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069828195,
+            "personFirstName": "John",
+            "personLastName": "Tembo",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 71
+    },
+    {
+      "M": [
+        {
+          "v_id": "30786377440565",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 30786377440565,
+            "messageContent": "About Lord Byron,  as the choreographer. A performance oAbout Kingdom of Yu"
+          }
+        },
+        {
+          "v_id": "35184420213070",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 35184420213070,
+            "messageContent": "About Arnold Schwarzenegger, he title of Mr. About Haile Selassie I, 's failu"
+          }
+        },
+        {
+          "v_id": "28587309115880",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 28587309115880,
+            "messageContent": "About Candle in the Wind 1997, John's ninth U.S. number one single, where it topped the Billboard Hot 100 for 14 weeks, and is the best-selling single in Billbo"
+          }
+        },
+        {
+          "v_id": "26388387083233",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 26388387083233,
+            "messageContent": "duh"
+          }
+        },
+        {
+          "v_id": "37383443996906",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383443996906,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "35184410350406",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 35184410350406,
+            "messageContent": "no"
+          }
+        },
+        {
+          "v_id": "30786401540637",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 30786401540637,
+            "messageContent": "About Nelly Furtado,  hits Promiscuous, Maneater, Say It Right and All Good Things (Come to an End). After a three-year break, she released her first full-length Spanish album,"
+          }
+        },
+        {
+          "v_id": "28587376726065",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 28587376726065,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "30786367777971",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 30786367777971,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "30786461944666",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 30786461944666,
+            "messageContent": "About Fernando González, s player in historAbout Antonio Vivaldi, 20th century. TodaAbou"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m3.680s
+user	0m1.426s
+sys	0m0.195s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "S": [
+        {
+          "v_id": "153117",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 153117,
+            "personFirstName": "Hans",
+            "personLastName": "Schulz",
+            "xCount": 2,
+            "yCount": 1,
+            "totalCount": 3
+          }
+        },
+        {
+          "v_id": "13194139623052",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 13194139623052,
+            "personFirstName": "Alexandre",
+            "personLastName": "Blume",
+            "xCount": 2,
+            "yCount": 1,
+            "totalCount": 3
+          }
+        },
+        {
+          "v_id": "2743",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2743,
+            "personFirstName": "Ricky",
+            "personLastName": "Gonzales",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "78929",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 78929,
+            "personFirstName": "Bingbing",
+            "personLastName": "Yan",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "81454",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 81454,
+            "personFirstName": "Aditya",
+            "personLastName": "Khan",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "140057",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 140057,
+            "personFirstName": "Joseph",
+            "personLastName": "Singh",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "157257",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 157257,
+            "personFirstName": "Yang",
+            "personLastName": "Zhang",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023272110",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023272110,
+            "personFirstName": "Youssef",
+            "personLastName": "Hassan",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023303851",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023303851,
+            "personFirstName": "Kurt",
+            "personLastName": "Fischer",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023326012",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023326012,
+            "personFirstName": "Jun",
+            "personLastName": "Chen",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023379323",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023379323,
+            "personFirstName": "Erwin",
+            "personLastName": "Engel",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023398139",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023398139,
+            "personFirstName": "Alberto",
+            "personLastName": "Silva",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023428420",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023428420,
+            "personFirstName": "Walter",
+            "personLastName": "Wagner",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "4398046639684",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046639684,
+            "personFirstName": "Boris",
+            "personLastName": "Dobrunov",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "4398046686288",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046686288,
+            "personFirstName": "Marcelo",
+            "personLastName": "Souza",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069782244",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069782244,
+            "personFirstName": "Cheng",
+            "personLastName": "Zhu",
+            "xCount": 1,
+            "yCount": 2,
+            "totalCount": 3
+          }
+        },
+        {
+          "v_id": "6597069784510",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069784510,
+            "personFirstName": "Kunal",
+            "personLastName": "Rao",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069787761",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069787761,
+            "personFirstName": "Abdul Hameed",
+            "personLastName": "Ali",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069817571",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069817571,
+            "personFirstName": "Jimmy",
+            "personLastName": "Aly",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069828195",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069828195,
+            "personFirstName": "John",
+            "personLastName": "Tembo",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 71
+    },
+    {
+      "M": [
+        {
+          "v_id": "30786377440565",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 30786377440565,
+            "messageContent": "About Lord Byron,  as the choreographer. A performance oAbout Kingdom of Yu"
+          }
+        },
+        {
+          "v_id": "35184420213070",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 35184420213070,
+            "messageContent": "About Arnold Schwarzenegger, he title of Mr. About Haile Selassie I, 's failu"
+          }
+        },
+        {
+          "v_id": "28587309115880",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 28587309115880,
+            "messageContent": "About Candle in the Wind 1997, John's ninth U.S. number one single, where it topped the Billboard Hot 100 for 14 weeks, and is the best-selling single in Billbo"
+          }
+        },
+        {
+          "v_id": "26388387083233",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 26388387083233,
+            "messageContent": "duh"
+          }
+        },
+        {
+          "v_id": "37383443996906",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383443996906,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "35184410350406",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 35184410350406,
+            "messageContent": "no"
+          }
+        },
+        {
+          "v_id": "30786367777971",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 30786367777971,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "28587376726065",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 28587376726065,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "30786461944666",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 30786461944666,
+            "messageContent": "About Fernando González, s player in historAbout Antonio Vivaldi, 20th century. TodaAbou"
+          }
+        },
+        {
+          "v_id": "30786401540637",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 30786401540637,
+            "messageContent": "About Nelly Furtado,  hits Promiscuous, Maneater, Say It Right and All Good Things (Come to an End). After a three-year break, she released her first full-length Spanish album,"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m3.599s
+user	0m1.423s
+sys	0m0.201s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "S": [
+        {
+          "v_id": "153117",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 153117,
+            "personFirstName": "Hans",
+            "personLastName": "Schulz",
+            "xCount": 2,
+            "yCount": 1,
+            "totalCount": 3
+          }
+        },
+        {
+          "v_id": "13194139623052",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 13194139623052,
+            "personFirstName": "Alexandre",
+            "personLastName": "Blume",
+            "xCount": 2,
+            "yCount": 1,
+            "totalCount": 3
+          }
+        },
+        {
+          "v_id": "2743",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2743,
+            "personFirstName": "Ricky",
+            "personLastName": "Gonzales",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "78929",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 78929,
+            "personFirstName": "Bingbing",
+            "personLastName": "Yan",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "81454",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 81454,
+            "personFirstName": "Aditya",
+            "personLastName": "Khan",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "140057",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 140057,
+            "personFirstName": "Joseph",
+            "personLastName": "Singh",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "157257",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 157257,
+            "personFirstName": "Yang",
+            "personLastName": "Zhang",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023272110",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023272110,
+            "personFirstName": "Youssef",
+            "personLastName": "Hassan",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023303851",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023303851,
+            "personFirstName": "Kurt",
+            "personLastName": "Fischer",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023326012",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023326012,
+            "personFirstName": "Jun",
+            "personLastName": "Chen",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023379323",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023379323,
+            "personFirstName": "Erwin",
+            "personLastName": "Engel",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023398139",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023398139,
+            "personFirstName": "Alberto",
+            "personLastName": "Silva",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023428420",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023428420,
+            "personFirstName": "Walter",
+            "personLastName": "Wagner",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "4398046639684",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046639684,
+            "personFirstName": "Boris",
+            "personLastName": "Dobrunov",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "4398046686288",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046686288,
+            "personFirstName": "Marcelo",
+            "personLastName": "Souza",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069782244",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069782244,
+            "personFirstName": "Cheng",
+            "personLastName": "Zhu",
+            "xCount": 1,
+            "yCount": 2,
+            "totalCount": 3
+          }
+        },
+        {
+          "v_id": "6597069784510",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069784510,
+            "personFirstName": "Kunal",
+            "personLastName": "Rao",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069787761",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069787761,
+            "personFirstName": "Abdul Hameed",
+            "personLastName": "Ali",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069817571",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069817571,
+            "personFirstName": "Jimmy",
+            "personLastName": "Aly",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069828195",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069828195,
+            "personFirstName": "John",
+            "personLastName": "Tembo",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 71
+    },
+    {
+      "M": [
+        {
+          "v_id": "30786377440565",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 30786377440565,
+            "messageContent": "About Lord Byron,  as the choreographer. A performance oAbout Kingdom of Yu"
+          }
+        },
+        {
+          "v_id": "35184420213070",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 35184420213070,
+            "messageContent": "About Arnold Schwarzenegger, he title of Mr. About Haile Selassie I, 's failu"
+          }
+        },
+        {
+          "v_id": "28587309115880",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 28587309115880,
+            "messageContent": "About Candle in the Wind 1997, John's ninth U.S. number one single, where it topped the Billboard Hot 100 for 14 weeks, and is the best-selling single in Billbo"
+          }
+        },
+        {
+          "v_id": "26388387083233",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 26388387083233,
+            "messageContent": "duh"
+          }
+        },
+        {
+          "v_id": "28587376726065",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 28587376726065,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "37383443996906",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383443996906,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "35184410350406",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 35184410350406,
+            "messageContent": "no"
+          }
+        },
+        {
+          "v_id": "30786367777971",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 30786367777971,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "30786401540637",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 30786401540637,
+            "messageContent": "About Nelly Furtado,  hits Promiscuous, Maneater, Say It Right and All Good Things (Come to an End). After a three-year break, she released her first full-length Spanish album,"
+          }
+        },
+        {
+          "v_id": "30786461944666",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 30786461944666,
+            "messageContent": "About Fernando González, s player in historAbout Antonio Vivaldi, 20th century. TodaAbou"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m3.684s
+user	0m1.429s
+sys	0m0.167s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "S": [
+        {
+          "v_id": "153117",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 153117,
+            "personFirstName": "Hans",
+            "personLastName": "Schulz",
+            "xCount": 2,
+            "yCount": 1,
+            "totalCount": 3
+          }
+        },
+        {
+          "v_id": "13194139623052",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 13194139623052,
+            "personFirstName": "Alexandre",
+            "personLastName": "Blume",
+            "xCount": 2,
+            "yCount": 1,
+            "totalCount": 3
+          }
+        },
+        {
+          "v_id": "2743",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2743,
+            "personFirstName": "Ricky",
+            "personLastName": "Gonzales",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "78929",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 78929,
+            "personFirstName": "Bingbing",
+            "personLastName": "Yan",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "81454",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 81454,
+            "personFirstName": "Aditya",
+            "personLastName": "Khan",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "140057",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 140057,
+            "personFirstName": "Joseph",
+            "personLastName": "Singh",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "157257",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 157257,
+            "personFirstName": "Yang",
+            "personLastName": "Zhang",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023272110",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023272110,
+            "personFirstName": "Youssef",
+            "personLastName": "Hassan",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023303851",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023303851,
+            "personFirstName": "Kurt",
+            "personLastName": "Fischer",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023326012",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023326012,
+            "personFirstName": "Jun",
+            "personLastName": "Chen",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023379323",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023379323,
+            "personFirstName": "Erwin",
+            "personLastName": "Engel",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023398139",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023398139,
+            "personFirstName": "Alberto",
+            "personLastName": "Silva",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "2199023428420",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023428420,
+            "personFirstName": "Walter",
+            "personLastName": "Wagner",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "4398046639684",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046639684,
+            "personFirstName": "Boris",
+            "personLastName": "Dobrunov",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "4398046686288",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 4398046686288,
+            "personFirstName": "Marcelo",
+            "personLastName": "Souza",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069782244",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069782244,
+            "personFirstName": "Cheng",
+            "personLastName": "Zhu",
+            "xCount": 1,
+            "yCount": 2,
+            "totalCount": 3
+          }
+        },
+        {
+          "v_id": "6597069784510",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069784510,
+            "personFirstName": "Kunal",
+            "personLastName": "Rao",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069787761",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069787761,
+            "personFirstName": "Abdul Hameed",
+            "personLastName": "Ali",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069817571",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069817571,
+            "personFirstName": "Jimmy",
+            "personLastName": "Aly",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        },
+        {
+          "v_id": "6597069828195",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069828195,
+            "personFirstName": "John",
+            "personLastName": "Tembo",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 71
+    },
+    {
+      "M": [
+        {
+          "v_id": "26388387083233",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 26388387083233,
+            "messageContent": "duh"
+          }
+        },
+        {
+          "v_id": "30786367777971",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 30786367777971,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "30786377440565",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 30786377440565,
+            "messageContent": "About Lord Byron,  as the choreographer. A performance oAbout Kingdom of Yu"
+          }
+        },
+        {
+          "v_id": "35184420213070",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 35184420213070,
+            "messageContent": "About Arnold Schwarzenegger, he title of Mr. About Haile Selassie I, 's failu"
+          }
+        },
+        {
+          "v_id": "28587309115880",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 28587309115880,
+            "messageContent": "About Candle in the Wind 1997, John's ninth U.S. number one single, where it topped the Billboard Hot 100 for 14 weeks, and is the best-selling single in Billbo"
+          }
+        },
+        {
+          "v_id": "28587376726065",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 28587376726065,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "30786461944666",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 30786461944666,
+            "messageContent": "About Fernando González, s player in historAbout Antonio Vivaldi, 20th century. TodaAbou"
+          }
+        },
+        {
+          "v_id": "37383443996906",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383443996906,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "35184410350406",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 35184410350406,
+            "messageContent": "no"
+          }
+        },
+        {
+          "v_id": "30786401540637",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 30786401540637,
+            "messageContent": "About Nelly Furtado,  hits Promiscuous, Maneater, Say It Right and All Good Things (Come to an End). After a three-year break, she released her first full-length Spanish album,"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m3.559s
+user	0m1.452s
+sys	0m0.181s
+ic 5
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "F": [
+        {
+          "v_id": "2199024309769",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Barbra_Streisand in Rome",
+            "postCount": 56
+          }
+        },
+        {
+          "v_id": "21990239965815",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Benito_Mussolini in Campo_Grande",
+            "postCount": 55
+          }
+        },
+        {
+          "v_id": "2199033741731",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Barack_Obama in Baoji",
+            "postCount": 53
+          }
+        },
+        {
+          "v_id": "7346172",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Henry_Kissinger in Coventry",
+            "postCount": 50
+          }
+        },
+        {
+          "v_id": "2199024309503",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Elizabeth_II in Udaipur",
+            "postCount": 46
+          }
+        },
+        {
+          "v_id": "6597085519683",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Mohandas_Karamchand_Gandhi in Nha_Trang",
+            "postCount": 45
+          }
+        },
+        {
+          "v_id": "10995118397607",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Alexander_the_Great in Arusha",
+            "postCount": 44
+          }
+        },
+        {
+          "v_id": "19791219863810",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for I_Wish_I_Were_in_Love_Again in Mexicali",
+            "postCount": 41
+          }
+        },
+        {
+          "v_id": "26388283332176",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ai_Sugiyama in Nakuru",
+            "postCount": 40
+          }
+        },
+        {
+          "v_id": "6597076093617",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for George_Michael in Shanxi",
+            "postCount": 39
+          }
+        },
+        {
+          "v_id": "13194155266278",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Saint_Peter in Dagupan",
+            "postCount": 39
+          }
+        },
+        {
+          "v_id": "6597069785842",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Burt_Reynolds in Arequipa",
+            "postCount": 38
+          }
+        },
+        {
+          "v_id": "6597082357584",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Andrew_Lloyd_Webber in Presidencia_Roque_Sáenz_Peña",
+            "postCount": 38
+          }
+        },
+        {
+          "v_id": "13194146912535",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Dmitry_Medvedev in Coyoacán",
+            "postCount": 38
+          }
+        },
+        {
+          "v_id": "26388294805646",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Dmitry_Medvedev in Vallabh_Vidhyanagar",
+            "postCount": 38
+          }
+        },
+        {
+          "v_id": "2199027450429",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Benjamin_Britten in Nanjing",
+            "postCount": 37
+          }
+        },
+        {
+          "v_id": "4398058064562",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Thaksin_Shinawatra in Seville",
+            "postCount": 36
+          }
+        },
+        {
+          "v_id": "6597079230980",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Anton_Chekhov in Borey_Seang_Nam",
+            "postCount": 36
+          }
+        },
+        {
+          "v_id": "8796100387531",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_F._Kennedy in Medan",
+            "postCount": 36
+          }
+        },
+        {
+          "v_id": "26388282253202",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_Adams in Mahajanga",
+            "postCount": 36
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 17567224
+    },
+    {
+      "M": [
+        {
+          "v_id": "26388331458845",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 26388331458845,
+            "messageContent": "About John McEnroe, lso both are About Léopold Sédar Senghor, rican electedAbout Lyn"
+          }
+        },
+        {
+          "v_id": "30786326130022",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 30786326130022,
+            "messageContent": "About Daniela Hantuchová, 5, she became the fifth female tennis player to win the mixed"
+          }
+        },
+        {
+          "v_id": "30786440555694",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 30786440555694,
+            "messageContent": "About Joseph Haydn, on of sonata form. A lifelong resident of Austria, Haydn speAbout Pope Gregory I, fere in matters"
+          }
+        },
+        {
+          "v_id": "28587313280257",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 28587313280257,
+            "messageContent": "About Jules Verne, nch author who pioneered the science About Rabindranath Tagore, t to his status as a Bengal"
+          }
+        },
+        {
+          "v_id": "35184413085141",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 35184413085141,
+            "messageContent": "About Diana Ross, than any female artist in the charts with a career total of 18 number one records in the"
+          }
+        },
+        {
+          "v_id": "21990302183474",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 21990302183474,
+            "messageContent": "About Luciano Pavarotti, lona. The young tenor earned valuable experience and recognition About Muammar Gaddafi, rs of service 1961–2011 Rank Colonel Commands Libyan Armed ForcesAbout Bette Da"
+          }
+        },
+        {
+          "v_id": "30786401540637",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 30786401540637,
+            "messageContent": "About Nelly Furtado,  hits Promiscuous, Maneater, Say It Right and All Good Things (Come to an End). After a three-year break, she released her first full-length Spanish album,"
+          }
+        },
+        {
+          "v_id": "35184451974572",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 35184451974572,
+            "messageContent": "About Ringo Starr,  of Pete Best. In addition to his drumming, Starr is featured on lead vocals on a number of successfu"
+          }
+        },
+        {
+          "v_id": "15393212033540",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 15393212033540,
+            "messageContent": "About Adolf Hitler, ring to save Germany from both external andAbout Albert, Prince"
+          }
+        },
+        {
+          "v_id": "21990344498946",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 21990344498946,
+            "messageContent": "About Emma Goldman, he anarchist journal Mother Earth. In 1917, Goldman and Berkman were sentenced to t"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m9.744s
+user	0m1.432s
+sys	0m0.175s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "F": [
+        {
+          "v_id": "2199024309769",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Barbra_Streisand in Rome",
+            "postCount": 56
+          }
+        },
+        {
+          "v_id": "21990239965815",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Benito_Mussolini in Campo_Grande",
+            "postCount": 55
+          }
+        },
+        {
+          "v_id": "2199033741731",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Barack_Obama in Baoji",
+            "postCount": 53
+          }
+        },
+        {
+          "v_id": "7346172",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Henry_Kissinger in Coventry",
+            "postCount": 50
+          }
+        },
+        {
+          "v_id": "2199024309503",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Elizabeth_II in Udaipur",
+            "postCount": 46
+          }
+        },
+        {
+          "v_id": "6597085519683",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Mohandas_Karamchand_Gandhi in Nha_Trang",
+            "postCount": 45
+          }
+        },
+        {
+          "v_id": "10995118397607",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Alexander_the_Great in Arusha",
+            "postCount": 44
+          }
+        },
+        {
+          "v_id": "19791219863810",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for I_Wish_I_Were_in_Love_Again in Mexicali",
+            "postCount": 41
+          }
+        },
+        {
+          "v_id": "26388283332176",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ai_Sugiyama in Nakuru",
+            "postCount": 40
+          }
+        },
+        {
+          "v_id": "6597076093617",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for George_Michael in Shanxi",
+            "postCount": 39
+          }
+        },
+        {
+          "v_id": "13194155266278",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Saint_Peter in Dagupan",
+            "postCount": 39
+          }
+        },
+        {
+          "v_id": "6597069785842",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Burt_Reynolds in Arequipa",
+            "postCount": 38
+          }
+        },
+        {
+          "v_id": "6597082357584",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Andrew_Lloyd_Webber in Presidencia_Roque_Sáenz_Peña",
+            "postCount": 38
+          }
+        },
+        {
+          "v_id": "13194146912535",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Dmitry_Medvedev in Coyoacán",
+            "postCount": 38
+          }
+        },
+        {
+          "v_id": "26388294805646",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Dmitry_Medvedev in Vallabh_Vidhyanagar",
+            "postCount": 38
+          }
+        },
+        {
+          "v_id": "2199027450429",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Benjamin_Britten in Nanjing",
+            "postCount": 37
+          }
+        },
+        {
+          "v_id": "4398058064562",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Thaksin_Shinawatra in Seville",
+            "postCount": 36
+          }
+        },
+        {
+          "v_id": "6597079230980",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Anton_Chekhov in Borey_Seang_Nam",
+            "postCount": 36
+          }
+        },
+        {
+          "v_id": "8796100387531",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_F._Kennedy in Medan",
+            "postCount": 36
+          }
+        },
+        {
+          "v_id": "26388282253202",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_Adams in Mahajanga",
+            "postCount": 36
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 17567224
+    },
+    {
+      "M": [
+        {
+          "v_id": "35184451974572",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 35184451974572,
+            "messageContent": "About Ringo Starr,  of Pete Best. In addition to his drumming, Starr is featured on lead vocals on a number of successfu"
+          }
+        },
+        {
+          "v_id": "21990302183474",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 21990302183474,
+            "messageContent": "About Luciano Pavarotti, lona. The young tenor earned valuable experience and recognition About Muammar Gaddafi, rs of service 1961–2011 Rank Colonel Commands Libyan Armed ForcesAbout Bette Da"
+          }
+        },
+        {
+          "v_id": "15393212033540",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 15393212033540,
+            "messageContent": "About Adolf Hitler, ring to save Germany from both external andAbout Albert, Prince"
+          }
+        },
+        {
+          "v_id": "21990344498946",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 21990344498946,
+            "messageContent": "About Emma Goldman, he anarchist journal Mother Earth. In 1917, Goldman and Berkman were sentenced to t"
+          }
+        },
+        {
+          "v_id": "26388331458845",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 26388331458845,
+            "messageContent": "About John McEnroe, lso both are About Léopold Sédar Senghor, rican electedAbout Lyn"
+          }
+        },
+        {
+          "v_id": "28587313280257",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 28587313280257,
+            "messageContent": "About Jules Verne, nch author who pioneered the science About Rabindranath Tagore, t to his status as a Bengal"
+          }
+        },
+        {
+          "v_id": "35184413085141",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 35184413085141,
+            "messageContent": "About Diana Ross, than any female artist in the charts with a career total of 18 number one records in the"
+          }
+        },
+        {
+          "v_id": "30786440555694",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 30786440555694,
+            "messageContent": "About Joseph Haydn, on of sonata form. A lifelong resident of Austria, Haydn speAbout Pope Gregory I, fere in matters"
+          }
+        },
+        {
+          "v_id": "30786326130022",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 30786326130022,
+            "messageContent": "About Daniela Hantuchová, 5, she became the fifth female tennis player to win the mixed"
+          }
+        },
+        {
+          "v_id": "30786401540637",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 30786401540637,
+            "messageContent": "About Nelly Furtado,  hits Promiscuous, Maneater, Say It Right and All Good Things (Come to an End). After a three-year break, she released her first full-length Spanish album,"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m11.439s
+user	0m1.405s
+sys	0m0.283s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "F": [
+        {
+          "v_id": "2199024309769",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Barbra_Streisand in Rome",
+            "postCount": 56
+          }
+        },
+        {
+          "v_id": "21990239965815",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Benito_Mussolini in Campo_Grande",
+            "postCount": 55
+          }
+        },
+        {
+          "v_id": "2199033741731",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Barack_Obama in Baoji",
+            "postCount": 53
+          }
+        },
+        {
+          "v_id": "7346172",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Henry_Kissinger in Coventry",
+            "postCount": 50
+          }
+        },
+        {
+          "v_id": "2199024309503",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Elizabeth_II in Udaipur",
+            "postCount": 46
+          }
+        },
+        {
+          "v_id": "6597085519683",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Mohandas_Karamchand_Gandhi in Nha_Trang",
+            "postCount": 45
+          }
+        },
+        {
+          "v_id": "10995118397607",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Alexander_the_Great in Arusha",
+            "postCount": 44
+          }
+        },
+        {
+          "v_id": "19791219863810",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for I_Wish_I_Were_in_Love_Again in Mexicali",
+            "postCount": 41
+          }
+        },
+        {
+          "v_id": "26388283332176",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ai_Sugiyama in Nakuru",
+            "postCount": 40
+          }
+        },
+        {
+          "v_id": "6597076093617",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for George_Michael in Shanxi",
+            "postCount": 39
+          }
+        },
+        {
+          "v_id": "13194155266278",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Saint_Peter in Dagupan",
+            "postCount": 39
+          }
+        },
+        {
+          "v_id": "6597069785842",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Burt_Reynolds in Arequipa",
+            "postCount": 38
+          }
+        },
+        {
+          "v_id": "6597082357584",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Andrew_Lloyd_Webber in Presidencia_Roque_Sáenz_Peña",
+            "postCount": 38
+          }
+        },
+        {
+          "v_id": "13194146912535",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Dmitry_Medvedev in Coyoacán",
+            "postCount": 38
+          }
+        },
+        {
+          "v_id": "26388294805646",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Dmitry_Medvedev in Vallabh_Vidhyanagar",
+            "postCount": 38
+          }
+        },
+        {
+          "v_id": "2199027450429",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Benjamin_Britten in Nanjing",
+            "postCount": 37
+          }
+        },
+        {
+          "v_id": "4398058064562",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Thaksin_Shinawatra in Seville",
+            "postCount": 36
+          }
+        },
+        {
+          "v_id": "6597079230980",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Anton_Chekhov in Borey_Seang_Nam",
+            "postCount": 36
+          }
+        },
+        {
+          "v_id": "8796100387531",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_F._Kennedy in Medan",
+            "postCount": 36
+          }
+        },
+        {
+          "v_id": "26388282253202",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_Adams in Mahajanga",
+            "postCount": 36
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 17567224
+    },
+    {
+      "M": [
+        {
+          "v_id": "35184451974572",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 35184451974572,
+            "messageContent": "About Ringo Starr,  of Pete Best. In addition to his drumming, Starr is featured on lead vocals on a number of successfu"
+          }
+        },
+        {
+          "v_id": "15393212033540",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 15393212033540,
+            "messageContent": "About Adolf Hitler, ring to save Germany from both external andAbout Albert, Prince"
+          }
+        },
+        {
+          "v_id": "21990344498946",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 21990344498946,
+            "messageContent": "About Emma Goldman, he anarchist journal Mother Earth. In 1917, Goldman and Berkman were sentenced to t"
+          }
+        },
+        {
+          "v_id": "21990302183474",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 21990302183474,
+            "messageContent": "About Luciano Pavarotti, lona. The young tenor earned valuable experience and recognition About Muammar Gaddafi, rs of service 1961–2011 Rank Colonel Commands Libyan Armed ForcesAbout Bette Da"
+          }
+        },
+        {
+          "v_id": "26388331458845",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 26388331458845,
+            "messageContent": "About John McEnroe, lso both are About Léopold Sédar Senghor, rican electedAbout Lyn"
+          }
+        },
+        {
+          "v_id": "30786326130022",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 30786326130022,
+            "messageContent": "About Daniela Hantuchová, 5, she became the fifth female tennis player to win the mixed"
+          }
+        },
+        {
+          "v_id": "30786440555694",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 30786440555694,
+            "messageContent": "About Joseph Haydn, on of sonata form. A lifelong resident of Austria, Haydn speAbout Pope Gregory I, fere in matters"
+          }
+        },
+        {
+          "v_id": "28587313280257",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 28587313280257,
+            "messageContent": "About Jules Verne, nch author who pioneered the science About Rabindranath Tagore, t to his status as a Bengal"
+          }
+        },
+        {
+          "v_id": "35184413085141",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 35184413085141,
+            "messageContent": "About Diana Ross, than any female artist in the charts with a career total of 18 number one records in the"
+          }
+        },
+        {
+          "v_id": "30786401540637",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 30786401540637,
+            "messageContent": "About Nelly Furtado,  hits Promiscuous, Maneater, Say It Right and All Good Things (Come to an End). After a three-year break, she released her first full-length Spanish album,"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m11.506s
+user	0m1.470s
+sys	0m0.242s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "F": [
+        {
+          "v_id": "2199024309769",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Barbra_Streisand in Rome",
+            "postCount": 56
+          }
+        },
+        {
+          "v_id": "21990239965815",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Benito_Mussolini in Campo_Grande",
+            "postCount": 55
+          }
+        },
+        {
+          "v_id": "2199033741731",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Barack_Obama in Baoji",
+            "postCount": 53
+          }
+        },
+        {
+          "v_id": "7346172",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Henry_Kissinger in Coventry",
+            "postCount": 50
+          }
+        },
+        {
+          "v_id": "2199024309503",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Elizabeth_II in Udaipur",
+            "postCount": 46
+          }
+        },
+        {
+          "v_id": "6597085519683",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Mohandas_Karamchand_Gandhi in Nha_Trang",
+            "postCount": 45
+          }
+        },
+        {
+          "v_id": "10995118397607",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Alexander_the_Great in Arusha",
+            "postCount": 44
+          }
+        },
+        {
+          "v_id": "19791219863810",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for I_Wish_I_Were_in_Love_Again in Mexicali",
+            "postCount": 41
+          }
+        },
+        {
+          "v_id": "26388283332176",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ai_Sugiyama in Nakuru",
+            "postCount": 40
+          }
+        },
+        {
+          "v_id": "6597076093617",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for George_Michael in Shanxi",
+            "postCount": 39
+          }
+        },
+        {
+          "v_id": "13194155266278",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Saint_Peter in Dagupan",
+            "postCount": 39
+          }
+        },
+        {
+          "v_id": "6597069785842",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Burt_Reynolds in Arequipa",
+            "postCount": 38
+          }
+        },
+        {
+          "v_id": "6597082357584",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Andrew_Lloyd_Webber in Presidencia_Roque_Sáenz_Peña",
+            "postCount": 38
+          }
+        },
+        {
+          "v_id": "13194146912535",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Dmitry_Medvedev in Coyoacán",
+            "postCount": 38
+          }
+        },
+        {
+          "v_id": "26388294805646",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Dmitry_Medvedev in Vallabh_Vidhyanagar",
+            "postCount": 38
+          }
+        },
+        {
+          "v_id": "2199027450429",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Benjamin_Britten in Nanjing",
+            "postCount": 37
+          }
+        },
+        {
+          "v_id": "4398058064562",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Thaksin_Shinawatra in Seville",
+            "postCount": 36
+          }
+        },
+        {
+          "v_id": "6597079230980",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Anton_Chekhov in Borey_Seang_Nam",
+            "postCount": 36
+          }
+        },
+        {
+          "v_id": "8796100387531",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_F._Kennedy in Medan",
+            "postCount": 36
+          }
+        },
+        {
+          "v_id": "26388282253202",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_Adams in Mahajanga",
+            "postCount": 36
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 17567224
+    },
+    {
+      "M": [
+        {
+          "v_id": "21990302183474",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 21990302183474,
+            "messageContent": "About Luciano Pavarotti, lona. The young tenor earned valuable experience and recognition About Muammar Gaddafi, rs of service 1961–2011 Rank Colonel Commands Libyan Armed ForcesAbout Bette Da"
+          }
+        },
+        {
+          "v_id": "30786401540637",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 30786401540637,
+            "messageContent": "About Nelly Furtado,  hits Promiscuous, Maneater, Say It Right and All Good Things (Come to an End). After a three-year break, she released her first full-length Spanish album,"
+          }
+        },
+        {
+          "v_id": "35184451974572",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 35184451974572,
+            "messageContent": "About Ringo Starr,  of Pete Best. In addition to his drumming, Starr is featured on lead vocals on a number of successfu"
+          }
+        },
+        {
+          "v_id": "15393212033540",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 15393212033540,
+            "messageContent": "About Adolf Hitler, ring to save Germany from both external andAbout Albert, Prince"
+          }
+        },
+        {
+          "v_id": "21990344498946",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 21990344498946,
+            "messageContent": "About Emma Goldman, he anarchist journal Mother Earth. In 1917, Goldman and Berkman were sentenced to t"
+          }
+        },
+        {
+          "v_id": "26388331458845",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 26388331458845,
+            "messageContent": "About John McEnroe, lso both are About Léopold Sédar Senghor, rican electedAbout Lyn"
+          }
+        },
+        {
+          "v_id": "30786326130022",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 30786326130022,
+            "messageContent": "About Daniela Hantuchová, 5, she became the fifth female tennis player to win the mixed"
+          }
+        },
+        {
+          "v_id": "30786440555694",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 30786440555694,
+            "messageContent": "About Joseph Haydn, on of sonata form. A lifelong resident of Austria, Haydn speAbout Pope Gregory I, fere in matters"
+          }
+        },
+        {
+          "v_id": "28587313280257",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 28587313280257,
+            "messageContent": "About Jules Verne, nch author who pioneered the science About Rabindranath Tagore, t to his status as a Bengal"
+          }
+        },
+        {
+          "v_id": "35184413085141",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 35184413085141,
+            "messageContent": "About Diana Ross, than any female artist in the charts with a career total of 18 number one records in the"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m11.811s
+user	0m1.454s
+sys	0m0.190s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "F": [
+        {
+          "v_id": "2199024309769",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Barbra_Streisand in Rome",
+            "postCount": 56
+          }
+        },
+        {
+          "v_id": "21990239965815",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Benito_Mussolini in Campo_Grande",
+            "postCount": 55
+          }
+        },
+        {
+          "v_id": "2199033741731",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Barack_Obama in Baoji",
+            "postCount": 53
+          }
+        },
+        {
+          "v_id": "7346172",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Henry_Kissinger in Coventry",
+            "postCount": 50
+          }
+        },
+        {
+          "v_id": "2199024309503",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Elizabeth_II in Udaipur",
+            "postCount": 46
+          }
+        },
+        {
+          "v_id": "6597085519683",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Mohandas_Karamchand_Gandhi in Nha_Trang",
+            "postCount": 45
+          }
+        },
+        {
+          "v_id": "10995118397607",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Alexander_the_Great in Arusha",
+            "postCount": 44
+          }
+        },
+        {
+          "v_id": "19791219863810",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for I_Wish_I_Were_in_Love_Again in Mexicali",
+            "postCount": 41
+          }
+        },
+        {
+          "v_id": "26388283332176",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ai_Sugiyama in Nakuru",
+            "postCount": 40
+          }
+        },
+        {
+          "v_id": "6597076093617",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for George_Michael in Shanxi",
+            "postCount": 39
+          }
+        },
+        {
+          "v_id": "13194155266278",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Saint_Peter in Dagupan",
+            "postCount": 39
+          }
+        },
+        {
+          "v_id": "6597069785842",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Burt_Reynolds in Arequipa",
+            "postCount": 38
+          }
+        },
+        {
+          "v_id": "6597082357584",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Andrew_Lloyd_Webber in Presidencia_Roque_Sáenz_Peña",
+            "postCount": 38
+          }
+        },
+        {
+          "v_id": "13194146912535",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Dmitry_Medvedev in Coyoacán",
+            "postCount": 38
+          }
+        },
+        {
+          "v_id": "26388294805646",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Dmitry_Medvedev in Vallabh_Vidhyanagar",
+            "postCount": 38
+          }
+        },
+        {
+          "v_id": "2199027450429",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Benjamin_Britten in Nanjing",
+            "postCount": 37
+          }
+        },
+        {
+          "v_id": "4398058064562",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Thaksin_Shinawatra in Seville",
+            "postCount": 36
+          }
+        },
+        {
+          "v_id": "6597079230980",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Anton_Chekhov in Borey_Seang_Nam",
+            "postCount": 36
+          }
+        },
+        {
+          "v_id": "8796100387531",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_F._Kennedy in Medan",
+            "postCount": 36
+          }
+        },
+        {
+          "v_id": "26388282253202",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for John_Adams in Mahajanga",
+            "postCount": 36
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 17567224
+    },
+    {
+      "M": [
+        {
+          "v_id": "26388331458845",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 26388331458845,
+            "messageContent": "About John McEnroe, lso both are About Léopold Sédar Senghor, rican electedAbout Lyn"
+          }
+        },
+        {
+          "v_id": "30786326130022",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 30786326130022,
+            "messageContent": "About Daniela Hantuchová, 5, she became the fifth female tennis player to win the mixed"
+          }
+        },
+        {
+          "v_id": "28587313280257",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 28587313280257,
+            "messageContent": "About Jules Verne, nch author who pioneered the science About Rabindranath Tagore, t to his status as a Bengal"
+          }
+        },
+        {
+          "v_id": "35184413085141",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 35184413085141,
+            "messageContent": "About Diana Ross, than any female artist in the charts with a career total of 18 number one records in the"
+          }
+        },
+        {
+          "v_id": "30786401540637",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 30786401540637,
+            "messageContent": "About Nelly Furtado,  hits Promiscuous, Maneater, Say It Right and All Good Things (Come to an End). After a three-year break, she released her first full-length Spanish album,"
+          }
+        },
+        {
+          "v_id": "15393212033540",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 15393212033540,
+            "messageContent": "About Adolf Hitler, ring to save Germany from both external andAbout Albert, Prince"
+          }
+        },
+        {
+          "v_id": "21990344498946",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 21990344498946,
+            "messageContent": "About Emma Goldman, he anarchist journal Mother Earth. In 1917, Goldman and Berkman were sentenced to t"
+          }
+        },
+        {
+          "v_id": "21990302183474",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 21990302183474,
+            "messageContent": "About Luciano Pavarotti, lona. The young tenor earned valuable experience and recognition About Muammar Gaddafi, rs of service 1961–2011 Rank Colonel Commands Libyan Armed ForcesAbout Bette Da"
+          }
+        },
+        {
+          "v_id": "30786440555694",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 30786440555694,
+            "messageContent": "About Joseph Haydn, on of sonata form. A lifelong resident of Austria, Haydn speAbout Pope Gregory I, fere in matters"
+          }
+        },
+        {
+          "v_id": "35184451974572",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 35184451974572,
+            "messageContent": "About Ringo Starr,  of Pete Best. In addition to his drumming, Starr is featured on lead vocals on a number of successfu"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m11.789s
+user	0m1.480s
+sys	0m0.200s
+ic 6
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "T": [
+        {
+          "v_id": "1453",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Tom_Gehrels",
+            "postCount": 930
+          }
+        },
+        {
+          "v_id": "1410",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Muammar_Gaddafi",
+            "postCount": 350
+          }
+        },
+        {
+          "v_id": "540",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Sammy_Sosa",
+            "postCount": 278
+          }
+        },
+        {
+          "v_id": "1541",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Imelda_Marcos",
+            "postCount": 262
+          }
+        },
+        {
+          "v_id": "1444",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Genghis_Khan",
+            "postCount": 258
+          }
+        },
+        {
+          "v_id": "1524",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Mariano_Rivera",
+            "postCount": 224
+          }
+        },
+        {
+          "v_id": "1404",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Peter_Hain",
+            "postCount": 223
+          }
+        },
+        {
+          "v_id": "1934",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Paradorn_Srichaphan",
+            "postCount": 208
+          }
+        },
+        {
+          "v_id": "1944",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Joe_Strummer",
+            "postCount": 202
+          }
+        },
+        {
+          "v_id": "1860",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Sanath_Jayasuriya",
+            "postCount": 189
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 8364
+    },
+    {
+      "M": [
+        {
+          "v_id": "13194211144945",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 13194211144945,
+            "messageContent": "About Freddie Mercury, her artists. He died of bronchoAbout No Scrubs, oooohhh... On the TLC Tip and CAbout Angola,  199"
+          }
+        },
+        {
+          "v_id": "21990367259251",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 21990367259251,
+            "messageContent": "About Cicero,  latter half About Kateryna Bondarenko, nović twice iAbout Niandra Lades and Usually"
+          }
+        },
+        {
+          "v_id": "13194179374068",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 13194179374068,
+            "messageContent": "About Victor Hugo, yist, visual arAbout Tom Gehrels, ity and guilt tAbout Algeria, Mag"
+          }
+        },
+        {
+          "v_id": "13194224137200",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 13194224137200,
+            "messageContent": "About Tom Gehrels,  Resistance. After he escaped to EnglAbout Angola, , so that social inequality in AngolaA"
+          }
+        },
+        {
+          "v_id": "10995160742766",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 10995160742766,
+            "messageContent": "About Chulalongkorn, iam under the House of About Bob Dylan, ds. It features folk stAbout Angola,  of what is now"
+          }
+        },
+        {
+          "v_id": "13194141878199",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 13194141878199,
+            "messageContent": "About Sun Yat-sen, ell out of poweAbout Tom Gehrels, e two Dutch astAbout Kenya, otoriety. This About"
+          }
+        },
+        {
+          "v_id": "28587307869869",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 28587307869869,
+            "messageContent": "About Imelda Marcos, dinand Marcos. UpoAbout Mick Jagger, usician, singer, sAbout Robert Burns, any to"
+          }
+        },
+        {
+          "v_id": "17592270841549",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 17592270841549,
+            "messageContent": "About Juan Pablo Montoya,  competitioAbout Marlene Dietrich,  capitaliseAbout Mary I of En"
+          }
+        },
+        {
+          "v_id": "4398086668462",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398086668462,
+            "messageContent": "About Siad Barre,  Volunteer laAbout Bizarre Ride II the Pharcyde,  followed by About Cuba,  November 20,About Fiji,"
+          }
+        },
+        {
+          "v_id": "21990313438210",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 21990313438210,
+            "messageContent": "About Neil Young, 986, Young helped foundAbout Peter Hain, e later returned to theAbout Angola, , Angola was the"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m9.005s
+user	0m1.495s
+sys	0m0.223s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "T": [
+        {
+          "v_id": "1453",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Tom_Gehrels",
+            "postCount": 930
+          }
+        },
+        {
+          "v_id": "1410",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Muammar_Gaddafi",
+            "postCount": 350
+          }
+        },
+        {
+          "v_id": "540",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Sammy_Sosa",
+            "postCount": 278
+          }
+        },
+        {
+          "v_id": "1541",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Imelda_Marcos",
+            "postCount": 262
+          }
+        },
+        {
+          "v_id": "1444",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Genghis_Khan",
+            "postCount": 258
+          }
+        },
+        {
+          "v_id": "1524",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Mariano_Rivera",
+            "postCount": 224
+          }
+        },
+        {
+          "v_id": "1404",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Peter_Hain",
+            "postCount": 223
+          }
+        },
+        {
+          "v_id": "1934",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Paradorn_Srichaphan",
+            "postCount": 208
+          }
+        },
+        {
+          "v_id": "1944",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Joe_Strummer",
+            "postCount": 202
+          }
+        },
+        {
+          "v_id": "1860",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Sanath_Jayasuriya",
+            "postCount": 189
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 8364
+    },
+    {
+      "M": [
+        {
+          "v_id": "13194179374068",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 13194179374068,
+            "messageContent": "About Victor Hugo, yist, visual arAbout Tom Gehrels, ity and guilt tAbout Algeria, Mag"
+          }
+        },
+        {
+          "v_id": "10995160742766",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 10995160742766,
+            "messageContent": "About Chulalongkorn, iam under the House of About Bob Dylan, ds. It features folk stAbout Angola,  of what is now"
+          }
+        },
+        {
+          "v_id": "13194141878199",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 13194141878199,
+            "messageContent": "About Sun Yat-sen, ell out of poweAbout Tom Gehrels, e two Dutch astAbout Kenya, otoriety. This About"
+          }
+        },
+        {
+          "v_id": "13194224137200",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 13194224137200,
+            "messageContent": "About Tom Gehrels,  Resistance. After he escaped to EnglAbout Angola, , so that social inequality in AngolaA"
+          }
+        },
+        {
+          "v_id": "13194211144945",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 13194211144945,
+            "messageContent": "About Freddie Mercury, her artists. He died of bronchoAbout No Scrubs, oooohhh... On the TLC Tip and CAbout Angola,  199"
+          }
+        },
+        {
+          "v_id": "21990367259251",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 21990367259251,
+            "messageContent": "About Cicero,  latter half About Kateryna Bondarenko, nović twice iAbout Niandra Lades and Usually"
+          }
+        },
+        {
+          "v_id": "21990313438210",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 21990313438210,
+            "messageContent": "About Neil Young, 986, Young helped foundAbout Peter Hain, e later returned to theAbout Angola, , Angola was the"
+          }
+        },
+        {
+          "v_id": "17592270841549",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 17592270841549,
+            "messageContent": "About Juan Pablo Montoya,  competitioAbout Marlene Dietrich,  capitaliseAbout Mary I of En"
+          }
+        },
+        {
+          "v_id": "4398086668462",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398086668462,
+            "messageContent": "About Siad Barre,  Volunteer laAbout Bizarre Ride II the Pharcyde,  followed by About Cuba,  November 20,About Fiji,"
+          }
+        },
+        {
+          "v_id": "28587307869869",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 28587307869869,
+            "messageContent": "About Imelda Marcos, dinand Marcos. UpoAbout Mick Jagger, usician, singer, sAbout Robert Burns, any to"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m9.101s
+user	0m1.422s
+sys	0m0.237s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "T": [
+        {
+          "v_id": "1453",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Tom_Gehrels",
+            "postCount": 930
+          }
+        },
+        {
+          "v_id": "1410",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Muammar_Gaddafi",
+            "postCount": 350
+          }
+        },
+        {
+          "v_id": "540",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Sammy_Sosa",
+            "postCount": 278
+          }
+        },
+        {
+          "v_id": "1541",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Imelda_Marcos",
+            "postCount": 262
+          }
+        },
+        {
+          "v_id": "1444",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Genghis_Khan",
+            "postCount": 258
+          }
+        },
+        {
+          "v_id": "1524",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Mariano_Rivera",
+            "postCount": 224
+          }
+        },
+        {
+          "v_id": "1404",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Peter_Hain",
+            "postCount": 223
+          }
+        },
+        {
+          "v_id": "1934",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Paradorn_Srichaphan",
+            "postCount": 208
+          }
+        },
+        {
+          "v_id": "1944",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Joe_Strummer",
+            "postCount": 202
+          }
+        },
+        {
+          "v_id": "1860",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Sanath_Jayasuriya",
+            "postCount": 189
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 8364
+    },
+    {
+      "M": [
+        {
+          "v_id": "13194179374068",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 13194179374068,
+            "messageContent": "About Victor Hugo, yist, visual arAbout Tom Gehrels, ity and guilt tAbout Algeria, Mag"
+          }
+        },
+        {
+          "v_id": "13194224137200",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 13194224137200,
+            "messageContent": "About Tom Gehrels,  Resistance. After he escaped to EnglAbout Angola, , so that social inequality in AngolaA"
+          }
+        },
+        {
+          "v_id": "28587307869869",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 28587307869869,
+            "messageContent": "About Imelda Marcos, dinand Marcos. UpoAbout Mick Jagger, usician, singer, sAbout Robert Burns, any to"
+          }
+        },
+        {
+          "v_id": "4398086668462",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398086668462,
+            "messageContent": "About Siad Barre,  Volunteer laAbout Bizarre Ride II the Pharcyde,  followed by About Cuba,  November 20,About Fiji,"
+          }
+        },
+        {
+          "v_id": "10995160742766",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 10995160742766,
+            "messageContent": "About Chulalongkorn, iam under the House of About Bob Dylan, ds. It features folk stAbout Angola,  of what is now"
+          }
+        },
+        {
+          "v_id": "13194141878199",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 13194141878199,
+            "messageContent": "About Sun Yat-sen, ell out of poweAbout Tom Gehrels, e two Dutch astAbout Kenya, otoriety. This About"
+          }
+        },
+        {
+          "v_id": "21990313438210",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 21990313438210,
+            "messageContent": "About Neil Young, 986, Young helped foundAbout Peter Hain, e later returned to theAbout Angola, , Angola was the"
+          }
+        },
+        {
+          "v_id": "17592270841549",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 17592270841549,
+            "messageContent": "About Juan Pablo Montoya,  competitioAbout Marlene Dietrich,  capitaliseAbout Mary I of En"
+          }
+        },
+        {
+          "v_id": "13194211144945",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 13194211144945,
+            "messageContent": "About Freddie Mercury, her artists. He died of bronchoAbout No Scrubs, oooohhh... On the TLC Tip and CAbout Angola,  199"
+          }
+        },
+        {
+          "v_id": "21990367259251",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 21990367259251,
+            "messageContent": "About Cicero,  latter half About Kateryna Bondarenko, nović twice iAbout Niandra Lades and Usually"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m8.936s
+user	0m1.440s
+sys	0m0.223s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "T": [
+        {
+          "v_id": "1453",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Tom_Gehrels",
+            "postCount": 930
+          }
+        },
+        {
+          "v_id": "1410",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Muammar_Gaddafi",
+            "postCount": 350
+          }
+        },
+        {
+          "v_id": "540",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Sammy_Sosa",
+            "postCount": 278
+          }
+        },
+        {
+          "v_id": "1541",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Imelda_Marcos",
+            "postCount": 262
+          }
+        },
+        {
+          "v_id": "1444",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Genghis_Khan",
+            "postCount": 258
+          }
+        },
+        {
+          "v_id": "1524",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Mariano_Rivera",
+            "postCount": 224
+          }
+        },
+        {
+          "v_id": "1404",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Peter_Hain",
+            "postCount": 223
+          }
+        },
+        {
+          "v_id": "1934",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Paradorn_Srichaphan",
+            "postCount": 208
+          }
+        },
+        {
+          "v_id": "1944",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Joe_Strummer",
+            "postCount": 202
+          }
+        },
+        {
+          "v_id": "1860",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Sanath_Jayasuriya",
+            "postCount": 189
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 8364
+    },
+    {
+      "M": [
+        {
+          "v_id": "28587307869869",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 28587307869869,
+            "messageContent": "About Imelda Marcos, dinand Marcos. UpoAbout Mick Jagger, usician, singer, sAbout Robert Burns, any to"
+          }
+        },
+        {
+          "v_id": "13194179374068",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 13194179374068,
+            "messageContent": "About Victor Hugo, yist, visual arAbout Tom Gehrels, ity and guilt tAbout Algeria, Mag"
+          }
+        },
+        {
+          "v_id": "13194224137200",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 13194224137200,
+            "messageContent": "About Tom Gehrels,  Resistance. After he escaped to EnglAbout Angola, , so that social inequality in AngolaA"
+          }
+        },
+        {
+          "v_id": "13194211144945",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 13194211144945,
+            "messageContent": "About Freddie Mercury, her artists. He died of bronchoAbout No Scrubs, oooohhh... On the TLC Tip and CAbout Angola,  199"
+          }
+        },
+        {
+          "v_id": "21990367259251",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 21990367259251,
+            "messageContent": "About Cicero,  latter half About Kateryna Bondarenko, nović twice iAbout Niandra Lades and Usually"
+          }
+        },
+        {
+          "v_id": "21990313438210",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 21990313438210,
+            "messageContent": "About Neil Young, 986, Young helped foundAbout Peter Hain, e later returned to theAbout Angola, , Angola was the"
+          }
+        },
+        {
+          "v_id": "10995160742766",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 10995160742766,
+            "messageContent": "About Chulalongkorn, iam under the House of About Bob Dylan, ds. It features folk stAbout Angola,  of what is now"
+          }
+        },
+        {
+          "v_id": "13194141878199",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 13194141878199,
+            "messageContent": "About Sun Yat-sen, ell out of poweAbout Tom Gehrels, e two Dutch astAbout Kenya, otoriety. This About"
+          }
+        },
+        {
+          "v_id": "4398086668462",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398086668462,
+            "messageContent": "About Siad Barre,  Volunteer laAbout Bizarre Ride II the Pharcyde,  followed by About Cuba,  November 20,About Fiji,"
+          }
+        },
+        {
+          "v_id": "17592270841549",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 17592270841549,
+            "messageContent": "About Juan Pablo Montoya,  competitioAbout Marlene Dietrich,  capitaliseAbout Mary I of En"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m8.945s
+user	0m1.437s
+sys	0m0.228s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "T": [
+        {
+          "v_id": "1453",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Tom_Gehrels",
+            "postCount": 930
+          }
+        },
+        {
+          "v_id": "1410",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Muammar_Gaddafi",
+            "postCount": 350
+          }
+        },
+        {
+          "v_id": "540",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Sammy_Sosa",
+            "postCount": 278
+          }
+        },
+        {
+          "v_id": "1541",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Imelda_Marcos",
+            "postCount": 262
+          }
+        },
+        {
+          "v_id": "1444",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Genghis_Khan",
+            "postCount": 258
+          }
+        },
+        {
+          "v_id": "1524",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Mariano_Rivera",
+            "postCount": 224
+          }
+        },
+        {
+          "v_id": "1404",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Peter_Hain",
+            "postCount": 223
+          }
+        },
+        {
+          "v_id": "1934",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Paradorn_Srichaphan",
+            "postCount": 208
+          }
+        },
+        {
+          "v_id": "1944",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Joe_Strummer",
+            "postCount": 202
+          }
+        },
+        {
+          "v_id": "1860",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Sanath_Jayasuriya",
+            "postCount": 189
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 8364
+    },
+    {
+      "M": [
+        {
+          "v_id": "13194179374068",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 13194179374068,
+            "messageContent": "About Victor Hugo, yist, visual arAbout Tom Gehrels, ity and guilt tAbout Algeria, Mag"
+          }
+        },
+        {
+          "v_id": "13194224137200",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 13194224137200,
+            "messageContent": "About Tom Gehrels,  Resistance. After he escaped to EnglAbout Angola, , so that social inequality in AngolaA"
+          }
+        },
+        {
+          "v_id": "28587307869869",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 28587307869869,
+            "messageContent": "About Imelda Marcos, dinand Marcos. UpoAbout Mick Jagger, usician, singer, sAbout Robert Burns, any to"
+          }
+        },
+        {
+          "v_id": "4398086668462",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398086668462,
+            "messageContent": "About Siad Barre,  Volunteer laAbout Bizarre Ride II the Pharcyde,  followed by About Cuba,  November 20,About Fiji,"
+          }
+        },
+        {
+          "v_id": "13194211144945",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 13194211144945,
+            "messageContent": "About Freddie Mercury, her artists. He died of bronchoAbout No Scrubs, oooohhh... On the TLC Tip and CAbout Angola,  199"
+          }
+        },
+        {
+          "v_id": "21990367259251",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 21990367259251,
+            "messageContent": "About Cicero,  latter half About Kateryna Bondarenko, nović twice iAbout Niandra Lades and Usually"
+          }
+        },
+        {
+          "v_id": "17592270841549",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 17592270841549,
+            "messageContent": "About Juan Pablo Montoya,  competitioAbout Marlene Dietrich,  capitaliseAbout Mary I of En"
+          }
+        },
+        {
+          "v_id": "10995160742766",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 10995160742766,
+            "messageContent": "About Chulalongkorn, iam under the House of About Bob Dylan, ds. It features folk stAbout Angola,  of what is now"
+          }
+        },
+        {
+          "v_id": "13194141878199",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 13194141878199,
+            "messageContent": "About Sun Yat-sen, ell out of poweAbout Tom Gehrels, e two Dutch astAbout Kenya, otoriety. This About"
+          }
+        },
+        {
+          "v_id": "21990313438210",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 21990313438210,
+            "messageContent": "About Neil Young, 986, Young helped foundAbout Peter Hain, e later returned to theAbout Angola, , Angola was the"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m9.022s
+user	0m1.458s
+sys	0m0.222s
+ic 9
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "M": [
+        {
+          "v_id": "24189396462895",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462895,
+            "M.@messageContent": "photo24189396462895.jpg",
+            "messageCreationDate": 1323215999827
+          }
+        },
+        {
+          "v_id": "24189396462894",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462894,
+            "M.@messageContent": "photo24189396462894.jpg",
+            "messageCreationDate": 1323215998827
+          }
+        },
+        {
+          "v_id": "24189334002986",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 112138,
+            "M.@personFirstName": "Charles",
+            "M.@personLastName": "Stewart",
+            "messageId": 24189334002986,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215998384
+          }
+        },
+        {
+          "v_id": "24189308197089",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186194747,
+            "M.@personFirstName": "Carlos Antonio",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189308197089,
+            "M.@messageContent": "About Organization for Security and Co-operation in Europe, romotion of human rights, fre",
+            "messageCreationDate": 1323215998197
+          }
+        },
+        {
+          "v_id": "24189396462893",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462893,
+            "M.@messageContent": "photo24189396462893.jpg",
+            "messageCreationDate": 1323215997827
+          }
+        },
+        {
+          "v_id": "24189396462892",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462892,
+            "M.@messageContent": "photo24189396462892.jpg",
+            "messageCreationDate": 1323215996827
+          }
+        },
+        {
+          "v_id": "24189330543098",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162869054,
+            "M.@personFirstName": "Monja",
+            "M.@personLastName": "Aly",
+            "messageId": 24189330543098,
+            "M.@messageContent": "About Karl Marx, ngels. BorAbout Sanath Jayasuriya, ited oversAbout Peter Sellers, d had",
+            "messageCreationDate": 1323215995853
+          }
+        },
+        {
+          "v_id": "24189396462891",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462891,
+            "M.@messageContent": "photo24189396462891.jpg",
+            "messageCreationDate": 1323215995827
+          }
+        },
+        {
+          "v_id": "24189333751628",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093104906,
+            "M.@personFirstName": "Chengdong",
+            "M.@personLastName": "Yang",
+            "messageId": 24189333751628,
+            "M.@messageContent": "no way!",
+            "messageCreationDate": 1323215995541
+          }
+        },
+        {
+          "v_id": "24189274662158",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069779988,
+            "M.@personFirstName": "Carlos",
+            "M.@personLastName": "Amenábar",
+            "messageId": 24189274662158,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215995419
+          }
+        },
+        {
+          "v_id": "24189396462890",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462890,
+            "M.@messageContent": "photo24189396462890.jpg",
+            "messageCreationDate": 1323215994827
+          }
+        },
+        {
+          "v_id": "24189302408059",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186155763,
+            "M.@personFirstName": "Angela",
+            "M.@personLastName": "Lin",
+            "messageId": 24189302408059,
+            "M.@messageContent": "thanks",
+            "messageCreationDate": 1323215994002
+          }
+        },
+        {
+          "v_id": "24189396462889",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462889,
+            "M.@messageContent": "photo24189396462889.jpg",
+            "messageCreationDate": 1323215993827
+          }
+        },
+        {
+          "v_id": "24189359364950",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 17592186152838,
+            "M.@personFirstName": "R.",
+            "M.@personLastName": "Narayan",
+            "messageId": 24189359364950,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215992859
+          }
+        },
+        {
+          "v_id": "24189260233056",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 13194139570178,
+            "M.@personFirstName": "Frans",
+            "M.@personLastName": "Peeters",
+            "messageId": 24189260233056,
+            "M.@messageContent": "maybe",
+            "messageCreationDate": 1323215992814
+          }
+        },
+        {
+          "v_id": "24189334351477",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186054207,
+            "M.@personFirstName": "Koji",
+            "M.@personLastName": "Yamamoto",
+            "messageId": 24189334351477,
+            "M.@messageContent": "yes",
+            "messageCreationDate": 1323215991360
+          }
+        },
+        {
+          "v_id": "24189262883909",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023403596,
+            "M.@personFirstName": "Baby",
+            "M.@personLastName": "Yang",
+            "messageId": 24189262883909,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323215989812
+          }
+        },
+        {
+          "v_id": "24189296254041",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093104142,
+            "M.@personFirstName": "Johan",
+            "M.@personLastName": "Buysse",
+            "messageId": 24189296254041,
+            "M.@messageContent": "yes",
+            "messageCreationDate": 1323215988035
+          }
+        },
+        {
+          "v_id": "24189260499406",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023343040,
+            "M.@personFirstName": "Peng",
+            "M.@personLastName": "Li",
+            "messageId": 24189260499406,
+            "M.@messageContent": "LOL",
+            "messageCreationDate": 1323215986846
+          }
+        },
+        {
+          "v_id": "24189361347338",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186213250,
+            "M.@personFirstName": "R.",
+            "M.@personLastName": "Narayan",
+            "messageId": 24189361347338,
+            "M.@messageContent": "no",
+            "messageCreationDate": 1323215986535
+          }
+        }
+      ]
+    },
+    {
+      "M.size()": 20
+    },
+    {
+      "TopKM": [
+        {
+          "v_id": "24189330543098",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189330543098,
+            "messageContent": "About Karl Marx, ngels. BorAbout Sanath Jayasuriya, ited oversAbout Peter Sellers, d had"
+          }
+        },
+        {
+          "v_id": "24189260499406",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189260499406,
+            "messageContent": "LOL"
+          }
+        },
+        {
+          "v_id": "24189262883909",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189262883909,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "24189260233056",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189260233056,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "24189296254041",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189296254041,
+            "messageContent": "yes"
+          }
+        },
+        {
+          "v_id": "24189308197089",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189308197089,
+            "messageContent": "About Organization for Security and Co-operation in Europe, romotion of human rights, fre"
+          }
+        },
+        {
+          "v_id": "24189359364950",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 24189359364950,
+            "messageContent": "About Hamid Karzai, ) that was held in Kabul, Afghanistan. After the 2004 presidential election, Karzai was"
+          }
+        },
+        {
+          "v_id": "24189274662158",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 24189274662158,
+            "messageContent": "About Adolf Hitler, er's political views. His writings and methods were often adapted to need and"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m7.660s
+user	0m1.519s
+sys	0m0.178s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "M": [
+        {
+          "v_id": "24189396462895",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462895,
+            "M.@messageContent": "photo24189396462895.jpg",
+            "messageCreationDate": 1323215999827
+          }
+        },
+        {
+          "v_id": "24189396462894",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462894,
+            "M.@messageContent": "photo24189396462894.jpg",
+            "messageCreationDate": 1323215998827
+          }
+        },
+        {
+          "v_id": "24189334002986",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 112138,
+            "M.@personFirstName": "Charles",
+            "M.@personLastName": "Stewart",
+            "messageId": 24189334002986,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215998384
+          }
+        },
+        {
+          "v_id": "24189308197089",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186194747,
+            "M.@personFirstName": "Carlos Antonio",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189308197089,
+            "M.@messageContent": "About Organization for Security and Co-operation in Europe, romotion of human rights, fre",
+            "messageCreationDate": 1323215998197
+          }
+        },
+        {
+          "v_id": "24189396462893",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462893,
+            "M.@messageContent": "photo24189396462893.jpg",
+            "messageCreationDate": 1323215997827
+          }
+        },
+        {
+          "v_id": "24189396462892",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462892,
+            "M.@messageContent": "photo24189396462892.jpg",
+            "messageCreationDate": 1323215996827
+          }
+        },
+        {
+          "v_id": "24189330543098",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162869054,
+            "M.@personFirstName": "Monja",
+            "M.@personLastName": "Aly",
+            "messageId": 24189330543098,
+            "M.@messageContent": "About Karl Marx, ngels. BorAbout Sanath Jayasuriya, ited oversAbout Peter Sellers, d had",
+            "messageCreationDate": 1323215995853
+          }
+        },
+        {
+          "v_id": "24189396462891",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462891,
+            "M.@messageContent": "photo24189396462891.jpg",
+            "messageCreationDate": 1323215995827
+          }
+        },
+        {
+          "v_id": "24189333751628",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093104906,
+            "M.@personFirstName": "Chengdong",
+            "M.@personLastName": "Yang",
+            "messageId": 24189333751628,
+            "M.@messageContent": "no way!",
+            "messageCreationDate": 1323215995541
+          }
+        },
+        {
+          "v_id": "24189274662158",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069779988,
+            "M.@personFirstName": "Carlos",
+            "M.@personLastName": "Amenábar",
+            "messageId": 24189274662158,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215995419
+          }
+        },
+        {
+          "v_id": "24189396462890",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462890,
+            "M.@messageContent": "photo24189396462890.jpg",
+            "messageCreationDate": 1323215994827
+          }
+        },
+        {
+          "v_id": "24189302408059",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186155763,
+            "M.@personFirstName": "Angela",
+            "M.@personLastName": "Lin",
+            "messageId": 24189302408059,
+            "M.@messageContent": "thanks",
+            "messageCreationDate": 1323215994002
+          }
+        },
+        {
+          "v_id": "24189396462889",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462889,
+            "M.@messageContent": "photo24189396462889.jpg",
+            "messageCreationDate": 1323215993827
+          }
+        },
+        {
+          "v_id": "24189359364950",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 17592186152838,
+            "M.@personFirstName": "R.",
+            "M.@personLastName": "Narayan",
+            "messageId": 24189359364950,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215992859
+          }
+        },
+        {
+          "v_id": "24189260233056",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 13194139570178,
+            "M.@personFirstName": "Frans",
+            "M.@personLastName": "Peeters",
+            "messageId": 24189260233056,
+            "M.@messageContent": "maybe",
+            "messageCreationDate": 1323215992814
+          }
+        },
+        {
+          "v_id": "24189334351477",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186054207,
+            "M.@personFirstName": "Koji",
+            "M.@personLastName": "Yamamoto",
+            "messageId": 24189334351477,
+            "M.@messageContent": "yes",
+            "messageCreationDate": 1323215991360
+          }
+        },
+        {
+          "v_id": "24189262883909",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023403596,
+            "M.@personFirstName": "Baby",
+            "M.@personLastName": "Yang",
+            "messageId": 24189262883909,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323215989812
+          }
+        },
+        {
+          "v_id": "24189296254041",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093104142,
+            "M.@personFirstName": "Johan",
+            "M.@personLastName": "Buysse",
+            "messageId": 24189296254041,
+            "M.@messageContent": "yes",
+            "messageCreationDate": 1323215988035
+          }
+        },
+        {
+          "v_id": "24189260499406",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023343040,
+            "M.@personFirstName": "Peng",
+            "M.@personLastName": "Li",
+            "messageId": 24189260499406,
+            "M.@messageContent": "LOL",
+            "messageCreationDate": 1323215986846
+          }
+        },
+        {
+          "v_id": "24189361347338",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186213250,
+            "M.@personFirstName": "R.",
+            "M.@personLastName": "Narayan",
+            "messageId": 24189361347338,
+            "M.@messageContent": "no",
+            "messageCreationDate": 1323215986535
+          }
+        }
+      ]
+    },
+    {
+      "M.size()": 20
+    },
+    {
+      "TopKM": [
+        {
+          "v_id": "24189260499406",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189260499406,
+            "messageContent": "LOL"
+          }
+        },
+        {
+          "v_id": "24189296254041",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189296254041,
+            "messageContent": "yes"
+          }
+        },
+        {
+          "v_id": "24189262883909",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189262883909,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "24189308197089",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189308197089,
+            "messageContent": "About Organization for Security and Co-operation in Europe, romotion of human rights, fre"
+          }
+        },
+        {
+          "v_id": "24189330543098",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189330543098,
+            "messageContent": "About Karl Marx, ngels. BorAbout Sanath Jayasuriya, ited oversAbout Peter Sellers, d had"
+          }
+        },
+        {
+          "v_id": "24189260233056",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189260233056,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "24189359364950",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 24189359364950,
+            "messageContent": "About Hamid Karzai, ) that was held in Kabul, Afghanistan. After the 2004 presidential election, Karzai was"
+          }
+        },
+        {
+          "v_id": "24189274662158",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 24189274662158,
+            "messageContent": "About Adolf Hitler, er's political views. His writings and methods were often adapted to need and"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m7.824s
+user	0m1.459s
+sys	0m0.151s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "M": [
+        {
+          "v_id": "24189396462895",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462895,
+            "M.@messageContent": "photo24189396462895.jpg",
+            "messageCreationDate": 1323215999827
+          }
+        },
+        {
+          "v_id": "24189396462894",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462894,
+            "M.@messageContent": "photo24189396462894.jpg",
+            "messageCreationDate": 1323215998827
+          }
+        },
+        {
+          "v_id": "24189334002986",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 112138,
+            "M.@personFirstName": "Charles",
+            "M.@personLastName": "Stewart",
+            "messageId": 24189334002986,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215998384
+          }
+        },
+        {
+          "v_id": "24189308197089",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186194747,
+            "M.@personFirstName": "Carlos Antonio",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189308197089,
+            "M.@messageContent": "About Organization for Security and Co-operation in Europe, romotion of human rights, fre",
+            "messageCreationDate": 1323215998197
+          }
+        },
+        {
+          "v_id": "24189396462893",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462893,
+            "M.@messageContent": "photo24189396462893.jpg",
+            "messageCreationDate": 1323215997827
+          }
+        },
+        {
+          "v_id": "24189396462892",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462892,
+            "M.@messageContent": "photo24189396462892.jpg",
+            "messageCreationDate": 1323215996827
+          }
+        },
+        {
+          "v_id": "24189330543098",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162869054,
+            "M.@personFirstName": "Monja",
+            "M.@personLastName": "Aly",
+            "messageId": 24189330543098,
+            "M.@messageContent": "About Karl Marx, ngels. BorAbout Sanath Jayasuriya, ited oversAbout Peter Sellers, d had",
+            "messageCreationDate": 1323215995853
+          }
+        },
+        {
+          "v_id": "24189396462891",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462891,
+            "M.@messageContent": "photo24189396462891.jpg",
+            "messageCreationDate": 1323215995827
+          }
+        },
+        {
+          "v_id": "24189333751628",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093104906,
+            "M.@personFirstName": "Chengdong",
+            "M.@personLastName": "Yang",
+            "messageId": 24189333751628,
+            "M.@messageContent": "no way!",
+            "messageCreationDate": 1323215995541
+          }
+        },
+        {
+          "v_id": "24189274662158",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069779988,
+            "M.@personFirstName": "Carlos",
+            "M.@personLastName": "Amenábar",
+            "messageId": 24189274662158,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215995419
+          }
+        },
+        {
+          "v_id": "24189396462890",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462890,
+            "M.@messageContent": "photo24189396462890.jpg",
+            "messageCreationDate": 1323215994827
+          }
+        },
+        {
+          "v_id": "24189302408059",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186155763,
+            "M.@personFirstName": "Angela",
+            "M.@personLastName": "Lin",
+            "messageId": 24189302408059,
+            "M.@messageContent": "thanks",
+            "messageCreationDate": 1323215994002
+          }
+        },
+        {
+          "v_id": "24189396462889",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462889,
+            "M.@messageContent": "photo24189396462889.jpg",
+            "messageCreationDate": 1323215993827
+          }
+        },
+        {
+          "v_id": "24189359364950",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 17592186152838,
+            "M.@personFirstName": "R.",
+            "M.@personLastName": "Narayan",
+            "messageId": 24189359364950,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215992859
+          }
+        },
+        {
+          "v_id": "24189260233056",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 13194139570178,
+            "M.@personFirstName": "Frans",
+            "M.@personLastName": "Peeters",
+            "messageId": 24189260233056,
+            "M.@messageContent": "maybe",
+            "messageCreationDate": 1323215992814
+          }
+        },
+        {
+          "v_id": "24189334351477",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186054207,
+            "M.@personFirstName": "Koji",
+            "M.@personLastName": "Yamamoto",
+            "messageId": 24189334351477,
+            "M.@messageContent": "yes",
+            "messageCreationDate": 1323215991360
+          }
+        },
+        {
+          "v_id": "24189262883909",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023403596,
+            "M.@personFirstName": "Baby",
+            "M.@personLastName": "Yang",
+            "messageId": 24189262883909,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323215989812
+          }
+        },
+        {
+          "v_id": "24189296254041",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093104142,
+            "M.@personFirstName": "Johan",
+            "M.@personLastName": "Buysse",
+            "messageId": 24189296254041,
+            "M.@messageContent": "yes",
+            "messageCreationDate": 1323215988035
+          }
+        },
+        {
+          "v_id": "24189260499406",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023343040,
+            "M.@personFirstName": "Peng",
+            "M.@personLastName": "Li",
+            "messageId": 24189260499406,
+            "M.@messageContent": "LOL",
+            "messageCreationDate": 1323215986846
+          }
+        },
+        {
+          "v_id": "24189361347338",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186213250,
+            "M.@personFirstName": "R.",
+            "M.@personLastName": "Narayan",
+            "messageId": 24189361347338,
+            "M.@messageContent": "no",
+            "messageCreationDate": 1323215986535
+          }
+        }
+      ]
+    },
+    {
+      "M.size()": 20
+    },
+    {
+      "TopKM": [
+        {
+          "v_id": "24189296254041",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189296254041,
+            "messageContent": "yes"
+          }
+        },
+        {
+          "v_id": "24189262883909",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189262883909,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "24189308197089",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189308197089,
+            "messageContent": "About Organization for Security and Co-operation in Europe, romotion of human rights, fre"
+          }
+        },
+        {
+          "v_id": "24189260233056",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189260233056,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "24189260499406",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189260499406,
+            "messageContent": "LOL"
+          }
+        },
+        {
+          "v_id": "24189359364950",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 24189359364950,
+            "messageContent": "About Hamid Karzai, ) that was held in Kabul, Afghanistan. After the 2004 presidential election, Karzai was"
+          }
+        },
+        {
+          "v_id": "24189330543098",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189330543098,
+            "messageContent": "About Karl Marx, ngels. BorAbout Sanath Jayasuriya, ited oversAbout Peter Sellers, d had"
+          }
+        },
+        {
+          "v_id": "24189274662158",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 24189274662158,
+            "messageContent": "About Adolf Hitler, er's political views. His writings and methods were often adapted to need and"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m7.859s
+user	0m1.494s
+sys	0m0.187s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "M": [
+        {
+          "v_id": "24189396462895",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462895,
+            "M.@messageContent": "photo24189396462895.jpg",
+            "messageCreationDate": 1323215999827
+          }
+        },
+        {
+          "v_id": "24189396462894",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462894,
+            "M.@messageContent": "photo24189396462894.jpg",
+            "messageCreationDate": 1323215998827
+          }
+        },
+        {
+          "v_id": "24189334002986",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 112138,
+            "M.@personFirstName": "Charles",
+            "M.@personLastName": "Stewart",
+            "messageId": 24189334002986,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215998384
+          }
+        },
+        {
+          "v_id": "24189308197089",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186194747,
+            "M.@personFirstName": "Carlos Antonio",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189308197089,
+            "M.@messageContent": "About Organization for Security and Co-operation in Europe, romotion of human rights, fre",
+            "messageCreationDate": 1323215998197
+          }
+        },
+        {
+          "v_id": "24189396462893",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462893,
+            "M.@messageContent": "photo24189396462893.jpg",
+            "messageCreationDate": 1323215997827
+          }
+        },
+        {
+          "v_id": "24189396462892",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462892,
+            "M.@messageContent": "photo24189396462892.jpg",
+            "messageCreationDate": 1323215996827
+          }
+        },
+        {
+          "v_id": "24189330543098",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162869054,
+            "M.@personFirstName": "Monja",
+            "M.@personLastName": "Aly",
+            "messageId": 24189330543098,
+            "M.@messageContent": "About Karl Marx, ngels. BorAbout Sanath Jayasuriya, ited oversAbout Peter Sellers, d had",
+            "messageCreationDate": 1323215995853
+          }
+        },
+        {
+          "v_id": "24189396462891",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462891,
+            "M.@messageContent": "photo24189396462891.jpg",
+            "messageCreationDate": 1323215995827
+          }
+        },
+        {
+          "v_id": "24189333751628",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093104906,
+            "M.@personFirstName": "Chengdong",
+            "M.@personLastName": "Yang",
+            "messageId": 24189333751628,
+            "M.@messageContent": "no way!",
+            "messageCreationDate": 1323215995541
+          }
+        },
+        {
+          "v_id": "24189274662158",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069779988,
+            "M.@personFirstName": "Carlos",
+            "M.@personLastName": "Amenábar",
+            "messageId": 24189274662158,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215995419
+          }
+        },
+        {
+          "v_id": "24189396462890",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462890,
+            "M.@messageContent": "photo24189396462890.jpg",
+            "messageCreationDate": 1323215994827
+          }
+        },
+        {
+          "v_id": "24189302408059",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186155763,
+            "M.@personFirstName": "Angela",
+            "M.@personLastName": "Lin",
+            "messageId": 24189302408059,
+            "M.@messageContent": "thanks",
+            "messageCreationDate": 1323215994002
+          }
+        },
+        {
+          "v_id": "24189396462889",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462889,
+            "M.@messageContent": "photo24189396462889.jpg",
+            "messageCreationDate": 1323215993827
+          }
+        },
+        {
+          "v_id": "24189359364950",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 17592186152838,
+            "M.@personFirstName": "R.",
+            "M.@personLastName": "Narayan",
+            "messageId": 24189359364950,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215992859
+          }
+        },
+        {
+          "v_id": "24189260233056",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 13194139570178,
+            "M.@personFirstName": "Frans",
+            "M.@personLastName": "Peeters",
+            "messageId": 24189260233056,
+            "M.@messageContent": "maybe",
+            "messageCreationDate": 1323215992814
+          }
+        },
+        {
+          "v_id": "24189334351477",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186054207,
+            "M.@personFirstName": "Koji",
+            "M.@personLastName": "Yamamoto",
+            "messageId": 24189334351477,
+            "M.@messageContent": "yes",
+            "messageCreationDate": 1323215991360
+          }
+        },
+        {
+          "v_id": "24189262883909",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023403596,
+            "M.@personFirstName": "Baby",
+            "M.@personLastName": "Yang",
+            "messageId": 24189262883909,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323215989812
+          }
+        },
+        {
+          "v_id": "24189296254041",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093104142,
+            "M.@personFirstName": "Johan",
+            "M.@personLastName": "Buysse",
+            "messageId": 24189296254041,
+            "M.@messageContent": "yes",
+            "messageCreationDate": 1323215988035
+          }
+        },
+        {
+          "v_id": "24189260499406",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023343040,
+            "M.@personFirstName": "Peng",
+            "M.@personLastName": "Li",
+            "messageId": 24189260499406,
+            "M.@messageContent": "LOL",
+            "messageCreationDate": 1323215986846
+          }
+        },
+        {
+          "v_id": "24189361347338",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186213250,
+            "M.@personFirstName": "R.",
+            "M.@personLastName": "Narayan",
+            "messageId": 24189361347338,
+            "M.@messageContent": "no",
+            "messageCreationDate": 1323215986535
+          }
+        }
+      ]
+    },
+    {
+      "M.size()": 20
+    },
+    {
+      "TopKM": [
+        {
+          "v_id": "24189359364950",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 24189359364950,
+            "messageContent": "About Hamid Karzai, ) that was held in Kabul, Afghanistan. After the 2004 presidential election, Karzai was"
+          }
+        },
+        {
+          "v_id": "24189296254041",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189296254041,
+            "messageContent": "yes"
+          }
+        },
+        {
+          "v_id": "24189262883909",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189262883909,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "24189308197089",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189308197089,
+            "messageContent": "About Organization for Security and Co-operation in Europe, romotion of human rights, fre"
+          }
+        },
+        {
+          "v_id": "24189330543098",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189330543098,
+            "messageContent": "About Karl Marx, ngels. BorAbout Sanath Jayasuriya, ited oversAbout Peter Sellers, d had"
+          }
+        },
+        {
+          "v_id": "24189260233056",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189260233056,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "24189260499406",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189260499406,
+            "messageContent": "LOL"
+          }
+        },
+        {
+          "v_id": "24189274662158",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 24189274662158,
+            "messageContent": "About Adolf Hitler, er's political views. His writings and methods were often adapted to need and"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m7.763s
+user	0m1.459s
+sys	0m0.147s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "M": [
+        {
+          "v_id": "24189396462895",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462895,
+            "M.@messageContent": "photo24189396462895.jpg",
+            "messageCreationDate": 1323215999827
+          }
+        },
+        {
+          "v_id": "24189396462894",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462894,
+            "M.@messageContent": "photo24189396462894.jpg",
+            "messageCreationDate": 1323215998827
+          }
+        },
+        {
+          "v_id": "24189334002986",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 112138,
+            "M.@personFirstName": "Charles",
+            "M.@personLastName": "Stewart",
+            "messageId": 24189334002986,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215998384
+          }
+        },
+        {
+          "v_id": "24189308197089",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186194747,
+            "M.@personFirstName": "Carlos Antonio",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189308197089,
+            "M.@messageContent": "About Organization for Security and Co-operation in Europe, romotion of human rights, fre",
+            "messageCreationDate": 1323215998197
+          }
+        },
+        {
+          "v_id": "24189396462893",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462893,
+            "M.@messageContent": "photo24189396462893.jpg",
+            "messageCreationDate": 1323215997827
+          }
+        },
+        {
+          "v_id": "24189396462892",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462892,
+            "M.@messageContent": "photo24189396462892.jpg",
+            "messageCreationDate": 1323215996827
+          }
+        },
+        {
+          "v_id": "24189330543098",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162869054,
+            "M.@personFirstName": "Monja",
+            "M.@personLastName": "Aly",
+            "messageId": 24189330543098,
+            "M.@messageContent": "About Karl Marx, ngels. BorAbout Sanath Jayasuriya, ited oversAbout Peter Sellers, d had",
+            "messageCreationDate": 1323215995853
+          }
+        },
+        {
+          "v_id": "24189396462891",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462891,
+            "M.@messageContent": "photo24189396462891.jpg",
+            "messageCreationDate": 1323215995827
+          }
+        },
+        {
+          "v_id": "24189333751628",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093104906,
+            "M.@personFirstName": "Chengdong",
+            "M.@personLastName": "Yang",
+            "messageId": 24189333751628,
+            "M.@messageContent": "no way!",
+            "messageCreationDate": 1323215995541
+          }
+        },
+        {
+          "v_id": "24189274662158",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069779988,
+            "M.@personFirstName": "Carlos",
+            "M.@personLastName": "Amenábar",
+            "messageId": 24189274662158,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215995419
+          }
+        },
+        {
+          "v_id": "24189396462890",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462890,
+            "M.@messageContent": "photo24189396462890.jpg",
+            "messageCreationDate": 1323215994827
+          }
+        },
+        {
+          "v_id": "24189302408059",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186155763,
+            "M.@personFirstName": "Angela",
+            "M.@personLastName": "Lin",
+            "messageId": 24189302408059,
+            "M.@messageContent": "thanks",
+            "messageCreationDate": 1323215994002
+          }
+        },
+        {
+          "v_id": "24189396462889",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 19791209389397,
+            "M.@personFirstName": "Francisco",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 24189396462889,
+            "M.@messageContent": "photo24189396462889.jpg",
+            "messageCreationDate": 1323215993827
+          }
+        },
+        {
+          "v_id": "24189359364950",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 17592186152838,
+            "M.@personFirstName": "R.",
+            "M.@personLastName": "Narayan",
+            "messageId": 24189359364950,
+            "M.@messageContent": "",
+            "messageCreationDate": 1323215992859
+          }
+        },
+        {
+          "v_id": "24189260233056",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 13194139570178,
+            "M.@personFirstName": "Frans",
+            "M.@personLastName": "Peeters",
+            "messageId": 24189260233056,
+            "M.@messageContent": "maybe",
+            "messageCreationDate": 1323215992814
+          }
+        },
+        {
+          "v_id": "24189334351477",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186054207,
+            "M.@personFirstName": "Koji",
+            "M.@personLastName": "Yamamoto",
+            "messageId": 24189334351477,
+            "M.@messageContent": "yes",
+            "messageCreationDate": 1323215991360
+          }
+        },
+        {
+          "v_id": "24189262883909",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023403596,
+            "M.@personFirstName": "Baby",
+            "M.@personLastName": "Yang",
+            "messageId": 24189262883909,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323215989812
+          }
+        },
+        {
+          "v_id": "24189296254041",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093104142,
+            "M.@personFirstName": "Johan",
+            "M.@personLastName": "Buysse",
+            "messageId": 24189296254041,
+            "M.@messageContent": "yes",
+            "messageCreationDate": 1323215988035
+          }
+        },
+        {
+          "v_id": "24189260499406",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 2199023343040,
+            "M.@personFirstName": "Peng",
+            "M.@personLastName": "Li",
+            "messageId": 24189260499406,
+            "M.@messageContent": "LOL",
+            "messageCreationDate": 1323215986846
+          }
+        },
+        {
+          "v_id": "24189361347338",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17592186213250,
+            "M.@personFirstName": "R.",
+            "M.@personLastName": "Narayan",
+            "messageId": 24189361347338,
+            "M.@messageContent": "no",
+            "messageCreationDate": 1323215986535
+          }
+        }
+      ]
+    },
+    {
+      "M.size()": 20
+    },
+    {
+      "TopKM": [
+        {
+          "v_id": "24189296254041",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189296254041,
+            "messageContent": "yes"
+          }
+        },
+        {
+          "v_id": "24189262883909",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189262883909,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "24189308197089",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189308197089,
+            "messageContent": "About Organization for Security and Co-operation in Europe, romotion of human rights, fre"
+          }
+        },
+        {
+          "v_id": "24189330543098",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189330543098,
+            "messageContent": "About Karl Marx, ngels. BorAbout Sanath Jayasuriya, ited oversAbout Peter Sellers, d had"
+          }
+        },
+        {
+          "v_id": "24189260499406",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189260499406,
+            "messageContent": "LOL"
+          }
+        },
+        {
+          "v_id": "24189359364950",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 24189359364950,
+            "messageContent": "About Hamid Karzai, ) that was held in Kabul, Afghanistan. After the 2004 presidential election, Karzai was"
+          }
+        },
+        {
+          "v_id": "24189260233056",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 24189260233056,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "24189274662158",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 24189274662158,
+            "messageContent": "About Adolf Hitler, er's political views. His writings and methods were often adapted to need and"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m7.778s
+user	0m1.432s
+sys	0m0.188s
+ic 11
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "P": [
+        {
+          "v_id": "2199023259667",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023259667,
+            "personFirstName": "Andres",
+            "personLastName": "Rodriguez",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "2199023279376",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023279376,
+            "personFirstName": "Chris",
+            "personLastName": "Junior",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "2199023311353",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023311353,
+            "personFirstName": "John",
+            "personLastName": "Bell",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "2199023388505",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023388505,
+            "personFirstName": "Deepak",
+            "personLastName": "Rao",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "17592186088434",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 17592186088434,
+            "personFirstName": "Mee",
+            "personLastName": "Phetrasy",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "24189255887633",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 24189255887633,
+            "personFirstName": "Alexandra",
+            "personLastName": "Popov",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "26388279071304",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 26388279071304,
+            "personFirstName": "Bela",
+            "personLastName": "Laszlo",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "26388279164334",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 26388279164334,
+            "personFirstName": "Alix",
+            "personLastName": "Brown-Sequard",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "48505",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 48505,
+            "personFirstName": "Alexandr",
+            "personLastName": "Iglinsky",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2000
+          }
+        },
+        {
+          "v_id": "6597069838432",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069838432,
+            "personFirstName": "Luis",
+            "personLastName": "Fernandez",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2000
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 122459
+    },
+    {
+      "M": [
+        {
+          "v_id": "37383476945703",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383476945703,
+            "messageContent": "About Rupert Murdoch,  In July 2011 MurdocAbout Sean Connery, cotland's Grea"
+          }
+        },
+        {
+          "v_id": "35184441676396",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 35184441676396,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "21990347929664",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 21990347929664,
+            "messageContent": "fine"
+          }
+        },
+        {
+          "v_id": "35184489008042",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 35184489008042,
+            "messageContent": "no way!"
+          }
+        },
+        {
+          "v_id": "37383431329184",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383431329184,
+            "messageContent": "good"
+          }
+        },
+        {
+          "v_id": "37383472830767",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383472830767,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "21990349474582",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 21990349474582,
+            "messageContent": "About Gerald Ford, his presidencAbout J. P. Morgan, gie Steel ComAbout Confederate S"
+          }
+        },
+        {
+          "v_id": "37383433552152",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383433552152,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "21990238709927",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 21990238709927,
+            "messageContent": "About Elizabeth I of England,  ruler, who enjoyed more than her share of luck. Towards"
+          }
+        },
+        {
+          "v_id": "32985358167695",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 32985358167695,
+            "messageContent": "no way!"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m2.227s
+user	0m1.449s
+sys	0m0.190s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "P": [
+        {
+          "v_id": "2199023259667",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023259667,
+            "personFirstName": "Andres",
+            "personLastName": "Rodriguez",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "2199023279376",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023279376,
+            "personFirstName": "Chris",
+            "personLastName": "Junior",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "2199023311353",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023311353,
+            "personFirstName": "John",
+            "personLastName": "Bell",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "2199023388505",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023388505,
+            "personFirstName": "Deepak",
+            "personLastName": "Rao",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "17592186088434",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 17592186088434,
+            "personFirstName": "Mee",
+            "personLastName": "Phetrasy",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "24189255887633",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 24189255887633,
+            "personFirstName": "Alexandra",
+            "personLastName": "Popov",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "26388279071304",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 26388279071304,
+            "personFirstName": "Bela",
+            "personLastName": "Laszlo",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "26388279164334",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 26388279164334,
+            "personFirstName": "Alix",
+            "personLastName": "Brown-Sequard",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "48505",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 48505,
+            "personFirstName": "Alexandr",
+            "personLastName": "Iglinsky",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2000
+          }
+        },
+        {
+          "v_id": "6597069838432",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069838432,
+            "personFirstName": "Luis",
+            "personLastName": "Fernandez",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2000
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 122459
+    },
+    {
+      "M": [
+        {
+          "v_id": "21990238709927",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 21990238709927,
+            "messageContent": "About Elizabeth I of England,  ruler, who enjoyed more than her share of luck. Towards"
+          }
+        },
+        {
+          "v_id": "21990349474582",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 21990349474582,
+            "messageContent": "About Gerald Ford, his presidencAbout J. P. Morgan, gie Steel ComAbout Confederate S"
+          }
+        },
+        {
+          "v_id": "37383433552152",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383433552152,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "37383476945703",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383476945703,
+            "messageContent": "About Rupert Murdoch,  In July 2011 MurdocAbout Sean Connery, cotland's Grea"
+          }
+        },
+        {
+          "v_id": "35184441676396",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 35184441676396,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "21990347929664",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 21990347929664,
+            "messageContent": "fine"
+          }
+        },
+        {
+          "v_id": "37383472830767",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383472830767,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "32985358167695",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 32985358167695,
+            "messageContent": "no way!"
+          }
+        },
+        {
+          "v_id": "35184489008042",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 35184489008042,
+            "messageContent": "no way!"
+          }
+        },
+        {
+          "v_id": "37383431329184",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383431329184,
+            "messageContent": "good"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m2.067s
+user	0m1.388s
+sys	0m0.221s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "P": [
+        {
+          "v_id": "2199023259667",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023259667,
+            "personFirstName": "Andres",
+            "personLastName": "Rodriguez",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "2199023279376",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023279376,
+            "personFirstName": "Chris",
+            "personLastName": "Junior",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "2199023311353",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023311353,
+            "personFirstName": "John",
+            "personLastName": "Bell",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "2199023388505",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023388505,
+            "personFirstName": "Deepak",
+            "personLastName": "Rao",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "17592186088434",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 17592186088434,
+            "personFirstName": "Mee",
+            "personLastName": "Phetrasy",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "24189255887633",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 24189255887633,
+            "personFirstName": "Alexandra",
+            "personLastName": "Popov",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "26388279071304",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 26388279071304,
+            "personFirstName": "Bela",
+            "personLastName": "Laszlo",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "26388279164334",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 26388279164334,
+            "personFirstName": "Alix",
+            "personLastName": "Brown-Sequard",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "48505",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 48505,
+            "personFirstName": "Alexandr",
+            "personLastName": "Iglinsky",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2000
+          }
+        },
+        {
+          "v_id": "6597069838432",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069838432,
+            "personFirstName": "Luis",
+            "personLastName": "Fernandez",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 2000
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 122459
+    },
+    {
+      "M": [
+        {
+          "v_id": "37383472830767",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383472830767,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "32985358167695",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 32985358167695,
+            "messageContent": "no way!"
+          }
+        },
+        {
+          "v_id": "21990349474582",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 21990349474582,
+            "messageContent": "About Gerald Ford, his presidencAbout J. P. Morgan, gie Steel ComAbout Confederate S"
+          }
+        },
+        {
+          "v_id": "37383433552152",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383433552152,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "37383476945703",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383476945703,
+            "messageContent": "About Rupert Murdoch,  In July 2011 MurdocAbout Sean Connery, cotland's Grea"
+          }
+        },
+        {
+          "v_id": "35184441676396",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 35184441676396,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "21990238709927",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 21990238709927,
+            "messageContent": "About Elizabeth I of England,  ruler, who enjoyed more than her share of luck. Towards"
+          }
+        },
+        {
+          "v_id": "21990347929664",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 21990347929664,
+            "messageContent": "fine"
+          }
+        },
+        {
+          "v_id": "35184489008042",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 35184489008042,
+            "messageContent": "no way!"
+          }
+        },
+        {
+          "v_id": "37383431329184",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383431329184,
+            "messageContent": "good"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m2.094s
+user	0m1.421s
+sys	0m0.208s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "P": [
+        {
+          "v_id": "2199023259667",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023259667,
+            "personFirstName": "Andres",
+            "personLastName": "Rodriguez",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "2199023279376",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023279376,
+            "personFirstName": "Chris",
+            "personLastName": "Junior",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "2199023311353",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023311353,
+            "personFirstName": "John",
+            "personLastName": "Bell",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "2199023388505",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023388505,
+            "personFirstName": "Deepak",
+            "personLastName": "Rao",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "17592186088434",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 17592186088434,
+            "personFirstName": "Mee",
+            "personLastName": "Phetrasy",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "17592186110538",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 17592186110538,
+            "personFirstName": "Choummaly",
+            "personLastName": "Bouphavanh",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "24189255887633",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 24189255887633,
+            "personFirstName": "Alexandra",
+            "personLastName": "Popov",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "26388279071304",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 26388279071304,
+            "personFirstName": "Bela",
+            "personLastName": "Laszlo",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "26388279164334",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 26388279164334,
+            "personFirstName": "Alix",
+            "personLastName": "Brown-Sequard",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "48505",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 48505,
+            "personFirstName": "Alexandr",
+            "personLastName": "Iglinsky",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2000
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 122459
+    },
+    {
+      "M": [
+        {
+          "v_id": "21990349474582",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 21990349474582,
+            "messageContent": "About Gerald Ford, his presidencAbout J. P. Morgan, gie Steel ComAbout Confederate S"
+          }
+        },
+        {
+          "v_id": "37383476945703",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383476945703,
+            "messageContent": "About Rupert Murdoch,  In July 2011 MurdocAbout Sean Connery, cotland's Grea"
+          }
+        },
+        {
+          "v_id": "35184441676396",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 35184441676396,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "21990347929664",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 21990347929664,
+            "messageContent": "fine"
+          }
+        },
+        {
+          "v_id": "32985358167695",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 32985358167695,
+            "messageContent": "no way!"
+          }
+        },
+        {
+          "v_id": "37383433552152",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383433552152,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "35184489008042",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 35184489008042,
+            "messageContent": "no way!"
+          }
+        },
+        {
+          "v_id": "37383431329184",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383431329184,
+            "messageContent": "good"
+          }
+        },
+        {
+          "v_id": "21990238709927",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 21990238709927,
+            "messageContent": "About Elizabeth I of England,  ruler, who enjoyed more than her share of luck. Towards"
+          }
+        },
+        {
+          "v_id": "37383472830767",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383472830767,
+            "messageContent": "I see"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m2.080s
+user	0m1.444s
+sys	0m0.184s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "P": [
+        {
+          "v_id": "2199023259667",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023259667,
+            "personFirstName": "Andres",
+            "personLastName": "Rodriguez",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "2199023279376",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023279376,
+            "personFirstName": "Chris",
+            "personLastName": "Junior",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "2199023311353",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023311353,
+            "personFirstName": "John",
+            "personLastName": "Bell",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "2199023388505",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 2199023388505,
+            "personFirstName": "Deepak",
+            "personLastName": "Rao",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "17592186088434",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 17592186088434,
+            "personFirstName": "Mee",
+            "personLastName": "Phetrasy",
+            "P.@organizationName": "Lao_Air",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "17592186110538",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 17592186110538,
+            "personFirstName": "Choummaly",
+            "personLastName": "Bouphavanh",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "24189255887633",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 24189255887633,
+            "personFirstName": "Alexandra",
+            "personLastName": "Popov",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "26388279071304",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 26388279071304,
+            "personFirstName": "Bela",
+            "personLastName": "Laszlo",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "26388279164334",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 26388279164334,
+            "personFirstName": "Alix",
+            "personLastName": "Brown-Sequard",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 1999
+          }
+        },
+        {
+          "v_id": "48505",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 48505,
+            "personFirstName": "Alexandr",
+            "personLastName": "Iglinsky",
+            "P.@organizationName": "Lao_Airlines",
+            "P.@organizationWorkFromYear": 2000
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 122459
+    },
+    {
+      "M": [
+        {
+          "v_id": "37383472830767",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383472830767,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "21990349474582",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 21990349474582,
+            "messageContent": "About Gerald Ford, his presidencAbout J. P. Morgan, gie Steel ComAbout Confederate S"
+          }
+        },
+        {
+          "v_id": "37383433552152",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383433552152,
+            "messageContent": "thx"
+          }
+        },
+        {
+          "v_id": "37383476945703",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383476945703,
+            "messageContent": "About Rupert Murdoch,  In July 2011 MurdocAbout Sean Connery, cotland's Grea"
+          }
+        },
+        {
+          "v_id": "35184441676396",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 35184441676396,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "21990347929664",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 21990347929664,
+            "messageContent": "fine"
+          }
+        },
+        {
+          "v_id": "32985358167695",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 32985358167695,
+            "messageContent": "no way!"
+          }
+        },
+        {
+          "v_id": "35184489008042",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 35184489008042,
+            "messageContent": "no way!"
+          }
+        },
+        {
+          "v_id": "37383431329184",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 37383431329184,
+            "messageContent": "good"
+          }
+        },
+        {
+          "v_id": "21990238709927",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 21990238709927,
+            "messageContent": "About Elizabeth I of England,  ruler, who enjoyed more than her share of luck. Towards"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m2.142s
+user	0m1.481s
+sys	0m0.192s

@@ -1,0 +1,37 @@
+USE GRAPH ldbc_snb
+drop query ic_6_hybrid
+
+CREATE QUERY ic_6_hybrid(vertex<Person> pid, string tagName, list<float> q) for graph ldbc_snb syntax v2 {
+  SumAccum<int> @postCount;
+  SetAccum<vertex<Post>> @@PostSet;
+  S = { pid };
+
+  M =
+    SELECT m
+    FROM S:s -(KNOWS*1..3)- Person:p -(<HAS_CREATOR)- Post:m -(HAS_TAG>)- Tag:t
+    WHERE p != s AND t.name == tagName
+    ACCUM @@PostSet += m;
+
+  T =
+    SELECT t
+    FROM M:m -(HAS_TAG>)- Tag:t
+    WHERE t.name != tagName
+    ACCUM t.@postCount += 1
+    ORDER BY t.@postCount DESC, t.name ASC
+    LIMIT 10;
+
+  PSet = @@PostSet;
+
+  M = TopKVectorSearch({Post.content_embedding}, q, 10, filter=PSet, ef=50);
+
+  PRINT T[T.name AS tagName, T.@postCount AS postCount];
+
+  PRINT PSet.size();
+
+  PRINT M[
+     M.id AS messageId,
+     M.content AS messageContent
+  ];
+}
+
+install query -single ic_6_hybrid

@@ -1,0 +1,5 @@
+create or replace query q1(List<FLOAT> embedding, INT efp) {
+  vset = TopKVectorSearch({v1.embAttr1}, embedding, 10, {ef:efp});
+  PRINT vset;
+}
+install query -single q1

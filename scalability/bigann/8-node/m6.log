@@ -1,0 +1,12 @@
+Running 2m test @ http://10.128.0.59:14240
+  4 threads and 200 connections
+  Thread calibration: mean lat.: 1927.540ms, rate sampling interval: 7557ms
+  Thread calibration: mean lat.: 1977.666ms, rate sampling interval: 7659ms
+  Thread calibration: mean lat.: 1915.539ms, rate sampling interval: 7467ms
+  Thread calibration: mean lat.: 2005.607ms, rate sampling interval: 7340ms
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    29.40s    14.19s    1.00m    58.79%
+    Req/Sec     1.38k    69.65     1.51k    73.21%
+  662858 requests in 2.00m, 321.85MB read
+Requests/sec:   5523.78
+Transfer/sec:      2.68MB

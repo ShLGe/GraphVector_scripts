@@ -1,0 +1,11 @@
+Running 2m test @ http://10.128.0.55:14240/restpp/query/g1/q1?
+  2 threads and 40 connections
+  Thread calibration: mean lat.: 5453.377ms, rate sampling interval: 18710ms
+  Thread calibration: mean lat.: 5465.329ms, rate sampling interval: 18841ms
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.09m    31.34s    1.98m    57.70%
+    Req/Sec     9.10      0.30    10.00    100.00%
+  2297 requests in 2.00m, 2.22MB read
+  Socket errors: connect 0, read 0, write 0, timeout 366
+Requests/sec:     19.12
+Transfer/sec:     18.94KB

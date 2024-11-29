@@ -1,0 +1,16 @@
+Running 2m test @ http://10.128.0.16:14240/restpp/query/g1/q1?
+  8 threads and 160 connections
+  Thread calibration: mean lat.: 4299.645ms, rate sampling interval: 15835ms
+  Thread calibration: mean lat.: 4041.192ms, rate sampling interval: 15097ms
+  Thread calibration: mean lat.: 4251.049ms, rate sampling interval: 15286ms
+  Thread calibration: mean lat.: 4288.526ms, rate sampling interval: 15261ms
+  Thread calibration: mean lat.: 4337.756ms, rate sampling interval: 15622ms
+  Thread calibration: mean lat.: 4173.323ms, rate sampling interval: 14950ms
+  Thread calibration: mean lat.: 4309.839ms, rate sampling interval: 15622ms
+  Thread calibration: mean lat.: 3888.058ms, rate sampling interval: 14090ms
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     0.94m    27.33s    1.75m    57.66%
+    Req/Sec    34.36      1.76    38.00     90.91%
+  33521 requests in 2.00m, 32.16MB read
+Requests/sec:    279.21
+Transfer/sec:    274.28KB

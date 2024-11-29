@@ -1,0 +1,5135 @@
+ic 3
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "S": [
+        {
+          "v_id": "6597069788609",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069788609,
+            "personFirstName": "Claude",
+            "personLastName": "Mangalaza",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 2
+    },
+    {
+      "M": [
+        {
+          "v_id": "4672938065188",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672938065188,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4123178413428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123178413428,
+            "messageContent": "fine"
+          }
+        },
+        {
+          "v_id": "4123169557749",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123169557749,
+            "messageContent": "About America the Beautiful, a the Beautiful. The song is one of the most beloved andAbout Burnt Weeny Sandwich"
+          }
+        },
+        {
+          "v_id": "4672928989428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672928989428,
+            "messageContent": "About B.B. King,  stage name B.B. King, is an American About Paul McCartney"
+          }
+        },
+        {
+          "v_id": "3573421437971",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573421437971,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "4398060843004",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398060843004,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298540409090",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298540409090,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298541003900",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298541003900,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4398048749740",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398048749740,
+            "messageContent": "About Augustine of Hippo, relius Augustinus Hipponensis; November 13, 354 – August About Saddam Hussein, pable o"
+          }
+        },
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.684s
+user	0m1.198s
+sys	0m0.241s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "S": [
+        {
+          "v_id": "6597069788609",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069788609,
+            "personFirstName": "Claude",
+            "personLastName": "Mangalaza",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 2
+    },
+    {
+      "M": [
+        {
+          "v_id": "4123178413428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123178413428,
+            "messageContent": "fine"
+          }
+        },
+        {
+          "v_id": "4123169557749",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123169557749,
+            "messageContent": "About America the Beautiful, a the Beautiful. The song is one of the most beloved andAbout Burnt Weeny Sandwich"
+          }
+        },
+        {
+          "v_id": "4672928989428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672928989428,
+            "messageContent": "About B.B. King,  stage name B.B. King, is an American About Paul McCartney"
+          }
+        },
+        {
+          "v_id": "3573421437971",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573421437971,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "4672938065188",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672938065188,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4398060843004",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398060843004,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298540409090",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298540409090,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298541003900",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298541003900,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4398048749740",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398048749740,
+            "messageContent": "About Augustine of Hippo, relius Augustinus Hipponensis; November 13, 354 – August About Saddam Hussein, pable o"
+          }
+        },
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.631s
+user	0m1.151s
+sys	0m0.187s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "S": [
+        {
+          "v_id": "6597069788609",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069788609,
+            "personFirstName": "Claude",
+            "personLastName": "Mangalaza",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 2
+    },
+    {
+      "M": [
+        {
+          "v_id": "4398048749740",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398048749740,
+            "messageContent": "About Augustine of Hippo, relius Augustinus Hipponensis; November 13, 354 – August About Saddam Hussein, pable o"
+          }
+        },
+        {
+          "v_id": "4123178413428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123178413428,
+            "messageContent": "fine"
+          }
+        },
+        {
+          "v_id": "4123169557749",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123169557749,
+            "messageContent": "About America the Beautiful, a the Beautiful. The song is one of the most beloved andAbout Burnt Weeny Sandwich"
+          }
+        },
+        {
+          "v_id": "4672928989428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672928989428,
+            "messageContent": "About B.B. King,  stage name B.B. King, is an American About Paul McCartney"
+          }
+        },
+        {
+          "v_id": "3573421437971",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573421437971,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "4672938065188",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672938065188,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4398060843004",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398060843004,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298540409090",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298540409090,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298541003900",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298541003900,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.649s
+user	0m1.211s
+sys	0m0.177s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "S": [
+        {
+          "v_id": "6597069788609",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069788609,
+            "personFirstName": "Claude",
+            "personLastName": "Mangalaza",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 2
+    },
+    {
+      "M": [
+        {
+          "v_id": "3298540409090",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298540409090,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298541003900",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298541003900,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4123178413428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123178413428,
+            "messageContent": "fine"
+          }
+        },
+        {
+          "v_id": "4123169557749",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123169557749,
+            "messageContent": "About America the Beautiful, a the Beautiful. The song is one of the most beloved andAbout Burnt Weeny Sandwich"
+          }
+        },
+        {
+          "v_id": "4672928989428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672928989428,
+            "messageContent": "About B.B. King,  stage name B.B. King, is an American About Paul McCartney"
+          }
+        },
+        {
+          "v_id": "3573421437971",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573421437971,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "4672938065188",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672938065188,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4398060843004",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398060843004,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        },
+        {
+          "v_id": "4398048749740",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398048749740,
+            "messageContent": "About Augustine of Hippo, relius Augustinus Hipponensis; November 13, 354 – August About Saddam Hussein, pable o"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.679s
+user	0m1.238s
+sys	0m0.199s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "S": [
+        {
+          "v_id": "6597069788609",
+          "v_type": "Person",
+          "attributes": {
+            "personId": 6597069788609,
+            "personFirstName": "Claude",
+            "personLastName": "Mangalaza",
+            "xCount": 1,
+            "yCount": 1,
+            "totalCount": 2
+          }
+        }
+      ]
+    },
+    {
+      "MSet.size()": 2
+    },
+    {
+      "M": [
+        {
+          "v_id": "4672938065188",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672938065188,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4123178413428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123178413428,
+            "messageContent": "fine"
+          }
+        },
+        {
+          "v_id": "4123169557749",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123169557749,
+            "messageContent": "About America the Beautiful, a the Beautiful. The song is one of the most beloved andAbout Burnt Weeny Sandwich"
+          }
+        },
+        {
+          "v_id": "4672928989428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672928989428,
+            "messageContent": "About B.B. King,  stage name B.B. King, is an American About Paul McCartney"
+          }
+        },
+        {
+          "v_id": "3573421437971",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573421437971,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "4398060843004",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398060843004,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298540409090",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298540409090,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298541003900",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298541003900,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        },
+        {
+          "v_id": "4398048749740",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398048749740,
+            "messageContent": "About Augustine of Hippo, relius Augustinus Hipponensis; November 13, 354 – August About Saddam Hussein, pable o"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.638s
+user	0m1.254s
+sys	0m0.112s
+ic 5
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "F": [
+        {
+          "v_id": "1374390595608",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Rubén_Blades in Marianao",
+            "postCount": 14
+          }
+        },
+        {
+          "v_id": "1374389563610",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Benjamin_Britten in Karachi",
+            "postCount": 5
+          }
+        },
+        {
+          "v_id": "274878956912",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ovid in Changde",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "1924146440898",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Mariah_Carey in Ajmer",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "2199024307481",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Stan_Lee in Mỹ_Tho",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "2748781202805",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Aristophanes in Artux",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "549757918003",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for George_I_of_Great_Britain in Borey_Seang_Nam",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "1374390635068",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Brigham_Young in Nara",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "1374391651696",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Freddie_Mercury in Suwon",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "1649268538185",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Late_Night_Special in Lavras",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2199023302645",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for C._S._Lewis in Khuzdar",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2199023319724",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Johann_Sebastian_Bach in Dingzhou",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2199024345880",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for George_Washington in Taguig",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2199025362451",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Manon_Bollegraf in Asadabad",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2473901192040",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Søren_Kierkegaard in Temuco",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2473901230974",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Kevin_Rudd in Zacapoaxtla",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2473903297343",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Leo_Tolstoy in Kathmandu",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2748780192082",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Confucius in Danjiangkou",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "3023659108719",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Isaac_Newton in Varanasi",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "3573412875848",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ivan_Lendl in Richmond",
+            "postCount": 3
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 574499
+    },
+    {
+      "M": [
+        {
+          "v_id": "2748784351504",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748784351504,
+            "messageContent": "About Kateryna Bondarenko, eld in Toronto, Canada, by beating Venus Williams, the third"
+          }
+        },
+        {
+          "v_id": "2748787529696",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748787529696,
+            "messageContent": "About Augustine of Hippo, tinct from the material Earthly City. His thoughts prAbout Alanis Morissette, w"
+          }
+        },
+        {
+          "v_id": "4672932877328",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4672932877328,
+            "messageContent": "About Augustine of Hippo, lessed, was Bishop of Hippo ReAbout Neil Young, eneration. Young began performAbout Robert"
+          }
+        },
+        {
+          "v_id": "3298543343563",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3298543343563,
+            "messageContent": "About Augustine of Hippo, so known as Augustine, St. Augustine, St. Austin, St. Augoustinos, Blessed Augustine, or St. Augustine the BlesseAbout Angelina Jolie,  She has received an Academy Award, two Screen Actors Guild Awar"
+          }
+        },
+        {
+          "v_id": "2199031714811",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2199031714811,
+            "messageContent": "About Augustine of Hippo, rthly City. His thoughts profoundlAbout Plato, as scattered through them."
+          }
+        },
+        {
+          "v_id": "4672932878255",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4672932878255,
+            "messageContent": "About Augustine of Hippo, mong the Orthodox, he is calledAbout Ted Kennedy, st prominent li"
+          }
+        },
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        },
+        {
+          "v_id": "4672932878234",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4672932878234,
+            "messageContent": "About Augustine of Hippo, ped God. In the Catholic Church and the AnglicAbout Francis Bacon, s works, especially as philosophical advoc"
+          }
+        },
+        {
+          "v_id": "1649275901971",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649275901971,
+            "messageContent": "About Augustine of Hippo, nity. According to his contemAbout Golda Meir, ith British"
+          }
+        },
+        {
+          "v_id": "1924153808886",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808886,
+            "messageContent": "About Augustine of Hippo, glican Communion, he is a saint andAbout Lleyton Hewitt,  a current ATP ranki"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.798s
+user	0m1.385s
+sys	0m0.175s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "F": [
+        {
+          "v_id": "1374390595608",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Rubén_Blades in Marianao",
+            "postCount": 14
+          }
+        },
+        {
+          "v_id": "1374389563610",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Benjamin_Britten in Karachi",
+            "postCount": 5
+          }
+        },
+        {
+          "v_id": "274878956912",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ovid in Changde",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "1924146440898",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Mariah_Carey in Ajmer",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "2199024307481",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Stan_Lee in Mỹ_Tho",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "2748781202805",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Aristophanes in Artux",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "549757918003",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for George_I_of_Great_Britain in Borey_Seang_Nam",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "1374390635068",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Brigham_Young in Nara",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "1374391651696",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Freddie_Mercury in Suwon",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "1649268538185",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Late_Night_Special in Lavras",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2199023302645",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for C._S._Lewis in Khuzdar",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2199023319724",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Johann_Sebastian_Bach in Dingzhou",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2199024345880",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for George_Washington in Taguig",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2199025362451",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Manon_Bollegraf in Asadabad",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2473901192040",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Søren_Kierkegaard in Temuco",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2473901230974",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Kevin_Rudd in Zacapoaxtla",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2473903297343",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Leo_Tolstoy in Kathmandu",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2748780192082",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Confucius in Danjiangkou",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "3023659108719",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Isaac_Newton in Varanasi",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "3573412875848",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ivan_Lendl in Richmond",
+            "postCount": 3
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 574499
+    },
+    {
+      "M": [
+        {
+          "v_id": "4672932878255",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4672932878255,
+            "messageContent": "About Augustine of Hippo, mong the Orthodox, he is calledAbout Ted Kennedy, st prominent li"
+          }
+        },
+        {
+          "v_id": "1649275901971",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649275901971,
+            "messageContent": "About Augustine of Hippo, nity. According to his contemAbout Golda Meir, ith British"
+          }
+        },
+        {
+          "v_id": "1924153808886",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808886,
+            "messageContent": "About Augustine of Hippo, glican Communion, he is a saint andAbout Lleyton Hewitt,  a current ATP ranki"
+          }
+        },
+        {
+          "v_id": "2748787529696",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748787529696,
+            "messageContent": "About Augustine of Hippo, tinct from the material Earthly City. His thoughts prAbout Alanis Morissette, w"
+          }
+        },
+        {
+          "v_id": "4672932877328",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4672932877328,
+            "messageContent": "About Augustine of Hippo, lessed, was Bishop of Hippo ReAbout Neil Young, eneration. Young began performAbout Robert"
+          }
+        },
+        {
+          "v_id": "3298543343563",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3298543343563,
+            "messageContent": "About Augustine of Hippo, so known as Augustine, St. Augustine, St. Austin, St. Augoustinos, Blessed Augustine, or St. Augustine the BlesseAbout Angelina Jolie,  She has received an Academy Award, two Screen Actors Guild Awar"
+          }
+        },
+        {
+          "v_id": "2199031714811",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2199031714811,
+            "messageContent": "About Augustine of Hippo, rthly City. His thoughts profoundlAbout Plato, as scattered through them."
+          }
+        },
+        {
+          "v_id": "2748784351504",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748784351504,
+            "messageContent": "About Kateryna Bondarenko, eld in Toronto, Canada, by beating Venus Williams, the third"
+          }
+        },
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        },
+        {
+          "v_id": "4672932878234",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4672932878234,
+            "messageContent": "About Augustine of Hippo, ped God. In the Catholic Church and the AnglicAbout Francis Bacon, s works, especially as philosophical advoc"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.859s
+user	0m1.419s
+sys	0m0.198s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "F": [
+        {
+          "v_id": "1374390595608",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Rubén_Blades in Marianao",
+            "postCount": 14
+          }
+        },
+        {
+          "v_id": "1374389563610",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Benjamin_Britten in Karachi",
+            "postCount": 5
+          }
+        },
+        {
+          "v_id": "274878956912",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ovid in Changde",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "1924146440898",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Mariah_Carey in Ajmer",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "2199024307481",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Stan_Lee in Mỹ_Tho",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "2748781202805",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Aristophanes in Artux",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "549757918003",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for George_I_of_Great_Britain in Borey_Seang_Nam",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "1374390635068",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Brigham_Young in Nara",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "1374391651696",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Freddie_Mercury in Suwon",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "1649268538185",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Late_Night_Special in Lavras",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2199023302645",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for C._S._Lewis in Khuzdar",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2199023319724",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Johann_Sebastian_Bach in Dingzhou",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2199024345880",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for George_Washington in Taguig",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2199025362451",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Manon_Bollegraf in Asadabad",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2473901192040",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Søren_Kierkegaard in Temuco",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2473901230974",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Kevin_Rudd in Zacapoaxtla",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2473903297343",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Leo_Tolstoy in Kathmandu",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2748780192082",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Confucius in Danjiangkou",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "3023659108719",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Isaac_Newton in Varanasi",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "3573412875848",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ivan_Lendl in Richmond",
+            "postCount": 3
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 574499
+    },
+    {
+      "M": [
+        {
+          "v_id": "4672932878255",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4672932878255,
+            "messageContent": "About Augustine of Hippo, mong the Orthodox, he is calledAbout Ted Kennedy, st prominent li"
+          }
+        },
+        {
+          "v_id": "1649275901971",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649275901971,
+            "messageContent": "About Augustine of Hippo, nity. According to his contemAbout Golda Meir, ith British"
+          }
+        },
+        {
+          "v_id": "1924153808886",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808886,
+            "messageContent": "About Augustine of Hippo, glican Communion, he is a saint andAbout Lleyton Hewitt,  a current ATP ranki"
+          }
+        },
+        {
+          "v_id": "2748787529696",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748787529696,
+            "messageContent": "About Augustine of Hippo, tinct from the material Earthly City. His thoughts prAbout Alanis Morissette, w"
+          }
+        },
+        {
+          "v_id": "4672932877328",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4672932877328,
+            "messageContent": "About Augustine of Hippo, lessed, was Bishop of Hippo ReAbout Neil Young, eneration. Young began performAbout Robert"
+          }
+        },
+        {
+          "v_id": "3298543343563",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3298543343563,
+            "messageContent": "About Augustine of Hippo, so known as Augustine, St. Augustine, St. Austin, St. Augoustinos, Blessed Augustine, or St. Augustine the BlesseAbout Angelina Jolie,  She has received an Academy Award, two Screen Actors Guild Awar"
+          }
+        },
+        {
+          "v_id": "2199031714811",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2199031714811,
+            "messageContent": "About Augustine of Hippo, rthly City. His thoughts profoundlAbout Plato, as scattered through them."
+          }
+        },
+        {
+          "v_id": "2748784351504",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748784351504,
+            "messageContent": "About Kateryna Bondarenko, eld in Toronto, Canada, by beating Venus Williams, the third"
+          }
+        },
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        },
+        {
+          "v_id": "4672932878234",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4672932878234,
+            "messageContent": "About Augustine of Hippo, ped God. In the Catholic Church and the AnglicAbout Francis Bacon, s works, especially as philosophical advoc"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.796s
+user	0m1.338s
+sys	0m0.201s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "F": [
+        {
+          "v_id": "1374390595608",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Rubén_Blades in Marianao",
+            "postCount": 14
+          }
+        },
+        {
+          "v_id": "1374389563610",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Benjamin_Britten in Karachi",
+            "postCount": 5
+          }
+        },
+        {
+          "v_id": "274878956912",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ovid in Changde",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "1924146440898",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Mariah_Carey in Ajmer",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "2199024307481",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Stan_Lee in Mỹ_Tho",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "2748781202805",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Aristophanes in Artux",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "549757918003",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for George_I_of_Great_Britain in Borey_Seang_Nam",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "1374390635068",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Brigham_Young in Nara",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "1374391651696",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Freddie_Mercury in Suwon",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "1649268538185",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Late_Night_Special in Lavras",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2199023302645",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for C._S._Lewis in Khuzdar",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2199023319724",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Johann_Sebastian_Bach in Dingzhou",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2199024345880",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for George_Washington in Taguig",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2199025362451",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Manon_Bollegraf in Asadabad",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2473901192040",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Søren_Kierkegaard in Temuco",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2473901230974",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Kevin_Rudd in Zacapoaxtla",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2473903297343",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Leo_Tolstoy in Kathmandu",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2748780192082",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Confucius in Danjiangkou",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "3023659108719",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Isaac_Newton in Varanasi",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "3573412875848",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ivan_Lendl in Richmond",
+            "postCount": 3
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 574499
+    },
+    {
+      "M": [
+        {
+          "v_id": "4672932878255",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4672932878255,
+            "messageContent": "About Augustine of Hippo, mong the Orthodox, he is calledAbout Ted Kennedy, st prominent li"
+          }
+        },
+        {
+          "v_id": "2748787529696",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748787529696,
+            "messageContent": "About Augustine of Hippo, tinct from the material Earthly City. His thoughts prAbout Alanis Morissette, w"
+          }
+        },
+        {
+          "v_id": "4672932877328",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4672932877328,
+            "messageContent": "About Augustine of Hippo, lessed, was Bishop of Hippo ReAbout Neil Young, eneration. Young began performAbout Robert"
+          }
+        },
+        {
+          "v_id": "3298543343563",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3298543343563,
+            "messageContent": "About Augustine of Hippo, so known as Augustine, St. Augustine, St. Austin, St. Augoustinos, Blessed Augustine, or St. Augustine the BlesseAbout Angelina Jolie,  She has received an Academy Award, two Screen Actors Guild Awar"
+          }
+        },
+        {
+          "v_id": "2199031714811",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2199031714811,
+            "messageContent": "About Augustine of Hippo, rthly City. His thoughts profoundlAbout Plato, as scattered through them."
+          }
+        },
+        {
+          "v_id": "2748784351504",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748784351504,
+            "messageContent": "About Kateryna Bondarenko, eld in Toronto, Canada, by beating Venus Williams, the third"
+          }
+        },
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        },
+        {
+          "v_id": "4672932878234",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4672932878234,
+            "messageContent": "About Augustine of Hippo, ped God. In the Catholic Church and the AnglicAbout Francis Bacon, s works, especially as philosophical advoc"
+          }
+        },
+        {
+          "v_id": "1649275901971",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649275901971,
+            "messageContent": "About Augustine of Hippo, nity. According to his contemAbout Golda Meir, ith British"
+          }
+        },
+        {
+          "v_id": "1924153808886",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808886,
+            "messageContent": "About Augustine of Hippo, glican Communion, he is a saint andAbout Lleyton Hewitt,  a current ATP ranki"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.818s
+user	0m1.446s
+sys	0m0.158s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "F": [
+        {
+          "v_id": "1374390595608",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Rubén_Blades in Marianao",
+            "postCount": 14
+          }
+        },
+        {
+          "v_id": "1374389563610",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Benjamin_Britten in Karachi",
+            "postCount": 5
+          }
+        },
+        {
+          "v_id": "274878956912",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ovid in Changde",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "1924146440898",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Mariah_Carey in Ajmer",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "2199024307481",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Stan_Lee in Mỹ_Tho",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "2748781202805",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Aristophanes in Artux",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "549757918003",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for George_I_of_Great_Britain in Borey_Seang_Nam",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "1374390635068",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Brigham_Young in Nara",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "1374391651696",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Freddie_Mercury in Suwon",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "1649268538185",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Late_Night_Special in Lavras",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2199023302645",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for C._S._Lewis in Khuzdar",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2199023319724",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Johann_Sebastian_Bach in Dingzhou",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2199024345880",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for George_Washington in Taguig",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2199025362451",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Manon_Bollegraf in Asadabad",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2473901192040",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Søren_Kierkegaard in Temuco",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2473901230974",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Kevin_Rudd in Zacapoaxtla",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2473903297343",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Leo_Tolstoy in Kathmandu",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "2748780192082",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Confucius in Danjiangkou",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "3023659108719",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Isaac_Newton in Varanasi",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "3573412875848",
+          "v_type": "Forum",
+          "attributes": {
+            "forumTitle": "Group for Ivan_Lendl in Richmond",
+            "postCount": 3
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 574499
+    },
+    {
+      "M": [
+        {
+          "v_id": "2748787529696",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748787529696,
+            "messageContent": "About Augustine of Hippo, tinct from the material Earthly City. His thoughts prAbout Alanis Morissette, w"
+          }
+        },
+        {
+          "v_id": "4672932877328",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4672932877328,
+            "messageContent": "About Augustine of Hippo, lessed, was Bishop of Hippo ReAbout Neil Young, eneration. Young began performAbout Robert"
+          }
+        },
+        {
+          "v_id": "3298543343563",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3298543343563,
+            "messageContent": "About Augustine of Hippo, so known as Augustine, St. Augustine, St. Austin, St. Augoustinos, Blessed Augustine, or St. Augustine the BlesseAbout Angelina Jolie,  She has received an Academy Award, two Screen Actors Guild Awar"
+          }
+        },
+        {
+          "v_id": "2199031714811",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2199031714811,
+            "messageContent": "About Augustine of Hippo, rthly City. His thoughts profoundlAbout Plato, as scattered through them."
+          }
+        },
+        {
+          "v_id": "2748784351504",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748784351504,
+            "messageContent": "About Kateryna Bondarenko, eld in Toronto, Canada, by beating Venus Williams, the third"
+          }
+        },
+        {
+          "v_id": "4672932878255",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4672932878255,
+            "messageContent": "About Augustine of Hippo, mong the Orthodox, he is calledAbout Ted Kennedy, st prominent li"
+          }
+        },
+        {
+          "v_id": "1649275901971",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649275901971,
+            "messageContent": "About Augustine of Hippo, nity. According to his contemAbout Golda Meir, ith British"
+          }
+        },
+        {
+          "v_id": "1924153808886",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808886,
+            "messageContent": "About Augustine of Hippo, glican Communion, he is a saint andAbout Lleyton Hewitt,  a current ATP ranki"
+          }
+        },
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        },
+        {
+          "v_id": "4672932878234",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4672932878234,
+            "messageContent": "About Augustine of Hippo, ped God. In the Catholic Church and the AnglicAbout Francis Bacon, s works, especially as philosophical advoc"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.811s
+user	0m1.353s
+sys	0m0.233s
+ic 6
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "T": [
+        {
+          "v_id": "1093",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Yuvan_Shankar_Raja",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "1934",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Paradorn_Srichaphan",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "540",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Sammy_Sosa",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "564",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Carl_Gustaf_Emil_Mannerheim",
+            "postCount": 2
+          }
+        },
+        {
+          "v_id": "58",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "John_Howard",
+            "postCount": 2
+          }
+        },
+        {
+          "v_id": "4863",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "John_Rhys-Davies",
+            "postCount": 2
+          }
+        },
+        {
+          "v_id": "1410",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Muammar_Gaddafi",
+            "postCount": 2
+          }
+        },
+        {
+          "v_id": "8441",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "A_Little_South_of_Sanity",
+            "postCount": 1
+          }
+        },
+        {
+          "v_id": "127",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Alexander_Downer",
+            "postCount": 1
+          }
+        },
+        {
+          "v_id": "2846",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Alice_Cooper",
+            "postCount": 1
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 31
+    },
+    {
+      "M": [
+        {
+          "v_id": "2748784351504",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748784351504,
+            "messageContent": "About Kateryna Bondarenko, eld in Toronto, Canada, by beating Venus Williams, the third"
+          }
+        },
+        {
+          "v_id": "3848293563634",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3848293563634,
+            "messageContent": "About Slavoj Žižek, rkbeck InstituteAbout Emmylou Harris,  The Band, LindaAbout Shaolin vs. Wu"
+          }
+        },
+        {
+          "v_id": "2473904074264",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2473904074264,
+            "messageContent": "About Augustine of Hippo, his early years he was heavily influenced by Manichaeism and afterward by"
+          }
+        },
+        {
+          "v_id": "3573421671002",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3573421671002,
+            "messageContent": "About Yao Ming, al Basketball Association (NBA). At the time of his final season, he was the tallest active player i"
+          }
+        },
+        {
+          "v_id": "1924155025634",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924155025634,
+            "messageContent": "About Gil Kane, nvolved in such majoAbout Rembrandt, n was 203 at the 201About George W. Bush, rticle is about the Abou"
+          }
+        },
+        {
+          "v_id": "3298543343563",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3298543343563,
+            "messageContent": "About Augustine of Hippo, so known as Augustine, St. Augustine, St. Austin, St. Augoustinos, Blessed Augustine, or St. Augustine the BlesseAbout Angelina Jolie,  She has received an Academy Award, two Screen Actors Guild Awar"
+          }
+        },
+        {
+          "v_id": "2199031714811",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2199031714811,
+            "messageContent": "About Augustine of Hippo, rthly City. His thoughts profoundlAbout Plato, as scattered through them."
+          }
+        },
+        {
+          "v_id": "2199032932917",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2199032932917,
+            "messageContent": "About Hamid Karzai, epublic of Afghanistan. About Pablo Picasso, evolutionary developmentAbout Franklin D. Roosevelt"
+          }
+        },
+        {
+          "v_id": "1649275901971",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649275901971,
+            "messageContent": "About Augustine of Hippo, nity. According to his contemAbout Golda Meir, ith British"
+          }
+        },
+        {
+          "v_id": "1924153808886",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808886,
+            "messageContent": "About Augustine of Hippo, glican Communion, he is a saint andAbout Lleyton Hewitt,  a current ATP ranki"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.641s
+user	0m1.205s
+sys	0m0.154s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "T": [
+        {
+          "v_id": "1093",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Yuvan_Shankar_Raja",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "1934",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Paradorn_Srichaphan",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "540",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Sammy_Sosa",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "564",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Carl_Gustaf_Emil_Mannerheim",
+            "postCount": 2
+          }
+        },
+        {
+          "v_id": "58",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "John_Howard",
+            "postCount": 2
+          }
+        },
+        {
+          "v_id": "4863",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "John_Rhys-Davies",
+            "postCount": 2
+          }
+        },
+        {
+          "v_id": "1410",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Muammar_Gaddafi",
+            "postCount": 2
+          }
+        },
+        {
+          "v_id": "8441",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "A_Little_South_of_Sanity",
+            "postCount": 1
+          }
+        },
+        {
+          "v_id": "127",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Alexander_Downer",
+            "postCount": 1
+          }
+        },
+        {
+          "v_id": "2846",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Alice_Cooper",
+            "postCount": 1
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 31
+    },
+    {
+      "M": [
+        {
+          "v_id": "1649275901971",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649275901971,
+            "messageContent": "About Augustine of Hippo, nity. According to his contemAbout Golda Meir, ith British"
+          }
+        },
+        {
+          "v_id": "1924153808886",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808886,
+            "messageContent": "About Augustine of Hippo, glican Communion, he is a saint andAbout Lleyton Hewitt,  a current ATP ranki"
+          }
+        },
+        {
+          "v_id": "1924155025634",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924155025634,
+            "messageContent": "About Gil Kane, nvolved in such majoAbout Rembrandt, n was 203 at the 201About George W. Bush, rticle is about the Abou"
+          }
+        },
+        {
+          "v_id": "3298543343563",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3298543343563,
+            "messageContent": "About Augustine of Hippo, so known as Augustine, St. Augustine, St. Austin, St. Augoustinos, Blessed Augustine, or St. Augustine the BlesseAbout Angelina Jolie,  She has received an Academy Award, two Screen Actors Guild Awar"
+          }
+        },
+        {
+          "v_id": "2199031714811",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2199031714811,
+            "messageContent": "About Augustine of Hippo, rthly City. His thoughts profoundlAbout Plato, as scattered through them."
+          }
+        },
+        {
+          "v_id": "2748784351504",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748784351504,
+            "messageContent": "About Kateryna Bondarenko, eld in Toronto, Canada, by beating Venus Williams, the third"
+          }
+        },
+        {
+          "v_id": "3848293563634",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3848293563634,
+            "messageContent": "About Slavoj Žižek, rkbeck InstituteAbout Emmylou Harris,  The Band, LindaAbout Shaolin vs. Wu"
+          }
+        },
+        {
+          "v_id": "2199032932917",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2199032932917,
+            "messageContent": "About Hamid Karzai, epublic of Afghanistan. About Pablo Picasso, evolutionary developmentAbout Franklin D. Roosevelt"
+          }
+        },
+        {
+          "v_id": "2473904074264",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2473904074264,
+            "messageContent": "About Augustine of Hippo, his early years he was heavily influenced by Manichaeism and afterward by"
+          }
+        },
+        {
+          "v_id": "3573421671002",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3573421671002,
+            "messageContent": "About Yao Ming, al Basketball Association (NBA). At the time of his final season, he was the tallest active player i"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.645s
+user	0m1.169s
+sys	0m0.197s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "T": [
+        {
+          "v_id": "1093",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Yuvan_Shankar_Raja",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "1934",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Paradorn_Srichaphan",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "540",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Sammy_Sosa",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "564",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Carl_Gustaf_Emil_Mannerheim",
+            "postCount": 2
+          }
+        },
+        {
+          "v_id": "58",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "John_Howard",
+            "postCount": 2
+          }
+        },
+        {
+          "v_id": "4863",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "John_Rhys-Davies",
+            "postCount": 2
+          }
+        },
+        {
+          "v_id": "1410",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Muammar_Gaddafi",
+            "postCount": 2
+          }
+        },
+        {
+          "v_id": "8441",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "A_Little_South_of_Sanity",
+            "postCount": 1
+          }
+        },
+        {
+          "v_id": "127",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Alexander_Downer",
+            "postCount": 1
+          }
+        },
+        {
+          "v_id": "2846",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Alice_Cooper",
+            "postCount": 1
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 31
+    },
+    {
+      "M": [
+        {
+          "v_id": "2199032932917",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2199032932917,
+            "messageContent": "About Hamid Karzai, epublic of Afghanistan. About Pablo Picasso, evolutionary developmentAbout Franklin D. Roosevelt"
+          }
+        },
+        {
+          "v_id": "3298543343563",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3298543343563,
+            "messageContent": "About Augustine of Hippo, so known as Augustine, St. Augustine, St. Austin, St. Augoustinos, Blessed Augustine, or St. Augustine the BlesseAbout Angelina Jolie,  She has received an Academy Award, two Screen Actors Guild Awar"
+          }
+        },
+        {
+          "v_id": "2199031714811",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2199031714811,
+            "messageContent": "About Augustine of Hippo, rthly City. His thoughts profoundlAbout Plato, as scattered through them."
+          }
+        },
+        {
+          "v_id": "2748784351504",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748784351504,
+            "messageContent": "About Kateryna Bondarenko, eld in Toronto, Canada, by beating Venus Williams, the third"
+          }
+        },
+        {
+          "v_id": "3848293563634",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3848293563634,
+            "messageContent": "About Slavoj Žižek, rkbeck InstituteAbout Emmylou Harris,  The Band, LindaAbout Shaolin vs. Wu"
+          }
+        },
+        {
+          "v_id": "2473904074264",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2473904074264,
+            "messageContent": "About Augustine of Hippo, his early years he was heavily influenced by Manichaeism and afterward by"
+          }
+        },
+        {
+          "v_id": "1649275901971",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649275901971,
+            "messageContent": "About Augustine of Hippo, nity. According to his contemAbout Golda Meir, ith British"
+          }
+        },
+        {
+          "v_id": "1924153808886",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808886,
+            "messageContent": "About Augustine of Hippo, glican Communion, he is a saint andAbout Lleyton Hewitt,  a current ATP ranki"
+          }
+        },
+        {
+          "v_id": "3573421671002",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3573421671002,
+            "messageContent": "About Yao Ming, al Basketball Association (NBA). At the time of his final season, he was the tallest active player i"
+          }
+        },
+        {
+          "v_id": "1924155025634",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924155025634,
+            "messageContent": "About Gil Kane, nvolved in such majoAbout Rembrandt, n was 203 at the 201About George W. Bush, rticle is about the Abou"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.644s
+user	0m1.194s
+sys	0m0.204s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "T": [
+        {
+          "v_id": "1093",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Yuvan_Shankar_Raja",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "1934",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Paradorn_Srichaphan",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "540",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Sammy_Sosa",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "564",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Carl_Gustaf_Emil_Mannerheim",
+            "postCount": 2
+          }
+        },
+        {
+          "v_id": "58",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "John_Howard",
+            "postCount": 2
+          }
+        },
+        {
+          "v_id": "4863",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "John_Rhys-Davies",
+            "postCount": 2
+          }
+        },
+        {
+          "v_id": "1410",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Muammar_Gaddafi",
+            "postCount": 2
+          }
+        },
+        {
+          "v_id": "8441",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "A_Little_South_of_Sanity",
+            "postCount": 1
+          }
+        },
+        {
+          "v_id": "127",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Alexander_Downer",
+            "postCount": 1
+          }
+        },
+        {
+          "v_id": "2846",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Alice_Cooper",
+            "postCount": 1
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 31
+    },
+    {
+      "M": [
+        {
+          "v_id": "3298543343563",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3298543343563,
+            "messageContent": "About Augustine of Hippo, so known as Augustine, St. Augustine, St. Austin, St. Augoustinos, Blessed Augustine, or St. Augustine the BlesseAbout Angelina Jolie,  She has received an Academy Award, two Screen Actors Guild Awar"
+          }
+        },
+        {
+          "v_id": "2199031714811",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2199031714811,
+            "messageContent": "About Augustine of Hippo, rthly City. His thoughts profoundlAbout Plato, as scattered through them."
+          }
+        },
+        {
+          "v_id": "2748784351504",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748784351504,
+            "messageContent": "About Kateryna Bondarenko, eld in Toronto, Canada, by beating Venus Williams, the third"
+          }
+        },
+        {
+          "v_id": "3848293563634",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3848293563634,
+            "messageContent": "About Slavoj Žižek, rkbeck InstituteAbout Emmylou Harris,  The Band, LindaAbout Shaolin vs. Wu"
+          }
+        },
+        {
+          "v_id": "2199032932917",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2199032932917,
+            "messageContent": "About Hamid Karzai, epublic of Afghanistan. About Pablo Picasso, evolutionary developmentAbout Franklin D. Roosevelt"
+          }
+        },
+        {
+          "v_id": "1649275901971",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649275901971,
+            "messageContent": "About Augustine of Hippo, nity. According to his contemAbout Golda Meir, ith British"
+          }
+        },
+        {
+          "v_id": "1924153808886",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808886,
+            "messageContent": "About Augustine of Hippo, glican Communion, he is a saint andAbout Lleyton Hewitt,  a current ATP ranki"
+          }
+        },
+        {
+          "v_id": "1924155025634",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924155025634,
+            "messageContent": "About Gil Kane, nvolved in such majoAbout Rembrandt, n was 203 at the 201About George W. Bush, rticle is about the Abou"
+          }
+        },
+        {
+          "v_id": "2473904074264",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2473904074264,
+            "messageContent": "About Augustine of Hippo, his early years he was heavily influenced by Manichaeism and afterward by"
+          }
+        },
+        {
+          "v_id": "3573421671002",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3573421671002,
+            "messageContent": "About Yao Ming, al Basketball Association (NBA). At the time of his final season, he was the tallest active player i"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.644s
+user	0m1.184s
+sys	0m0.187s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "T": [
+        {
+          "v_id": "1093",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Yuvan_Shankar_Raja",
+            "postCount": 4
+          }
+        },
+        {
+          "v_id": "1934",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Paradorn_Srichaphan",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "540",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Sammy_Sosa",
+            "postCount": 3
+          }
+        },
+        {
+          "v_id": "564",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Carl_Gustaf_Emil_Mannerheim",
+            "postCount": 2
+          }
+        },
+        {
+          "v_id": "58",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "John_Howard",
+            "postCount": 2
+          }
+        },
+        {
+          "v_id": "4863",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "John_Rhys-Davies",
+            "postCount": 2
+          }
+        },
+        {
+          "v_id": "1410",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Muammar_Gaddafi",
+            "postCount": 2
+          }
+        },
+        {
+          "v_id": "8441",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "A_Little_South_of_Sanity",
+            "postCount": 1
+          }
+        },
+        {
+          "v_id": "127",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Alexander_Downer",
+            "postCount": 1
+          }
+        },
+        {
+          "v_id": "2846",
+          "v_type": "Tag",
+          "attributes": {
+            "tagName": "Alice_Cooper",
+            "postCount": 1
+          }
+        }
+      ]
+    },
+    {
+      "PSet.size()": 31
+    },
+    {
+      "M": [
+        {
+          "v_id": "3573421671002",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3573421671002,
+            "messageContent": "About Yao Ming, al Basketball Association (NBA). At the time of his final season, he was the tallest active player i"
+          }
+        },
+        {
+          "v_id": "2199032932917",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2199032932917,
+            "messageContent": "About Hamid Karzai, epublic of Afghanistan. About Pablo Picasso, evolutionary developmentAbout Franklin D. Roosevelt"
+          }
+        },
+        {
+          "v_id": "3298543343563",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3298543343563,
+            "messageContent": "About Augustine of Hippo, so known as Augustine, St. Augustine, St. Austin, St. Augoustinos, Blessed Augustine, or St. Augustine the BlesseAbout Angelina Jolie,  She has received an Academy Award, two Screen Actors Guild Awar"
+          }
+        },
+        {
+          "v_id": "2199031714811",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2199031714811,
+            "messageContent": "About Augustine of Hippo, rthly City. His thoughts profoundlAbout Plato, as scattered through them."
+          }
+        },
+        {
+          "v_id": "2748784351504",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2748784351504,
+            "messageContent": "About Kateryna Bondarenko, eld in Toronto, Canada, by beating Venus Williams, the third"
+          }
+        },
+        {
+          "v_id": "3848293563634",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 3848293563634,
+            "messageContent": "About Slavoj Žižek, rkbeck InstituteAbout Emmylou Harris,  The Band, LindaAbout Shaolin vs. Wu"
+          }
+        },
+        {
+          "v_id": "2473904074264",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 2473904074264,
+            "messageContent": "About Augustine of Hippo, his early years he was heavily influenced by Manichaeism and afterward by"
+          }
+        },
+        {
+          "v_id": "1649275901971",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1649275901971,
+            "messageContent": "About Augustine of Hippo, nity. According to his contemAbout Golda Meir, ith British"
+          }
+        },
+        {
+          "v_id": "1924153808886",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808886,
+            "messageContent": "About Augustine of Hippo, glican Communion, he is a saint andAbout Lleyton Hewitt,  a current ATP ranki"
+          }
+        },
+        {
+          "v_id": "1924155025634",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924155025634,
+            "messageContent": "About Gil Kane, nvolved in such majoAbout Rembrandt, n was 203 at the 201About George W. Bush, rticle is about the Abou"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.681s
+user	0m1.239s
+sys	0m0.212s
+ic 9
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "M": [
+        {
+          "v_id": "3023661456327",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069777836,
+            "M.@personFirstName": "Steve",
+            "M.@personLastName": "Brown",
+            "messageId": 3023661456327,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215987695
+          }
+        },
+        {
+          "v_id": "3023662225626",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 4398046517803,
+            "M.@personFirstName": "Hector",
+            "M.@personLastName": "Rodriguez",
+            "messageId": 3023662225626,
+            "M.@messageContent": "About Herman Melville, 0s and never recovered during his lifAbout Ho Chi Minh, ies including Australia, New Zealand About Molière, Church, while Dom Juan was banned froAbout Julius",
+            "messageCreationDate": 1323215492128
+          }
+        },
+        {
+          "v_id": "3023661694581",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232574128,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Fernandez",
+            "messageId": 3023661694581,
+            "M.@messageContent": "great",
+            "messageCreationDate": 1323215137099
+          }
+        },
+        {
+          "v_id": "3023665625547",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 19791209318607,
+            "M.@personFirstName": "Gabriel",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023665625547,
+            "M.@messageContent": "no",
+            "messageCreationDate": 1323213902338
+          }
+        },
+        {
+          "v_id": "3023663179254",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 10995116296886,
+            "M.@personFirstName": "John",
+            "M.@personLastName": "Davis",
+            "messageId": 3023663179254,
+            "M.@messageContent": "maybe",
+            "messageCreationDate": 1323211678851
+          }
+        },
+        {
+          "v_id": "3023658607577",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023262539,
+            "M.@personFirstName": "Sergio",
+            "M.@personLastName": "Cardenas",
+            "messageId": 3023658607577,
+            "M.@messageContent": "photo3023658607577.jpg",
+            "messageCreationDate": 1323211676755
+          }
+        },
+        {
+          "v_id": "3023658607576",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023262539,
+            "M.@personFirstName": "Sergio",
+            "M.@personLastName": "Cardenas",
+            "messageId": 3023658607576,
+            "M.@messageContent": "photo3023658607576.jpg",
+            "messageCreationDate": 1323211675755
+          }
+        },
+        {
+          "v_id": "3023658607575",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023262539,
+            "M.@personFirstName": "Sergio",
+            "M.@personLastName": "Cardenas",
+            "messageId": 3023658607575,
+            "M.@messageContent": "photo3023658607575.jpg",
+            "messageCreationDate": 1323211674755
+          }
+        },
+        {
+          "v_id": "3023658607574",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023262539,
+            "M.@personFirstName": "Sergio",
+            "M.@personLastName": "Cardenas",
+            "messageId": 3023658607574,
+            "M.@messageContent": "photo3023658607574.jpg",
+            "messageCreationDate": 1323211673755
+          }
+        },
+        {
+          "v_id": "3023658163772",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162789345,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Alvarez",
+            "messageId": 3023658163772,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323210572389
+          }
+        },
+        {
+          "v_id": "3023657843534",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093033176,
+            "M.@personFirstName": "Manuel",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023657843534,
+            "M.@messageContent": "right",
+            "messageCreationDate": 1323208810950
+          }
+        },
+        {
+          "v_id": "3023661693869",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232574128,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Fernandez",
+            "messageId": 3023661693869,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323207165874
+          }
+        },
+        {
+          "v_id": "3023657674312",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17682,
+            "M.@personFirstName": "Robert",
+            "M.@personLastName": "Wilson",
+            "messageId": 3023657674312,
+            "M.@messageContent": "About Mohandas Karamchand Gandhi, rea between IAbout Nikolai Rimsky-Korsak",
+            "messageCreationDate": 1323207119979
+          }
+        },
+        {
+          "v_id": "3023663316964",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069777727,
+            "M.@personFirstName": "Adolfo",
+            "M.@personLastName": "Bravo",
+            "messageId": 3023663316964,
+            "M.@messageContent": "roflol",
+            "messageCreationDate": 1323206739641
+          }
+        },
+        {
+          "v_id": "3023669921687",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162808113,
+            "M.@personFirstName": "Bich Phuong",
+            "M.@personLastName": "Phan",
+            "messageId": 3023669921687,
+            "M.@messageContent": "duh",
+            "messageCreationDate": 1323206641769
+          }
+        },
+        {
+          "v_id": "3023661694033",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232574128,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Fernandez",
+            "messageId": 3023661694033,
+            "M.@messageContent": "About Paul Capdeville, e beat Austria's About Prince Philip, Duke of Edinburgh, g",
+            "messageCreationDate": 1323205652409
+          }
+        },
+        {
+          "v_id": "3023661693651",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232574128,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Fernandez",
+            "messageId": 3023661693651,
+            "M.@messageContent": "yes",
+            "messageCreationDate": 1323205637083
+          }
+        },
+        {
+          "v_id": "3023659826781",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069767045,
+            "M.@personFirstName": "Jose",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023659826781,
+            "M.@messageContent": "photo3023659826781.jpg",
+            "messageCreationDate": 1323205382273
+          }
+        },
+        {
+          "v_id": "3023659826780",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069767045,
+            "M.@personFirstName": "Jose",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023659826780,
+            "M.@messageContent": "photo3023659826780.jpg",
+            "messageCreationDate": 1323205381273
+          }
+        },
+        {
+          "v_id": "3023659826779",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069767045,
+            "M.@personFirstName": "Jose",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023659826779,
+            "M.@messageContent": "photo3023659826779.jpg",
+            "messageCreationDate": 1323205380273
+          }
+        }
+      ]
+    },
+    {
+      "M.size()": 20
+    },
+    {
+      "TopKM": [
+        {
+          "v_id": "3023663316964",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023663316964,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3023665625547",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023665625547,
+            "messageContent": "no"
+          }
+        },
+        {
+          "v_id": "3023657843534",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023657843534,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "3023661693869",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023661693869,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "3023669921687",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023669921687,
+            "messageContent": "duh"
+          }
+        },
+        {
+          "v_id": "3023661694033",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023661694033,
+            "messageContent": "About Paul Capdeville, e beat Austria's About Prince Philip, Duke of Edinburgh, g"
+          }
+        },
+        {
+          "v_id": "3023658163772",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023658163772,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "3023662225626",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023662225626,
+            "messageContent": "About Herman Melville, 0s and never recovered during his lifAbout Ho Chi Minh, ies including Australia, New Zealand About Molière, Church, while Dom Juan was banned froAbout Julius"
+          }
+        },
+        {
+          "v_id": "3023663179254",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023663179254,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "3023657674312",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023657674312,
+            "messageContent": "About Mohandas Karamchand Gandhi, rea between IAbout Nikolai Rimsky-Korsak"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.692s
+user	0m1.218s
+sys	0m0.217s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "M": [
+        {
+          "v_id": "3023661456327",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069777836,
+            "M.@personFirstName": "Steve",
+            "M.@personLastName": "Brown",
+            "messageId": 3023661456327,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215987695
+          }
+        },
+        {
+          "v_id": "3023662225626",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 4398046517803,
+            "M.@personFirstName": "Hector",
+            "M.@personLastName": "Rodriguez",
+            "messageId": 3023662225626,
+            "M.@messageContent": "About Herman Melville, 0s and never recovered during his lifAbout Ho Chi Minh, ies including Australia, New Zealand About Molière, Church, while Dom Juan was banned froAbout Julius",
+            "messageCreationDate": 1323215492128
+          }
+        },
+        {
+          "v_id": "3023661694581",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232574128,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Fernandez",
+            "messageId": 3023661694581,
+            "M.@messageContent": "great",
+            "messageCreationDate": 1323215137099
+          }
+        },
+        {
+          "v_id": "3023665625547",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 19791209318607,
+            "M.@personFirstName": "Gabriel",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023665625547,
+            "M.@messageContent": "no",
+            "messageCreationDate": 1323213902338
+          }
+        },
+        {
+          "v_id": "3023663179254",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 10995116296886,
+            "M.@personFirstName": "John",
+            "M.@personLastName": "Davis",
+            "messageId": 3023663179254,
+            "M.@messageContent": "maybe",
+            "messageCreationDate": 1323211678851
+          }
+        },
+        {
+          "v_id": "3023658607577",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023262539,
+            "M.@personFirstName": "Sergio",
+            "M.@personLastName": "Cardenas",
+            "messageId": 3023658607577,
+            "M.@messageContent": "photo3023658607577.jpg",
+            "messageCreationDate": 1323211676755
+          }
+        },
+        {
+          "v_id": "3023658607576",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023262539,
+            "M.@personFirstName": "Sergio",
+            "M.@personLastName": "Cardenas",
+            "messageId": 3023658607576,
+            "M.@messageContent": "photo3023658607576.jpg",
+            "messageCreationDate": 1323211675755
+          }
+        },
+        {
+          "v_id": "3023658607575",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023262539,
+            "M.@personFirstName": "Sergio",
+            "M.@personLastName": "Cardenas",
+            "messageId": 3023658607575,
+            "M.@messageContent": "photo3023658607575.jpg",
+            "messageCreationDate": 1323211674755
+          }
+        },
+        {
+          "v_id": "3023658607574",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023262539,
+            "M.@personFirstName": "Sergio",
+            "M.@personLastName": "Cardenas",
+            "messageId": 3023658607574,
+            "M.@messageContent": "photo3023658607574.jpg",
+            "messageCreationDate": 1323211673755
+          }
+        },
+        {
+          "v_id": "3023658163772",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162789345,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Alvarez",
+            "messageId": 3023658163772,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323210572389
+          }
+        },
+        {
+          "v_id": "3023657843534",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093033176,
+            "M.@personFirstName": "Manuel",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023657843534,
+            "M.@messageContent": "right",
+            "messageCreationDate": 1323208810950
+          }
+        },
+        {
+          "v_id": "3023661693869",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232574128,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Fernandez",
+            "messageId": 3023661693869,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323207165874
+          }
+        },
+        {
+          "v_id": "3023657674312",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17682,
+            "M.@personFirstName": "Robert",
+            "M.@personLastName": "Wilson",
+            "messageId": 3023657674312,
+            "M.@messageContent": "About Mohandas Karamchand Gandhi, rea between IAbout Nikolai Rimsky-Korsak",
+            "messageCreationDate": 1323207119979
+          }
+        },
+        {
+          "v_id": "3023663316964",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069777727,
+            "M.@personFirstName": "Adolfo",
+            "M.@personLastName": "Bravo",
+            "messageId": 3023663316964,
+            "M.@messageContent": "roflol",
+            "messageCreationDate": 1323206739641
+          }
+        },
+        {
+          "v_id": "3023669921687",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162808113,
+            "M.@personFirstName": "Bich Phuong",
+            "M.@personLastName": "Phan",
+            "messageId": 3023669921687,
+            "M.@messageContent": "duh",
+            "messageCreationDate": 1323206641769
+          }
+        },
+        {
+          "v_id": "3023661694033",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232574128,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Fernandez",
+            "messageId": 3023661694033,
+            "M.@messageContent": "About Paul Capdeville, e beat Austria's About Prince Philip, Duke of Edinburgh, g",
+            "messageCreationDate": 1323205652409
+          }
+        },
+        {
+          "v_id": "3023661693651",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232574128,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Fernandez",
+            "messageId": 3023661693651,
+            "M.@messageContent": "yes",
+            "messageCreationDate": 1323205637083
+          }
+        },
+        {
+          "v_id": "3023659826781",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069767045,
+            "M.@personFirstName": "Jose",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023659826781,
+            "M.@messageContent": "photo3023659826781.jpg",
+            "messageCreationDate": 1323205382273
+          }
+        },
+        {
+          "v_id": "3023659826780",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069767045,
+            "M.@personFirstName": "Jose",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023659826780,
+            "M.@messageContent": "photo3023659826780.jpg",
+            "messageCreationDate": 1323205381273
+          }
+        },
+        {
+          "v_id": "3023659826779",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069767045,
+            "M.@personFirstName": "Jose",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023659826779,
+            "M.@messageContent": "photo3023659826779.jpg",
+            "messageCreationDate": 1323205380273
+          }
+        }
+      ]
+    },
+    {
+      "M.size()": 20
+    },
+    {
+      "TopKM": [
+        {
+          "v_id": "3023663316964",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023663316964,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3023661694033",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023661694033,
+            "messageContent": "About Paul Capdeville, e beat Austria's About Prince Philip, Duke of Edinburgh, g"
+          }
+        },
+        {
+          "v_id": "3023658163772",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023658163772,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "3023665625547",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023665625547,
+            "messageContent": "no"
+          }
+        },
+        {
+          "v_id": "3023657843534",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023657843534,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "3023661693869",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023661693869,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "3023669921687",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023669921687,
+            "messageContent": "duh"
+          }
+        },
+        {
+          "v_id": "3023662225626",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023662225626,
+            "messageContent": "About Herman Melville, 0s and never recovered during his lifAbout Ho Chi Minh, ies including Australia, New Zealand About Molière, Church, while Dom Juan was banned froAbout Julius"
+          }
+        },
+        {
+          "v_id": "3023663179254",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023663179254,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "3023657674312",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023657674312,
+            "messageContent": "About Mohandas Karamchand Gandhi, rea between IAbout Nikolai Rimsky-Korsak"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.650s
+user	0m1.197s
+sys	0m0.192s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "M": [
+        {
+          "v_id": "3023661456327",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069777836,
+            "M.@personFirstName": "Steve",
+            "M.@personLastName": "Brown",
+            "messageId": 3023661456327,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215987695
+          }
+        },
+        {
+          "v_id": "3023662225626",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 4398046517803,
+            "M.@personFirstName": "Hector",
+            "M.@personLastName": "Rodriguez",
+            "messageId": 3023662225626,
+            "M.@messageContent": "About Herman Melville, 0s and never recovered during his lifAbout Ho Chi Minh, ies including Australia, New Zealand About Molière, Church, while Dom Juan was banned froAbout Julius",
+            "messageCreationDate": 1323215492128
+          }
+        },
+        {
+          "v_id": "3023661694581",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232574128,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Fernandez",
+            "messageId": 3023661694581,
+            "M.@messageContent": "great",
+            "messageCreationDate": 1323215137099
+          }
+        },
+        {
+          "v_id": "3023665625547",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 19791209318607,
+            "M.@personFirstName": "Gabriel",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023665625547,
+            "M.@messageContent": "no",
+            "messageCreationDate": 1323213902338
+          }
+        },
+        {
+          "v_id": "3023663179254",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 10995116296886,
+            "M.@personFirstName": "John",
+            "M.@personLastName": "Davis",
+            "messageId": 3023663179254,
+            "M.@messageContent": "maybe",
+            "messageCreationDate": 1323211678851
+          }
+        },
+        {
+          "v_id": "3023658607577",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023262539,
+            "M.@personFirstName": "Sergio",
+            "M.@personLastName": "Cardenas",
+            "messageId": 3023658607577,
+            "M.@messageContent": "photo3023658607577.jpg",
+            "messageCreationDate": 1323211676755
+          }
+        },
+        {
+          "v_id": "3023658607576",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023262539,
+            "M.@personFirstName": "Sergio",
+            "M.@personLastName": "Cardenas",
+            "messageId": 3023658607576,
+            "M.@messageContent": "photo3023658607576.jpg",
+            "messageCreationDate": 1323211675755
+          }
+        },
+        {
+          "v_id": "3023658607575",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023262539,
+            "M.@personFirstName": "Sergio",
+            "M.@personLastName": "Cardenas",
+            "messageId": 3023658607575,
+            "M.@messageContent": "photo3023658607575.jpg",
+            "messageCreationDate": 1323211674755
+          }
+        },
+        {
+          "v_id": "3023658607574",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023262539,
+            "M.@personFirstName": "Sergio",
+            "M.@personLastName": "Cardenas",
+            "messageId": 3023658607574,
+            "M.@messageContent": "photo3023658607574.jpg",
+            "messageCreationDate": 1323211673755
+          }
+        },
+        {
+          "v_id": "3023658163772",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162789345,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Alvarez",
+            "messageId": 3023658163772,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323210572389
+          }
+        },
+        {
+          "v_id": "3023657843534",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093033176,
+            "M.@personFirstName": "Manuel",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023657843534,
+            "M.@messageContent": "right",
+            "messageCreationDate": 1323208810950
+          }
+        },
+        {
+          "v_id": "3023661693869",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232574128,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Fernandez",
+            "messageId": 3023661693869,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323207165874
+          }
+        },
+        {
+          "v_id": "3023657674312",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17682,
+            "M.@personFirstName": "Robert",
+            "M.@personLastName": "Wilson",
+            "messageId": 3023657674312,
+            "M.@messageContent": "About Mohandas Karamchand Gandhi, rea between IAbout Nikolai Rimsky-Korsak",
+            "messageCreationDate": 1323207119979
+          }
+        },
+        {
+          "v_id": "3023663316964",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069777727,
+            "M.@personFirstName": "Adolfo",
+            "M.@personLastName": "Bravo",
+            "messageId": 3023663316964,
+            "M.@messageContent": "roflol",
+            "messageCreationDate": 1323206739641
+          }
+        },
+        {
+          "v_id": "3023669921687",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162808113,
+            "M.@personFirstName": "Bich Phuong",
+            "M.@personLastName": "Phan",
+            "messageId": 3023669921687,
+            "M.@messageContent": "duh",
+            "messageCreationDate": 1323206641769
+          }
+        },
+        {
+          "v_id": "3023661694033",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232574128,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Fernandez",
+            "messageId": 3023661694033,
+            "M.@messageContent": "About Paul Capdeville, e beat Austria's About Prince Philip, Duke of Edinburgh, g",
+            "messageCreationDate": 1323205652409
+          }
+        },
+        {
+          "v_id": "3023661693651",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232574128,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Fernandez",
+            "messageId": 3023661693651,
+            "M.@messageContent": "yes",
+            "messageCreationDate": 1323205637083
+          }
+        },
+        {
+          "v_id": "3023659826781",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069767045,
+            "M.@personFirstName": "Jose",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023659826781,
+            "M.@messageContent": "photo3023659826781.jpg",
+            "messageCreationDate": 1323205382273
+          }
+        },
+        {
+          "v_id": "3023659826780",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069767045,
+            "M.@personFirstName": "Jose",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023659826780,
+            "M.@messageContent": "photo3023659826780.jpg",
+            "messageCreationDate": 1323205381273
+          }
+        },
+        {
+          "v_id": "3023659826779",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069767045,
+            "M.@personFirstName": "Jose",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023659826779,
+            "M.@messageContent": "photo3023659826779.jpg",
+            "messageCreationDate": 1323205380273
+          }
+        }
+      ]
+    },
+    {
+      "M.size()": 20
+    },
+    {
+      "TopKM": [
+        {
+          "v_id": "3023661693869",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023661693869,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "3023663316964",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023663316964,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3023657674312",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023657674312,
+            "messageContent": "About Mohandas Karamchand Gandhi, rea between IAbout Nikolai Rimsky-Korsak"
+          }
+        },
+        {
+          "v_id": "3023662225626",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023662225626,
+            "messageContent": "About Herman Melville, 0s and never recovered during his lifAbout Ho Chi Minh, ies including Australia, New Zealand About Molière, Church, while Dom Juan was banned froAbout Julius"
+          }
+        },
+        {
+          "v_id": "3023663179254",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023663179254,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "3023665625547",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023665625547,
+            "messageContent": "no"
+          }
+        },
+        {
+          "v_id": "3023657843534",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023657843534,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "3023661694033",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023661694033,
+            "messageContent": "About Paul Capdeville, e beat Austria's About Prince Philip, Duke of Edinburgh, g"
+          }
+        },
+        {
+          "v_id": "3023658163772",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023658163772,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "3023669921687",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023669921687,
+            "messageContent": "duh"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.636s
+user	0m1.175s
+sys	0m0.190s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "M": [
+        {
+          "v_id": "3023661456327",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069777836,
+            "M.@personFirstName": "Steve",
+            "M.@personLastName": "Brown",
+            "messageId": 3023661456327,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215987695
+          }
+        },
+        {
+          "v_id": "3023662225626",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 4398046517803,
+            "M.@personFirstName": "Hector",
+            "M.@personLastName": "Rodriguez",
+            "messageId": 3023662225626,
+            "M.@messageContent": "About Herman Melville, 0s and never recovered during his lifAbout Ho Chi Minh, ies including Australia, New Zealand About Molière, Church, while Dom Juan was banned froAbout Julius",
+            "messageCreationDate": 1323215492128
+          }
+        },
+        {
+          "v_id": "3023661694581",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232574128,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Fernandez",
+            "messageId": 3023661694581,
+            "M.@messageContent": "great",
+            "messageCreationDate": 1323215137099
+          }
+        },
+        {
+          "v_id": "3023665625547",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 19791209318607,
+            "M.@personFirstName": "Gabriel",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023665625547,
+            "M.@messageContent": "no",
+            "messageCreationDate": 1323213902338
+          }
+        },
+        {
+          "v_id": "3023663179254",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 10995116296886,
+            "M.@personFirstName": "John",
+            "M.@personLastName": "Davis",
+            "messageId": 3023663179254,
+            "M.@messageContent": "maybe",
+            "messageCreationDate": 1323211678851
+          }
+        },
+        {
+          "v_id": "3023658607577",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023262539,
+            "M.@personFirstName": "Sergio",
+            "M.@personLastName": "Cardenas",
+            "messageId": 3023658607577,
+            "M.@messageContent": "photo3023658607577.jpg",
+            "messageCreationDate": 1323211676755
+          }
+        },
+        {
+          "v_id": "3023658607576",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023262539,
+            "M.@personFirstName": "Sergio",
+            "M.@personLastName": "Cardenas",
+            "messageId": 3023658607576,
+            "M.@messageContent": "photo3023658607576.jpg",
+            "messageCreationDate": 1323211675755
+          }
+        },
+        {
+          "v_id": "3023658607575",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023262539,
+            "M.@personFirstName": "Sergio",
+            "M.@personLastName": "Cardenas",
+            "messageId": 3023658607575,
+            "M.@messageContent": "photo3023658607575.jpg",
+            "messageCreationDate": 1323211674755
+          }
+        },
+        {
+          "v_id": "3023658607574",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023262539,
+            "M.@personFirstName": "Sergio",
+            "M.@personLastName": "Cardenas",
+            "messageId": 3023658607574,
+            "M.@messageContent": "photo3023658607574.jpg",
+            "messageCreationDate": 1323211673755
+          }
+        },
+        {
+          "v_id": "3023658163772",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162789345,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Alvarez",
+            "messageId": 3023658163772,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323210572389
+          }
+        },
+        {
+          "v_id": "3023657843534",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093033176,
+            "M.@personFirstName": "Manuel",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023657843534,
+            "M.@messageContent": "right",
+            "messageCreationDate": 1323208810950
+          }
+        },
+        {
+          "v_id": "3023661693869",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232574128,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Fernandez",
+            "messageId": 3023661693869,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323207165874
+          }
+        },
+        {
+          "v_id": "3023657674312",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17682,
+            "M.@personFirstName": "Robert",
+            "M.@personLastName": "Wilson",
+            "messageId": 3023657674312,
+            "M.@messageContent": "About Mohandas Karamchand Gandhi, rea between IAbout Nikolai Rimsky-Korsak",
+            "messageCreationDate": 1323207119979
+          }
+        },
+        {
+          "v_id": "3023663316964",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069777727,
+            "M.@personFirstName": "Adolfo",
+            "M.@personLastName": "Bravo",
+            "messageId": 3023663316964,
+            "M.@messageContent": "roflol",
+            "messageCreationDate": 1323206739641
+          }
+        },
+        {
+          "v_id": "3023669921687",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162808113,
+            "M.@personFirstName": "Bich Phuong",
+            "M.@personLastName": "Phan",
+            "messageId": 3023669921687,
+            "M.@messageContent": "duh",
+            "messageCreationDate": 1323206641769
+          }
+        },
+        {
+          "v_id": "3023661694033",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232574128,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Fernandez",
+            "messageId": 3023661694033,
+            "M.@messageContent": "About Paul Capdeville, e beat Austria's About Prince Philip, Duke of Edinburgh, g",
+            "messageCreationDate": 1323205652409
+          }
+        },
+        {
+          "v_id": "3023661693651",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232574128,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Fernandez",
+            "messageId": 3023661693651,
+            "M.@messageContent": "yes",
+            "messageCreationDate": 1323205637083
+          }
+        },
+        {
+          "v_id": "3023659826781",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069767045,
+            "M.@personFirstName": "Jose",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023659826781,
+            "M.@messageContent": "photo3023659826781.jpg",
+            "messageCreationDate": 1323205382273
+          }
+        },
+        {
+          "v_id": "3023659826780",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069767045,
+            "M.@personFirstName": "Jose",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023659826780,
+            "M.@messageContent": "photo3023659826780.jpg",
+            "messageCreationDate": 1323205381273
+          }
+        },
+        {
+          "v_id": "3023659826779",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069767045,
+            "M.@personFirstName": "Jose",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023659826779,
+            "M.@messageContent": "photo3023659826779.jpg",
+            "messageCreationDate": 1323205380273
+          }
+        }
+      ]
+    },
+    {
+      "M.size()": 20
+    },
+    {
+      "TopKM": [
+        {
+          "v_id": "3023665625547",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023665625547,
+            "messageContent": "no"
+          }
+        },
+        {
+          "v_id": "3023657843534",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023657843534,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "3023661694033",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023661694033,
+            "messageContent": "About Paul Capdeville, e beat Austria's About Prince Philip, Duke of Edinburgh, g"
+          }
+        },
+        {
+          "v_id": "3023658163772",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023658163772,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "3023661693869",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023661693869,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "3023657674312",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023657674312,
+            "messageContent": "About Mohandas Karamchand Gandhi, rea between IAbout Nikolai Rimsky-Korsak"
+          }
+        },
+        {
+          "v_id": "3023669921687",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023669921687,
+            "messageContent": "duh"
+          }
+        },
+        {
+          "v_id": "3023662225626",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023662225626,
+            "messageContent": "About Herman Melville, 0s and never recovered during his lifAbout Ho Chi Minh, ies including Australia, New Zealand About Molière, Church, while Dom Juan was banned froAbout Julius"
+          }
+        },
+        {
+          "v_id": "3023663179254",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023663179254,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "3023663316964",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023663316964,
+            "messageContent": "roflol"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.649s
+user	0m1.202s
+sys	0m0.196s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "M": [
+        {
+          "v_id": "3023661456327",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069777836,
+            "M.@personFirstName": "Steve",
+            "M.@personLastName": "Brown",
+            "messageId": 3023661456327,
+            "M.@messageContent": "good",
+            "messageCreationDate": 1323215987695
+          }
+        },
+        {
+          "v_id": "3023662225626",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 4398046517803,
+            "M.@personFirstName": "Hector",
+            "M.@personLastName": "Rodriguez",
+            "messageId": 3023662225626,
+            "M.@messageContent": "About Herman Melville, 0s and never recovered during his lifAbout Ho Chi Minh, ies including Australia, New Zealand About Molière, Church, while Dom Juan was banned froAbout Julius",
+            "messageCreationDate": 1323215492128
+          }
+        },
+        {
+          "v_id": "3023661694581",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232574128,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Fernandez",
+            "messageId": 3023661694581,
+            "M.@messageContent": "great",
+            "messageCreationDate": 1323215137099
+          }
+        },
+        {
+          "v_id": "3023665625547",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 19791209318607,
+            "M.@personFirstName": "Gabriel",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023665625547,
+            "M.@messageContent": "no",
+            "messageCreationDate": 1323213902338
+          }
+        },
+        {
+          "v_id": "3023663179254",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 10995116296886,
+            "M.@personFirstName": "John",
+            "M.@personLastName": "Davis",
+            "messageId": 3023663179254,
+            "M.@messageContent": "maybe",
+            "messageCreationDate": 1323211678851
+          }
+        },
+        {
+          "v_id": "3023658607577",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023262539,
+            "M.@personFirstName": "Sergio",
+            "M.@personLastName": "Cardenas",
+            "messageId": 3023658607577,
+            "M.@messageContent": "photo3023658607577.jpg",
+            "messageCreationDate": 1323211676755
+          }
+        },
+        {
+          "v_id": "3023658607576",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023262539,
+            "M.@personFirstName": "Sergio",
+            "M.@personLastName": "Cardenas",
+            "messageId": 3023658607576,
+            "M.@messageContent": "photo3023658607576.jpg",
+            "messageCreationDate": 1323211675755
+          }
+        },
+        {
+          "v_id": "3023658607575",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023262539,
+            "M.@personFirstName": "Sergio",
+            "M.@personLastName": "Cardenas",
+            "messageId": 3023658607575,
+            "M.@messageContent": "photo3023658607575.jpg",
+            "messageCreationDate": 1323211674755
+          }
+        },
+        {
+          "v_id": "3023658607574",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 2199023262539,
+            "M.@personFirstName": "Sergio",
+            "M.@personLastName": "Cardenas",
+            "messageId": 3023658607574,
+            "M.@messageContent": "photo3023658607574.jpg",
+            "messageCreationDate": 1323211673755
+          }
+        },
+        {
+          "v_id": "3023658163772",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162789345,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Alvarez",
+            "messageId": 3023658163772,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323210572389
+          }
+        },
+        {
+          "v_id": "3023657843534",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 8796093033176,
+            "M.@personFirstName": "Manuel",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023657843534,
+            "M.@messageContent": "right",
+            "messageCreationDate": 1323208810950
+          }
+        },
+        {
+          "v_id": "3023661693869",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232574128,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Fernandez",
+            "messageId": 3023661693869,
+            "M.@messageContent": "I see",
+            "messageCreationDate": 1323207165874
+          }
+        },
+        {
+          "v_id": "3023657674312",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 17682,
+            "M.@personFirstName": "Robert",
+            "M.@personLastName": "Wilson",
+            "messageId": 3023657674312,
+            "M.@messageContent": "About Mohandas Karamchand Gandhi, rea between IAbout Nikolai Rimsky-Korsak",
+            "messageCreationDate": 1323207119979
+          }
+        },
+        {
+          "v_id": "3023663316964",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 6597069777727,
+            "M.@personFirstName": "Adolfo",
+            "M.@personLastName": "Bravo",
+            "messageId": 3023663316964,
+            "M.@messageContent": "roflol",
+            "messageCreationDate": 1323206739641
+          }
+        },
+        {
+          "v_id": "3023669921687",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 15393162808113,
+            "M.@personFirstName": "Bich Phuong",
+            "M.@personLastName": "Phan",
+            "messageId": 3023669921687,
+            "M.@messageContent": "duh",
+            "messageCreationDate": 1323206641769
+          }
+        },
+        {
+          "v_id": "3023661694033",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232574128,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Fernandez",
+            "messageId": 3023661694033,
+            "M.@messageContent": "About Paul Capdeville, e beat Austria's About Prince Philip, Duke of Edinburgh, g",
+            "messageCreationDate": 1323205652409
+          }
+        },
+        {
+          "v_id": "3023661693651",
+          "v_type": "Comment",
+          "attributes": {
+            "M.@personId": 21990232574128,
+            "M.@personFirstName": "Jorge",
+            "M.@personLastName": "Fernandez",
+            "messageId": 3023661693651,
+            "M.@messageContent": "yes",
+            "messageCreationDate": 1323205637083
+          }
+        },
+        {
+          "v_id": "3023659826781",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069767045,
+            "M.@personFirstName": "Jose",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023659826781,
+            "M.@messageContent": "photo3023659826781.jpg",
+            "messageCreationDate": 1323205382273
+          }
+        },
+        {
+          "v_id": "3023659826780",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069767045,
+            "M.@personFirstName": "Jose",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023659826780,
+            "M.@messageContent": "photo3023659826780.jpg",
+            "messageCreationDate": 1323205381273
+          }
+        },
+        {
+          "v_id": "3023659826779",
+          "v_type": "Post",
+          "attributes": {
+            "M.@personId": 6597069767045,
+            "M.@personFirstName": "Jose",
+            "M.@personLastName": "Gonzalez",
+            "messageId": 3023659826779,
+            "M.@messageContent": "photo3023659826779.jpg",
+            "messageCreationDate": 1323205380273
+          }
+        }
+      ]
+    },
+    {
+      "M.size()": 20
+    },
+    {
+      "TopKM": [
+        {
+          "v_id": "3023661693869",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023661693869,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "3023669921687",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023669921687,
+            "messageContent": "duh"
+          }
+        },
+        {
+          "v_id": "3023662225626",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023662225626,
+            "messageContent": "About Herman Melville, 0s and never recovered during his lifAbout Ho Chi Minh, ies including Australia, New Zealand About Molière, Church, while Dom Juan was banned froAbout Julius"
+          }
+        },
+        {
+          "v_id": "3023663179254",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023663179254,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "3023663316964",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023663316964,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3023665625547",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023665625547,
+            "messageContent": "no"
+          }
+        },
+        {
+          "v_id": "3023657843534",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023657843534,
+            "messageContent": "right"
+          }
+        },
+        {
+          "v_id": "3023661694033",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023661694033,
+            "messageContent": "About Paul Capdeville, e beat Austria's About Prince Philip, Duke of Edinburgh, g"
+          }
+        },
+        {
+          "v_id": "3023658163772",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023658163772,
+            "messageContent": "I see"
+          }
+        },
+        {
+          "v_id": "3023657674312",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3023657674312,
+            "messageContent": "About Mohandas Karamchand Gandhi, rea between IAbout Nikolai Rimsky-Korsak"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.630s
+user	0m1.171s
+sys	0m0.192s
+ic 11
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "P": []
+    },
+    {
+      "MSet.size()": 0
+    },
+    {
+      "M": [
+        {
+          "v_id": "4123178413428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123178413428,
+            "messageContent": "fine"
+          }
+        },
+        {
+          "v_id": "4672928989428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672928989428,
+            "messageContent": "About B.B. King,  stage name B.B. King, is an American About Paul McCartney"
+          }
+        },
+        {
+          "v_id": "4672938065188",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672938065188,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4398048749740",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398048749740,
+            "messageContent": "About Augustine of Hippo, relius Augustinus Hipponensis; November 13, 354 – August About Saddam Hussein, pable o"
+          }
+        },
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        },
+        {
+          "v_id": "4123169557749",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123169557749,
+            "messageContent": "About America the Beautiful, a the Beautiful. The song is one of the most beloved andAbout Burnt Weeny Sandwich"
+          }
+        },
+        {
+          "v_id": "3573421437971",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573421437971,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "4398060843004",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398060843004,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298540409090",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298540409090,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298541003900",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298541003900,
+            "messageContent": "thanks"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.620s
+user	0m1.145s
+sys	0m0.179s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "P": []
+    },
+    {
+      "MSet.size()": 0
+    },
+    {
+      "M": [
+        {
+          "v_id": "4672928989428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672928989428,
+            "messageContent": "About B.B. King,  stage name B.B. King, is an American About Paul McCartney"
+          }
+        },
+        {
+          "v_id": "4398060843004",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398060843004,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298540409090",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298540409090,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298541003900",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298541003900,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4398048749740",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398048749740,
+            "messageContent": "About Augustine of Hippo, relius Augustinus Hipponensis; November 13, 354 – August About Saddam Hussein, pable o"
+          }
+        },
+        {
+          "v_id": "4123169557749",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123169557749,
+            "messageContent": "About America the Beautiful, a the Beautiful. The song is one of the most beloved andAbout Burnt Weeny Sandwich"
+          }
+        },
+        {
+          "v_id": "3573421437971",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573421437971,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "4123178413428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123178413428,
+            "messageContent": "fine"
+          }
+        },
+        {
+          "v_id": "4672938065188",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672938065188,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.611s
+user	0m1.151s
+sys	0m0.165s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "P": []
+    },
+    {
+      "MSet.size()": 0
+    },
+    {
+      "M": [
+        {
+          "v_id": "4672928989428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672928989428,
+            "messageContent": "About B.B. King,  stage name B.B. King, is an American About Paul McCartney"
+          }
+        },
+        {
+          "v_id": "3298540409090",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298540409090,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298541003900",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298541003900,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "3573421437971",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573421437971,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "4123178413428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123178413428,
+            "messageContent": "fine"
+          }
+        },
+        {
+          "v_id": "4123169557749",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123169557749,
+            "messageContent": "About America the Beautiful, a the Beautiful. The song is one of the most beloved andAbout Burnt Weeny Sandwich"
+          }
+        },
+        {
+          "v_id": "4672938065188",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672938065188,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4398048749740",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398048749740,
+            "messageContent": "About Augustine of Hippo, relius Augustinus Hipponensis; November 13, 354 – August About Saddam Hussein, pable o"
+          }
+        },
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        },
+        {
+          "v_id": "4398060843004",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398060843004,
+            "messageContent": "roflol"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.603s
+user	0m1.140s
+sys	0m0.170s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "P": []
+    },
+    {
+      "MSet.size()": 0
+    },
+    {
+      "M": [
+        {
+          "v_id": "4123178413428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123178413428,
+            "messageContent": "fine"
+          }
+        },
+        {
+          "v_id": "4672928989428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672928989428,
+            "messageContent": "About B.B. King,  stage name B.B. King, is an American About Paul McCartney"
+          }
+        },
+        {
+          "v_id": "4398048749740",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398048749740,
+            "messageContent": "About Augustine of Hippo, relius Augustinus Hipponensis; November 13, 354 – August About Saddam Hussein, pable o"
+          }
+        },
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        },
+        {
+          "v_id": "4672938065188",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672938065188,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4123169557749",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123169557749,
+            "messageContent": "About America the Beautiful, a the Beautiful. The song is one of the most beloved andAbout Burnt Weeny Sandwich"
+          }
+        },
+        {
+          "v_id": "3573421437971",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573421437971,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "4398060843004",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398060843004,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298540409090",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298540409090,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298541003900",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298541003900,
+            "messageContent": "thanks"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.601s
+user	0m1.157s
+sys	0m0.179s
+Using graph 'ldbc_snb'
+{
+  "version": {
+    "edition": "enterprise",
+    "api": "v2",
+    "schema": 0
+  },
+  "error": false,
+  "message": "",
+  "results": [
+    {
+      "P": []
+    },
+    {
+      "MSet.size()": 0
+    },
+    {
+      "M": [
+        {
+          "v_id": "4672938065188",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672938065188,
+            "messageContent": "thanks"
+          }
+        },
+        {
+          "v_id": "4398048749740",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 4398048749740,
+            "messageContent": "About Augustine of Hippo, relius Augustinus Hipponensis; November 13, 354 – August About Saddam Hussein, pable o"
+          }
+        },
+        {
+          "v_id": "4123178413428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123178413428,
+            "messageContent": "fine"
+          }
+        },
+        {
+          "v_id": "4672928989428",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4672928989428,
+            "messageContent": "About B.B. King,  stage name B.B. King, is an American About Paul McCartney"
+          }
+        },
+        {
+          "v_id": "3573421437971",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3573421437971,
+            "messageContent": "maybe"
+          }
+        },
+        {
+          "v_id": "1924153808908",
+          "v_type": "Post",
+          "attributes": {
+            "messageId": 1924153808908,
+            "messageContent": "About Augustine of Hippo, e ancient Faith. In his early years he was heavily influenced by Manichaeism and afterward by the NeoAbout What Goes Around... Comes Around, Around (known as What Goes Around."
+          }
+        },
+        {
+          "v_id": "4123169557749",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4123169557749,
+            "messageContent": "About America the Beautiful, a the Beautiful. The song is one of the most beloved andAbout Burnt Weeny Sandwich"
+          }
+        },
+        {
+          "v_id": "4398060843004",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 4398060843004,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298540409090",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298540409090,
+            "messageContent": "roflol"
+          }
+        },
+        {
+          "v_id": "3298541003900",
+          "v_type": "Comment",
+          "attributes": {
+            "messageId": 3298541003900,
+            "messageContent": "thanks"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+real	0m0.617s
+user	0m1.171s
+sys	0m0.189s
